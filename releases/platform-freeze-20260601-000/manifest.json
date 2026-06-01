@@ -1,0 +1,39 @@
+{
+  "release_id": "platform-freeze-20260601-000",
+  "environment": "dev",
+  "created_at": "2026-06-01T17:37:13.475796Z",
+  "generated_by": {
+    "repo": "brt-rj/brt-release",
+    "sha": "0f0417a214905f61f2007f161b4b562b1f558375"
+  },
+  "platform_services": {
+    "brt-infra": {
+      "repo": "brt-rj/brt-infra",
+      "sha": "bdf7263dfe5efff32df2b0cc39057ed465fba382",
+      "tag": "platform-freeze-20260601-000"
+    },
+    "brt-datagen": {
+      "repo": "brt-rj/brt-datagen",
+      "sha": "ac4e97e170345841474add3668e101b643773208",
+      "tag": "platform-freeze-20260601-000"
+    },
+    "brt-airflow": {
+      "repo": "brt-rj/brt-airflow",
+      "sha": "03eaebb632d3d5ded2a0c1c648f2bcd95b9548f4",
+      "tag": "platform-freeze-20260601-000"
+    },
+    "brt-dbt": {
+      "repo": "brt-rj/brt-dbt",
+      "sha": "2bc75f3f770451e64a4bb7e88ba76cfdd0b3f262",
+      "tag": "platform-freeze-20260601-000"
+    }
+  },
+  "use_cases": {
+    "synthetic-saas-analytics-platform": {
+      "repo": "brt-rj/synthetic-saas-analytics-platform",
+      "sha": "eaa32dcc97d48f3c7ea475fce4d9d53a2f1ec639",
+      "tag": "platform-freeze-20260601-000"
+    }
+  },
+  "consumers": {}
+}
