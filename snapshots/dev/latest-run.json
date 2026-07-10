@@ -1,39 +1,37 @@
 {
-  "release_id": "platform-freeze-20260601-000",
+  "release_id": "dev-20260710-013",
   "environment": "dev",
-  "status": "unknown",
-  "generated_at": "2026-07-10T05:00:59.344253Z",
+  "status": "succeeded",
+  "generated_at": "2026-07-10T07:51:02.049040Z",
+  "finished_at": "2026-07-10T07:51:02.049040Z",
   "generated_by": {
-    "repo": "brt-rj/brt-release",
-    "sha": "0f0417a214905f61f2007f161b4b562b1f558375"
+    "repo": "brt-rj/brt-ork",
+    "sha": "27434114dacf830b14939621fe2a1d43ecea57ce"
   },
+  "workflow_run_id": "29077517241",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29077517241",
   "platform_services": {
-    "brt-infra": {
-      "repo": "brt-rj/brt-infra",
-      "sha": "bdf7263dfe5efff32df2b0cc39057ed465fba382",
-      "status": "unknown"
-    },
-    "brt-datagen": {
-      "repo": "brt-rj/brt-datagen",
-      "sha": "ac4e97e170345841474add3668e101b643773208",
-      "status": "unknown"
-    },
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
-      "sha": "03eaebb632d3d5ded2a0c1c648f2bcd95b9548f4",
-      "status": "unknown"
+      "sha": "8cb0cf0f3d410811b09418bbc1a39cc8c52d60c0",
+      "status": "succeeded"
     },
     "brt-dbt": {
       "repo": "brt-rj/brt-dbt",
-      "sha": "2bc75f3f770451e64a4bb7e88ba76cfdd0b3f262",
-      "status": "unknown"
+      "sha": "23b4c9c9652b9322ede4b1d8a1932f1906fb49c1",
+      "status": "succeeded"
+    },
+    "brt-infra": {
+      "repo": "brt-rj/brt-infra",
+      "sha": "49744d2d9275f6348bb606e4c1fb07cf24b49880",
+      "status": "succeeded"
     }
   },
   "use_cases": {
-    "synthetic-saas-analytics-platform": {
-      "repo": "brt-rj/synthetic-saas-analytics-platform",
-      "sha": "eaa32dcc97d48f3c7ea475fce4d9d53a2f1ec639",
-      "status": "unknown"
+    "HypeCheck": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "0bb8643c17ec96b17c4ad7b4a3397c18e061f0c6",
+      "status": "succeeded"
     }
   },
   "consumers": {}
