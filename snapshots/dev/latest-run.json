@@ -2,8 +2,8 @@
   "release_id": "dev-20260710-014",
   "environment": "dev",
   "status": "failed",
-  "generated_at": "2026-07-10T08:02:43.651630Z",
-  "finished_at": "2026-07-10T08:02:43.651630Z",
+  "generated_at": "2026-07-10T08:04:34.068368Z",
+  "finished_at": "2026-07-10T08:04:34.068368Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
     "sha": "27434114dacf830b14939621fe2a1d43ecea57ce"
@@ -27,6 +27,12 @@
       "status": "unknown"
     }
   },
-  "use_cases": {},
+  "use_cases": {
+    "brt-train": {
+      "repo": "brt-rj/brt-train",
+      "sha": "9ee0058505a50695b839f7f8059d053b70dbeeeb",
+      "status": "failed"
+    }
+  },
   "consumers": {}
 }
