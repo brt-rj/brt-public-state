@@ -1,15 +1,15 @@
 {
-  "release_id": "dev-20260711-029",
+  "release_id": "dev-20260711-030",
   "environment": "dev",
   "status": "succeeded",
-  "generated_at": "2026-07-11T05:36:09.687028Z",
-  "finished_at": "2026-07-11T05:36:09.687028Z",
+  "generated_at": "2026-07-11T07:39:15.580575Z",
+  "finished_at": "2026-07-11T07:39:15.580575Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
     "sha": "3223718b70460e8906f69f25cfb87029caeadda4"
   },
-  "workflow_run_id": "29141255262",
-  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29141255262",
+  "workflow_run_id": "29144625166",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29144625166",
   "platform_services": {
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
@@ -30,7 +30,7 @@
   "use_cases": {
     "HypeCheck": {
       "repo": "brt-rj/HypeCheck",
-      "sha": "0bb8643c17ec96b17c4ad7b4a3397c18e061f0c6",
+      "sha": "15dc80a37b33f6872ff23e58ad826da299891bfa",
       "status": "succeeded"
     }
   },
