@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260714-037",
+    "environment": "dev",
+    "status": "failed",
+    "finished_at": "2026-07-14T10:50:36.204053+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29326280023",
+    "project": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "15dc80a37b33f6872ff23e58ad826da299891bfa",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260713-036",
     "environment": "dev",
     "status": "succeeded",
