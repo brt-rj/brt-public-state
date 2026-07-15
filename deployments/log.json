@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260715-042",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-07-15T07:30:08.648466+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29396959828",
+    "project": {
+      "repo": "brt-rj/triangulate",
+      "sha": "7633cc87011567c5e6609e9e4d8bfb96e1da0a98",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260715-041",
     "environment": "dev",
     "status": "failed",
