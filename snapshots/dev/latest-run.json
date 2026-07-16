@@ -1,19 +1,19 @@
 {
-  "release_id": "dev-20260716-049",
+  "release_id": "dev-20260716-050",
   "environment": "dev",
   "status": "succeeded",
-  "generated_at": "2026-07-16T01:47:50.474890Z",
-  "finished_at": "2026-07-16T01:47:50.474890Z",
+  "generated_at": "2026-07-16T15:34:14.080223Z",
+  "finished_at": "2026-07-16T15:34:14.080223Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
-    "sha": "7433f966ca35c35e766499df6cbc8e72b478a575"
+    "sha": "f551ced4bdbcc9c43ce6d9c28beac65c8b8afb60"
   },
-  "workflow_run_id": "29464549629",
-  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29464549629",
+  "workflow_run_id": "29510838918",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29510838918",
   "platform_services": {
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
-      "sha": "1079c1985052cda6caea5b42d757ea08799ab29e",
+      "sha": "2618e1ebca392a6fab2ba468d7d3bdf3dcd3afcd",
       "status": "succeeded"
     },
     "brt-dbt": {
@@ -28,11 +28,17 @@
     }
   },
   "use_cases": {
-    "triangulate": {
-      "repo": "brt-rj/triangulate",
-      "sha": "23a23ffe26c60b853784d98fd047d01f1d99ea3d",
+    "HypeCheck": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "15dc80a37b33f6872ff23e58ad826da299891bfa",
       "status": "succeeded"
     }
   },
-  "consumers": {}
+  "consumers": {
+    "barati-dev.github.io": {
+      "repo": "brt-rj/barati-dev.github.io",
+      "sha": "d277e90e1e96b5e6f4dc8caa8d3ce4dc077c6a95",
+      "status": "succeeded"
+    }
+  }
 }
