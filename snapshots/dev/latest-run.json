@@ -1,15 +1,15 @@
 {
-  "release_id": "dev-20260716-050",
+  "release_id": "dev-20260716-051",
   "environment": "dev",
   "status": "succeeded",
-  "generated_at": "2026-07-16T15:34:14.080223Z",
-  "finished_at": "2026-07-16T15:34:14.080223Z",
+  "generated_at": "2026-07-16T16:05:14.316225Z",
+  "finished_at": "2026-07-16T16:05:14.316225Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
     "sha": "f551ced4bdbcc9c43ce6d9c28beac65c8b8afb60"
   },
-  "workflow_run_id": "29510838918",
-  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29510838918",
+  "workflow_run_id": "29513228545",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29513228545",
   "platform_services": {
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
@@ -28,9 +28,9 @@
     }
   },
   "use_cases": {
-    "HypeCheck": {
-      "repo": "brt-rj/HypeCheck",
-      "sha": "15dc80a37b33f6872ff23e58ad826da299891bfa",
+    "triangulate": {
+      "repo": "brt-rj/triangulate",
+      "sha": "23a23ffe26c60b853784d98fd047d01f1d99ea3d",
       "status": "succeeded"
     }
   },
