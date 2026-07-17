@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260717-055",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-07-17T08:04:45.508373+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29564316776",
+    "project": {
+      "repo": "brt-rj/brt-train",
+      "sha": "4594d04794d4ffa4092e4ff1dcab1eb05177584f",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260717-054",
     "environment": "dev",
     "status": "unknown",
