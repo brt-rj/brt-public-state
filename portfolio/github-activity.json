@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-17T00:55:13.791741+00:00",
+  "generated_at": "2026-07-17T06:43:48.618605+00:00",
   "profile": {
     "login": "brt-rj",
     "name": "barati",
@@ -11,23 +11,23 @@
   "recent_activity": [
     {
       "type": "commit",
-      "occurred_at": "2026-07-17T00:08:44Z",
+      "occurred_at": "2026-07-17T03:55:37Z",
+      "visibility": "private"
+    },
+    {
+      "type": "commit",
+      "occurred_at": "2026-07-17T00:55:25Z",
       "visibility": "public",
       "repository": {
         "name": "brt-public-state",
         "url": "https://github.com/brt-rj/brt-public-state"
       },
-      "message": "chore: publish hypecheck_daily run status (succeeded)",
-      "url": "https://github.com/brt-rj/brt-public-state/commit/489f82a224632efc2b559c23bf15633db650645f"
+      "message": "chore: refresh portfolio GitHub activity",
+      "url": "https://github.com/brt-rj/brt-public-state/commit/939eb4501a6058b3fbbd9a4f7792c020ed7a897a"
     },
     {
       "type": "commit",
       "occurred_at": "2026-07-16T14:30:39Z",
-      "visibility": "private"
-    },
-    {
-      "type": "commit",
-      "occurred_at": "2026-07-16T05:33:37Z",
       "visibility": "private"
     }
   ]
