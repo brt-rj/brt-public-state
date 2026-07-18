@@ -1,6 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": null,
-  "ok": false,
-  "error": "not yet published by capture-now-page-data.yml"
+  "generated_at": "2026-07-18T11:03:58.304174+00:00",
+  "ok": true,
+  "now_playing": null,
+  "recently_played": [
+    {
+      "name": "Exit Wound",
+      "artist": "Marilyn Manson",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27349a669bb59909e91ce3f24f4",
+      "url": "https://open.spotify.com/track/46PCeG1vUqW2TxTJuJsenw",
+      "played_at": "2026-07-18T05:31:10.312Z"
+    },
+    {
+      "name": "The Fight Song",
+      "artist": "Marilyn Manson",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27397ce10b4cfeb26d2a93cc409",
+      "url": "https://open.spotify.com/track/6pfdW2NouUI3ZnugM7r0G0",
+      "played_at": "2026-07-18T04:46:35.775Z"
+    },
+    {
+      "name": "Tainted Love",
+      "artist": "Marilyn Manson",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273dcca264f538d015a1c9733a5",
+      "url": "https://open.spotify.com/track/0ZeKQudydO2uQJpfr6gNC8",
+      "played_at": "2026-07-18T04:38:52.201Z"
+    }
+  ],
+  "profile_url": "https://open.spotify.com"
 }
