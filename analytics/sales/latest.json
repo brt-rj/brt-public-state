@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "status": "ready",
+  "updated_at": null,
+  "error": "fct_sales_pipeline is mart-ready -- this pillar is blocked only on brt-datagen's Amplitude emission and the brt-public-state pull workflow, both still to be built.",
+  "kpis": {},
+  "chart": null,
+  "table": []
+}

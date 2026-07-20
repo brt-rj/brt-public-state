@@ -4,7 +4,7 @@ Headless CMS | Shared assets
 
 Publication repo for BRT Data Platform orchestration state. Everything here is
 sanitized, view-only data written by workflows in `brt-rj/brt-ork` and
-`brt-rj/brt-infra` — no secrets, tokens, operator controls, or internal
+`brt-rj/brt-infra` -- no secrets, tokens, operator controls, or internal
 diagnostics (ADR-0003).
 
 ## Layout
@@ -19,12 +19,13 @@ diagnostics (ADR-0003).
 | `now/goodreads.json` | `brt-ork` `capture-now-page-data.yml` | Currently-reading book pulled from Goodreads' public per-shelf RSS feed. |
 | `now/spotify.json` | `brt-ork` `capture-now-page-data.yml` | Now-playing and recently-played tracks from the Spotify Web API. |
 | `now/methodos.json` | `brt-ork` `capture-now-page-data.yml` | Latest training session summary and ACWR from `brt-train`'s MCP server. |
+| `analytics/{pillar}/latest.json` | *(pull workflow not yet built -- placeholder, `ok: false`)* | Per-pillar analytics for `analytics.barati.dev`: headline KPIs, chart data, and breakdown table for one of `portfolio-engagement`, `acquisition`, `monetization`, `retention`, `sales`. Each file carries its own `ok`/`status`/`error`, same absent-safe convention as `now/*.json`, so a consumer renders an accurate per-pillar gap state until Airflow/dbt/Amplitude land. |
 
-Each `now/*.json` file carries its own `ok` boolean. When a source's
-credentials are missing or a fetch fails, that file publishes
-`{"ok": false, "error": "..."}` instead of stale/partial data, so a consumer
-can render an explicit "unavailable" state for just that card rather than
-guessing from absent fields.
+Each `now/*.json` and `analytics/*/latest.json` file carries its own `ok`
+boolean. When a source's credentials are missing or a fetch fails, that file
+publishes `{"ok": false, "error": "..."}` instead of stale/partial data, so a
+consumer can render an explicit "unavailable" state for just that card rather
+than guessing from absent fields.
 
 ## Consumers
 
@@ -35,6 +36,9 @@ guessing from absent fields.
   skeleton at build time, then hydrates each card client-side from
   `now/goodreads.json`, `now/spotify.json`, and `now/methodos.json` on this
   repo's `main` branch.
+- `https://analytics.barati.dev/` (`brt-analytics`) fetches each pillar's
+  `analytics/{pillar}/latest.json` client-side to hydrate its dashboard,
+  rendering a gap/status state until real data lands.
 - `ork.barati.dev` (Cloudflare Access protected Orchestrator Admin UI, served
   by `brt-infra`) proxies `snapshots/`, `releases/`, `environments/`, and
   `deployments/` from this repo's `main` branch.

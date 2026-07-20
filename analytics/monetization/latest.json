@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "status": "needs_mart",
+  "updated_at": null,
+  "error": "int_mrr_movements classifies mrr_type but has no month/date bucket yet -- needs an mrr_month column before it can plot as a time series rather than a single static split.",
+  "kpis": {},
+  "chart": null,
+  "table": []
+}

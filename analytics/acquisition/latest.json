@@ -1,0 +1,9 @@
+{
+  "ok": false,
+  "status": "schema_gap",
+  "updated_at": null,
+  "error": "No acquisition_channel/utm_source field exists yet on brt-datagen's Account/User models -- table renders empty until it lands.",
+  "kpis": {},
+  "chart": null,
+  "table": []
+}
