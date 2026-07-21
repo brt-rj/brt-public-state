@@ -1,8 +1,23 @@
 {
   "ok": false,
-  "status": "needs_instrumentation",
+  "status": "unavailable",
   "updated_at": null,
-  "error": "No analytics instrumentation exists yet on barati-dev.github.io, Triangulate, or Methodos -- clean build across all three.",
+  "error": null,
+  "freshness": {
+    "last_success_at": null,
+    "last_attempt_at": null
+  },
+  "window": {
+    "start_at": null,
+    "end_at": null,
+    "days": 30
+  },
+  "coverage": {
+    "window_days": 30,
+    "observed_days": 0,
+    "first_event_at": null,
+    "complete": false
+  },
   "kpis": {},
   "chart": null,
   "table": []

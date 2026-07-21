@@ -19,13 +19,14 @@ diagnostics (ADR-0003).
 | `now/goodreads.json` | `brt-ork` `capture-now-page-data.yml` | Currently-reading book pulled from Goodreads' public per-shelf RSS feed. |
 | `now/spotify.json` | `brt-ork` `capture-now-page-data.yml` | Now-playing and recently-played tracks from the Spotify Web API. |
 | `now/methodos.json` | `brt-ork` `capture-now-page-data.yml` | Latest training session summary and ACWR from `brt-train`'s MCP server. |
-| `analytics/{pillar}/latest.json` | *(pull workflow not yet built -- placeholder, `ok: false`)* | Per-pillar analytics for `analytics.barati.dev`: headline KPIs, chart data, and breakdown table for one of `portfolio-engagement`, `acquisition`, `monetization`, `retention`, `sales`. Each file carries its own `ok`/`status`/`error`, same absent-safe convention as `now/*.json`, so a consumer renders an accurate per-pillar gap state until Airflow/dbt/Amplitude land. |
+| `analytics/portfolio-engagement/latest.json` | `brt-airflow` `portfolio_engagement_daily` | Aggregate-only Amplitude engagement metrics for the rolling 30 completed UTC days, including freshness and collection coverage. Failed refreshes retain the last successful metrics as `stale`; no internal error details are published. |
+| `analytics/{acquisition,monetization,retention,sales}/latest.json` | *(pull workflows not yet built -- placeholders, `ok: false`)* | Per-pillar analytics placeholders for the remaining Growth reports. |
 
 Each `now/*.json` and `analytics/*/latest.json` file carries its own `ok`
-boolean. When a source's credentials are missing or a fetch fails, that file
-publishes `{"ok": false, "error": "..."}` instead of stale/partial data, so a
-consumer can render an explicit "unavailable" state for just that card rather
-than guessing from absent fields.
+boolean. Portfolio Engagement additionally separates validity from freshness:
+`fresh` and `stale` payloads remain `ok: true`, while `unavailable` means no
+successful aggregate exists. Its public `error` is always `null`; operational
+details remain in Airflow logs.
 
 ## Consumers
 
