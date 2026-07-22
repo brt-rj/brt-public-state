@@ -20,6 +20,9 @@ diagnostics (ADR-0003).
 | `now/spotify.json` | `brt-ork` `capture-now-page-data.yml` | Now-playing and recently-played tracks from the Spotify Web API. |
 | `now/methodos.json` | `brt-ork` `capture-now-page-data.yml` | Latest training session summary and ACWR from `brt-train`'s MCP server. |
 | `analytics/portfolio-engagement/latest.json` | `brt-airflow` `portfolio_engagement_daily` | Aggregate-only Amplitude engagement metrics for the rolling 30 completed UTC days, including freshness and collection coverage. Failed refreshes retain the last successful metrics as `stale`; no internal error details are published. |
+| `briefs/no-flab-brief/releases/YYYY-MM-DD.json` | `brt-airflow` No-Flab Brief daily root DAG | Immutable, cited public daily brief for a completed UTC day. Contains only bounded source-provided excerpts and canonical outbound links. |
+| `briefs/no-flab-brief/latest.json` | `brt-airflow` No-Flab Brief daily root DAG | Latest sanitized No-Flab Brief release pointer. Before the first mart is available, it declares `NEEDS MART`; it never carries error details or raw article content. |
+| `briefs/no-flab-brief/archive.json` | `brt-airflow` No-Flab Brief daily root DAG | Ordered index of completed public daily briefs for the static archive. |
 | `analytics/{acquisition,monetization,retention,sales}/latest.json` | *(pull workflows not yet built -- placeholders, `ok: false`)* | Per-pillar analytics placeholders for the remaining Growth reports. |
 
 Each `now/*.json` and `analytics/*/latest.json` file carries its own `ok`
@@ -40,6 +43,9 @@ details remain in Airflow logs.
 - `https://analytics.barati.dev/` (`brt-analytics`) fetches each pillar's
   `analytics/{pillar}/latest.json` client-side to hydrate its dashboard,
   rendering a gap/status state until real data lands.
+- `https://nfb.barati.dev/` hydrates its static dashboard from
+  `briefs/no-flab-brief/latest.json` and opens immutable daily archive entries
+  from `briefs/no-flab-brief/releases/`.
 - `ork.barati.dev` (Cloudflare Access protected Orchestrator Admin UI, served
   by `brt-infra`) proxies `snapshots/`, `releases/`, `environments/`, and
   `deployments/` from this repo's `main` branch.
