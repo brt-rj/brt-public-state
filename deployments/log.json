@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260724-073",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-07-24T17:26:53.558421+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/30112263048",
+    "project": {
+      "repo": "brt-rj/no-flab-brief",
+      "sha": "0c50eba57e431c393a5ce46dcaa90f4603ecc9fa",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260724-072",
     "environment": "dev",
     "status": "succeeded",
@@ -581,18 +593,6 @@
     "status": "failed",
     "finished_at": "2026-07-10T15:07:28.044531+00:00",
     "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29101962865",
-    "project": {
-      "repo": "brt-rj/HypeCheck",
-      "sha": "0bb8643c17ec96b17c4ad7b4a3397c18e061f0c6",
-      "status": "succeeded"
-    }
-  },
-  {
-    "release_id": "dev-20260710-022",
-    "environment": "dev",
-    "status": "succeeded",
-    "finished_at": "2026-07-10T11:31:33.198424+00:00",
-    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29089293553",
     "project": {
       "repo": "brt-rj/HypeCheck",
       "sha": "0bb8643c17ec96b17c4ad7b4a3397c18e061f0c6",
