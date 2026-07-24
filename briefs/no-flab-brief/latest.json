@@ -1,6 +1,7 @@
 {
   "coverage": {
     "completed_source_classes": [
+      "gdelt",
       "hacker_news",
       "rss"
     ],
@@ -11,410 +12,417 @@
       "newsdata"
     ],
     "missing_source_classes": [
-      "gdelt",
       "newsdata"
     ]
   },
-  "generated_at": "2026-07-23T17:09:43.241710Z",
+  "generated_at": "2026-07-24T01:02:02.395280Z",
   "items": [
     {
-      "excerpt": "<i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869</a> - July 2026 (508 comments)",
-      "published_at": "2026-07-22 17:30:40+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:24:43+00:00",
       "rank": 1,
       "source": "Hacker News",
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56"
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your"
     },
     {
-      "excerpt": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is ar",
-      "published_at": "2026-07-22 15:19:23+00:00",
+      "excerpt": "<a href=\"https:&#x2F;&#x2F;littletech.org&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;littletech.org&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0e5&#x2F;lta-open-weight-ai-letter-7-22-26.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...</a>",
+      "published_at": "2026-07-23 15:18:40+00:00",
       "rank": 2,
       "source": "Hacker News",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
     },
     {
-      "excerpt": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;na_announce&#x2F;status&#x2F;2079952538040672302</a><p><a href=\"https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;20291\" rel=\"nofollow\">https:&#x2F;&#x2F;www.twit.community&#x2F;t&#x2F;john-c-dvorak-has-passed-away&#x2F;2...</a><p><a href=\"https:&#x2F;&#x2F;www.facebook.com&#x2F;aric.mackey&#x2F;posts&#x2F;john-c-dvorak-",
-      "published_at": "2026-07-22 19:22:19+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 13:09:10+00:00",
       "rank": 3,
       "source": "Hacker News",
-      "title": "John C. Dvorak has died",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302"
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 17:17:54+00:00",
+      "excerpt": "<i>OpenAI and Hugging Face address security incident during model evaluation</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548</a> - July 2026 (1121 comments)",
+      "published_at": "2026-07-23 01:16:14+00:00",
       "rank": 4,
       "source": "Hacker News",
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html"
+      "title": "OpenAI\u2019s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 17:20:38+00:00",
+      "excerpt": "I\u2019ve been a NameCheap customer for 13 years. I\u2019ve also helped out an old college club paying for a .com they use (that is registered to me under my name, address, and phone number). During a recent leadership transition, the incoming club lead wanted to make changes to the DNS and didn\u2019t know to contact me. They figured out the domain name was parked at NameCheap, so they initiated a password reset using the domain name. I got a password reset email and immediately filed a NameCheap support tick",
+      "published_at": "2026-07-23 21:05:29+00:00",
       "rank": 5,
       "source": "Hacker News",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/"
+      "title": "Tell HN: Namecheap gave my account to an unverified third party",
+      "url": "https://news.ycombinator.com/item?id=49028037"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 12:32:48+00:00",
+      "published_at": "2026-07-23 16:53:33+00:00",
       "rank": 6,
       "source": "Hacker News",
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/"
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 17:48:18+00:00",
+      "published_at": "2026-07-23 20:52:19+00:00",
       "rank": 7,
       "source": "Hacker News",
-      "title": "Everyone should know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd"
+      "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public"
     },
     {
-      "excerpt": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743</a>",
-      "published_at": "2026-07-22 14:25:13+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:17:40+00:00",
       "rank": 8,
       "source": "Hacker News",
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743"
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 12:36:08+00:00",
+      "excerpt": "I\u2019ve been building Echo (<a href=\"https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;</a>), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every task.<p>It started with a simple experiment. I took a group of models, including GLM-5.2, Kimi K2.7 and others, and ran them on the same evaluations. Then I measured what would happen if, for each problem, you somehow knew in adv",
+      "published_at": "2026-07-23 19:26:01+00:00",
       "rank": 9,
       "source": "Hacker News",
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide"
+      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 01:52:31+00:00",
+      "published_at": "2026-07-23 16:49:57+00:00",
       "rank": 10,
       "source": "Hacker News",
-      "title": "LG to ban residential proxies from smart TV apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/"
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
     },
     {
-      "excerpt": "<a href=\"https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a>",
-      "published_at": "2026-07-22 14:18:05+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:02:24+00:00",
       "rank": 11,
       "source": "Hacker News",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
+      "title": "Astronomers may have found the first exomoon",
+      "url": "https://www.eso.org/public/news/eso2610/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 20:33:44+00:00",
+      "published_at": "2026-07-23 14:53:34+00:00",
       "rank": 12,
       "source": "Hacker News",
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/"
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "url": "https://learnopengl.com/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 15:33:48+00:00",
+      "published_at": "2026-07-23 13:51:36+00:00",
       "rank": 13,
       "source": "Hacker News",
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/"
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 12:49:45+00:00",
+      "published_at": "2026-07-23 05:24:17+00:00",
       "rank": 14,
       "source": "Hacker News",
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/"
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 02:32:30+00:00",
+      "published_at": "2026-07-23 15:18:48+00:00",
       "rank": 15,
       "source": "Hacker News",
-      "title": "Late.sh \u2013 a command-line Clubhouse for computer people",
-      "url": "https://late.sh/"
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 15:45:18+00:00",
+      "published_at": "2026-07-23 22:30:29+00:00",
       "rank": 16,
       "source": "Hacker News",
-      "title": "Does creatine make you smarter?",
-      "url": "https://dynomight.net/creatine/"
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 13:08:19+00:00",
+      "published_at": "2026-07-23 05:40:20+00:00",
       "rank": 17,
       "source": "Hacker News",
-      "title": "Back to Kagi",
-      "url": "https://blog.melashri.net/micro/back-to-kagi/"
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734"
     },
     {
-      "excerpt": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mkratsios47&#x2F;status&#x2F;2079933645888880708</a>",
-      "published_at": "2026-07-22 14:42:08+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:23:51+00:00",
       "rank": 18,
       "source": "Hacker News",
-      "title": "\u201cWe have information that Moonshot distilled Fable for the development of K3\u201d",
-      "url": "https://twitter.com/mkratsios47/status/2079933645888880708"
+      "title": "Fields Medals 2026",
+      "url": "https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 03:24:36+00:00",
+      "published_at": "2026-07-23 18:23:50+00:00",
       "rank": 19,
       "source": "Hacker News",
-      "title": "Never Enough",
-      "url": "https://dark.ronacher.eu/2026/7/21/never-enough/"
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 01:17:26+00:00",
+      "excerpt": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (<a href=\"https:&#x2F;&#x2F;palmier.io\">https:&#x2F;&#x2F;palmier.io</a>). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Here are a few demos:<p>- Making some AI transitions: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4</a><p>- Multicam editing wi",
+      "published_at": "2026-07-23 15:11:37+00:00",
       "rank": 20,
       "source": "Hacker News",
-      "title": "Ten Steps Towards Happiness (2015)",
-      "url": "http://hintjens.com/blog:99"
+      "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 15:30:36+00:00",
+      "published_at": "2026-07-23 14:02:45+00:00",
       "rank": 21,
       "source": "Hacker News",
-      "title": "Show HN: HN Hall of Fame \u2013 browse 3,100 legendary Hacker News links",
-      "url": "https://www.orangecrumbs.com/hall/"
+      "title": "Emacs Is a Lispboard",
+      "url": "https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 05:18:08+00:00",
+      "published_at": "2026-07-23 16:01:02+00:00",
       "rank": 22,
       "source": "Hacker News",
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "url": "https://github.com/chrislgarry/Apollo-11"
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "url": "https://openjdk.org/jeps/540"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:43:28+00:00",
+      "published_at": "2026-07-23 14:31:26+00:00",
       "rank": 23,
       "source": "Hacker News",
-      "title": "Ghost Cut \u2013 Or why Cut and Paste is broken everywhere",
-      "url": "https://ishmael.textualize.io/blog/ghost-cut/"
+      "title": "Show HN: Remux \u2013 an open-source tmux workspace designed for iPhone",
+      "url": "https://github.com/h3nock/remux"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 11:58:09+00:00",
+      "published_at": "2026-07-23 14:07:38+00:00",
       "rank": 24,
       "source": "Hacker News",
-      "title": "10 REM\"_(C2SLFF4",
-      "url": "https://beej.us/blog/data/mystery-comment/"
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development"
     },
     {
-      "excerpt": "Hey HN, Henry &amp; Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it&#x27;s wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it&#x27;s high, hand off to a bigger cloud model when it&#x27;s low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemin",
-      "published_at": "2026-07-22 17:56:29+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 15:35:33+00:00",
       "rank": 25,
       "source": "Hacker News",
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid"
+      "title": "UK households free to install plug-in balcony solar panels from end of August",
+      "url": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 20:16:01+00:00",
+      "published_at": "2026-07-23 16:37:25+00:00",
       "rank": 26,
       "source": "Hacker News",
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/"
+      "title": "US Government targets Cop City protester over phone operating system",
+      "url": "https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 21:55:34+00:00",
+      "published_at": "2026-07-23 14:55:32+00:00",
       "rank": 27,
       "source": "Hacker News",
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria"
+      "title": "Learn WebGPU for C++",
+      "url": "https://eliemichel.github.io/LearnWebGPU/"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 21:15:26+00:00",
+      "excerpt": "hey HN, Jonathan and Guy here, creators of OneCLI (<a href=\"https:&#x2F;&#x2F;onecli.sh&#x2F;\">https:&#x2F;&#x2F;onecli.sh&#x2F;</a>). OneCLI is an open source vault for AI Agents.<p>Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent&#x27;s world, this is not the case, as you don&#x27;t know what happens with the secret after it&#x27;s delivered to the agent, or where it wa",
+      "published_at": "2026-07-23 15:42:40+00:00",
       "rank": 28,
       "source": "Hacker News",
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html"
+      "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli"
     },
     {
-      "excerpt": "I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which le",
-      "published_at": "2026-07-22 15:39:01+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 19:00:34+00:00",
       "rank": 29,
       "source": "Hacker News",
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/"
+      "title": "Introducing selfie for sign-in: a new way to access your Google Account",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:42:49+00:00",
+      "published_at": "2026-07-23 18:07:33+00:00",
       "rank": 30,
       "source": "Hacker News",
-      "title": "Hologram Works. Sponsor What Comes Next",
-      "url": "https://hologram.page/blog/backing-hologram"
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 21:48:44+00:00",
+      "published_at": "2026-07-23 15:45:51+00:00",
       "rank": 31,
       "source": "Hacker News",
-      "title": "All 253 Patterns from Christopher Alexander's a Pattern Language Summarized",
-      "url": "https://claytondorge.com/patterns-list"
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "url": "https://github.com/Conradqh/scrapemychats"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:59:08+00:00",
+      "published_at": "2026-07-23 18:13:03+00:00",
       "rank": 32,
       "source": "Hacker News",
-      "title": "Perlin's Noise Algorithm (2023)",
-      "url": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/"
+      "title": "A solid-state \u201catomic channel\u201d for separating rare earth elements",
+      "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 16:25:08+00:00",
+      "published_at": "2026-07-23 17:06:22+00:00",
       "rank": 33,
       "source": "Hacker News",
-      "title": "Show HN: Web swing through midtown NYC",
-      "url": "https://www.swingnyc.com/"
+      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+      "url": "https://github.com/izeigerman/claude-thermos"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:57:24+00:00",
+      "published_at": "2026-07-23 13:49:17+00:00",
       "rank": 34,
       "source": "Hacker News",
-      "title": "Full Scale Foldable Wing Extensions",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow"
+      "title": "What happens when the information runs out",
+      "url": "https://blog.jimgrey.net/2026/06/30/what-happens-when-the-information-runs-out/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 21:40:33+00:00",
+      "published_at": "2026-07-23 15:22:21+00:00",
       "rank": 35,
       "source": "Hacker News",
-      "title": "Men That Don't Fit In (1911)",
-      "url": "https://www.poetryfoundation.org/poems/58012/the-men-that-dont-fit-in"
+      "title": "Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed",
+      "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required"
     },
     {
-      "excerpt": "",
-      "published_at": "2026-07-22 21:54:30+00:00",
+      "excerpt": "Hi Hacker News, I&#x27;m Louis. I built Screenpipe (<a href=\"https:&#x2F;&#x2F;screenpipe.com\">https:&#x2F;&#x2F;screenpipe.com</a>), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x27;ve seen, said, and heard. This makes it easier to automate your repetitive tasks, turn them into SOPs (Standard Operating Procedure) and so on.<p>I made a HN-style demo video at <a href=\"https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;build-your-ai-se",
+      "published_at": "2026-07-23 16:48:38+00:00",
       "rank": 36,
       "source": "Hacker News",
-      "title": "Any text-to-SQL benchmark should address difficulties of real-world data stores",
-      "url": "https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/"
+      "title": "Launch HN: Screenpipe (YC S26) \u2013 Record how you work and turn that into agents",
+      "url": "https://news.ycombinator.com/item?id=49024620"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:18:11+00:00",
+      "published_at": "2026-07-23 18:11:46+00:00",
       "rank": 37,
       "source": "Hacker News",
-      "title": "When is NVLink worth it?",
-      "url": "https://platform-fools.com/posts/2026-04-27-nvlink/"
+      "title": "Geekbench 7",
+      "url": "https://www.geekbench.com/blog/2026/07/geekbench-7/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 14:46:14+00:00",
+      "published_at": "2026-07-23 18:08:29+00:00",
       "rank": 38,
       "source": "Hacker News",
-      "title": "Which streaming service was that on again?",
-      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/"
+      "title": "Why Sony Can't Bring Back Its Classic Walkman Models",
+      "url": "https://obsoletesony.substack.com/p/why-sony-cant-bring-back-classic-walkman"
     },
     {
-      "excerpt": "Hi HN, We\u2019re Adeel and Umair, co-founders of Unlayer (<a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;\">https:&#x2F;&#x2F;unlayer.com&#x2F;</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here\u2019s a demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0HsDtNkdMpM\" ",
-      "published_at": "2026-07-22 16:02:03+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:55:45+00:00",
       "rank": 39,
       "source": "Hacker News",
-      "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
-      "url": "https://unlayer.com"
+      "title": "Encryption and Globalization 15 Years Later: E2EE and the \"Going Dark\" Debate",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 23:15:46+00:00",
+      "published_at": "2026-07-23 14:37:54+00:00",
       "rank": 40,
       "source": "Hacker News",
-      "title": "Amorality and greed at Silicon Valley's favourite university",
-      "url": "https://www.economist.com/culture/2026/07/02/amorality-and-greed-at-silicon-valleys-favourite-university"
+      "title": "Show HN: Whetuu \u2013 a zero-config cross-shell prompt written in Zig",
+      "url": "https://yamafaktory.github.io/whetuu/"
     },
     {
       "excerpt": "",
-      "published_at": "2026-07-22 22:49:58+00:00",
+      "published_at": "2026-07-23 13:55:10+00:00",
       "rank": 41,
       "source": "Hacker News",
-      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-      "url": "https://arxiv.org/abs/2607.18250"
+      "title": "Brow6el: A full-featured web browser for the terminal using Chromium",
+      "url": "https://tangled.org/janantos.tngl.sh/brow6el"
     },
     {
-      "excerpt": "Media are invited to NASA\u2019s Langley Research Center in Hampton, Virginia, on Friday, July 31, to attend a media tour and ribbon-cutting ceremony for the Flight Dynamics Research Facility, the agency\u2019s first new wind tunnel in more than 40 years. The event will include a brief media availability with: This event is in person only [&#8230;]",
-      "published_at": "2026-07-22 18:47:05+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 22:51:13+00:00",
       "rank": 42,
-      "source": "NASA",
-      "title": "NASA to Showcase Agency\u2019s Newest Wind Tunnel in Virginia",
-      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-agencys-newest-wind-tunnel-in-virginia/"
+      "source": "Hacker News",
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2507.09369"
     },
     {
-      "excerpt": "Following its liftoff from Cape Canaveral on July 21 aboard a SpaceX Falcon 9 rocket, the Mission Robotic Vehicle (MRV) hosting the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload is now en route to geosynchronous Earth orbit, where it will use its advanced robotics to service spacecraft. RSGS leverages in-space robotics expertise from NASA, [&#8230;]",
-      "published_at": "2026-07-22 18:04:15+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 20:59:22+00:00",
       "rank": 43,
-      "source": "NASA",
-      "title": "Robotic Servicing Mission Launches with NASA Support",
-      "url": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/"
+      "source": "Hacker News",
+      "title": "Stripe in talks to buy OpenRouter for ~10B",
+      "url": "https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74"
     },
     {
-      "excerpt": "Editor\u2019s Note: This advisory was updated on July 23, 2026, to reflect changes to the mission timeline.\u00a0 NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev are wrapping up their 241\u2011day mission aboard the International Space Station. The crew and its Soyuz MS-28 spacecraft will undock from the orbiting laboratory\u2019s Rassvet module [&#8230;]",
-      "published_at": "2026-07-22 17:17:43+00:00",
+      "excerpt": "is a tiny native macOS menu-bar app for local SSH port forwards. It has no external dependencies and runs natively.",
+      "published_at": "2026-07-23 14:32:53+00:00",
       "rank": 44,
-      "source": "NASA",
-      "title": "NASA Sets Coverage for Astronaut Chris Williams, Crewmates Return",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/"
+      "source": "Hacker News",
+      "title": "Show HN: macOS menu-bar manager for SSH port forwards",
+      "url": "https://github.com/lx2026/RelayBar"
     },
     {
-      "excerpt": "NASA&#8217;s Chandra X-ray Observatory unveiled this new look at the galaxy NGC 4736, also known as Messier 94, on June 30, 2026. Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming, perhaps fueled by gas driven in the unique oval-shaped structure seen [&#8230;]",
-      "published_at": "2026-07-22 16:45:52+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 17:10:02+00:00",
       "rank": 45,
-      "source": "NASA",
-      "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
-      "url": "https://www.nasa.gov/image-article/a-new-look-and-sound-for-messier-94/"
+      "source": "Hacker News",
+      "title": "Kimi K3 exploited the latest Redis server",
+      "url": "https://twitter.com/fried_rice/status/2080059356322918777"
     },
     {
-      "excerpt": "Description This graphic illustrates the areas of Jupiter\u2019s moon Io sampled by the Microwave Radiometer (MWR) instrument aboard NASA\u2019s Juno spacecraft during two close flybys. The black overlapping lines show the instrument\u2019s footprints during Perijove 57 on Dec. 30, 2023, when the spacecraft primarily mapped the northern hemisphere. The blue lines represent Perijove 58 on [\u2026]",
-      "published_at": "2026-07-22 15:00:19+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 21:24:05+00:00",
       "rank": 46,
-      "source": "NASA",
-      "title": "Mapping Io\u2019s Hidden Heat With NASA\u2019s Juno",
-      "url": "https://science.nasa.gov/photojournal/mapping-ios-hidden-heat-with-nasas-juno/"
+      "source": "Hacker News",
+      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/"
     },
     {
-      "excerpt": "Description This map represents data captured by the Microwave Radiometer (MWR) aboard NASA\u2019s Juno spacecraft, indicating heat rising from just beneath the surface of Jupiter\u2019s moon Io. While infrared instruments measure the temperature of the moon\u2019s surface, the lowest frequency microwave channels (0.6 and 1.25 gigahertz) on the MWR can penetrate between about 6 and [\u2026]",
-      "published_at": "2026-07-22 14:58:58+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:13:14+00:00",
       "rank": 47,
-      "source": "NASA",
-      "title": "NASA\u2019s Juno Peers Beneath Io\u2019s Surface",
-      "url": "https://science.nasa.gov/photojournal/nasas-juno-peers-beneath-ios-surface/"
+      "source": "Hacker News",
+      "title": "Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript",
+      "url": "https://omnideck.cc/"
     },
     {
-      "excerpt": "Lee esta historia en espa\u00f1ol\u00a0aqu\u00ed. &#160;NASA\u2019s Juno mission has provided the first measurements of the temperature below the surface of Jupiter\u2019s moon Io, revealing significant heating within the shallow subsurface of the most volcanically active world in the solar system. Collected during two close flybys, the data also shows that most of Io\u2019s surface is [&#8230;]",
-      "published_at": "2026-07-22 14:54:35+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 23:04:18+00:00",
       "rank": 48,
-      "source": "NASA",
-      "title": "NASA\u2019s Juno Takes Temperature of Jupiter\u2019s Fiery Moon Io",
-      "url": "https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/"
+      "source": "Hacker News",
+      "title": "Stripe in talks to buy OpenRouter for about $10B",
+      "url": "https://twitter.com/andrewcurran_/status/2080397684134007189"
     },
     {
-      "excerpt": "NASA is supporting the Genesis Mission, a national effort to drive the use of artificial intelligence in tackling complex scientific and engineering challenges to advance a new era of discovery. President Donald J. Trump issued the Executive Order \u201cLaunching the Genesis Mission\u201d on Nov. 24, 2025, creating a national mission to leverage artificial intelligence to [&#8230;]",
-      "published_at": "2026-07-22 14:04:06+00:00",
+      "excerpt": "",
+      "published_at": "2026-07-23 14:00:48+00:00",
       "rank": 49,
-      "source": "NASA",
-      "title": "NASA Joins Genesis Mission to Accelerate AI-Driven Discovery",
-      "url": "https://www.nasa.gov/news-release/nasa-joins-genesis-mission-to-accelerate-ai-driven-discovery/"
+      "source": "Hacker News",
+      "title": "Log is non-monotonic in PHP and Lua",
+      "url": "https://purplesyringa.moe/blog/log-is-non-monotonic-in-php-and-lua/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-23 23:36:42+00:00",
+      "rank": 50,
+      "source": "Hacker News",
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html"
     }
   ],
   "metrics": {
-    "published_items": 49,
-    "retained_articles": 49
+    "published_items": 50,
+    "retained_articles": 50
   },
-  "report_date": "2026-07-22",
+  "report_date": "2026-07-23",
   "status": "PARTIAL DATA",
   "version": 1
 }
