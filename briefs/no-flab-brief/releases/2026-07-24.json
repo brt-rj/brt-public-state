@@ -1,0 +1,428 @@
+{
+  "coverage": {
+    "completed_source_classes": [
+      "hacker_news",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": [
+      "gdelt",
+      "newsdata"
+    ]
+  },
+  "generated_at": "2026-07-25T01:01:53.866888Z",
+  "items": [
+    {
+      "excerpt": "<a href=\"https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card\" rel=\"nofollow\">https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card</a>",
+      "published_at": "2026-07-24 16:57:41+00:00",
+      "rank": 1,
+      "source": "Hacker News",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 08:18:30+00:00",
+      "rank": 2,
+      "source": "Hacker News",
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 06:17:08+00:00",
+      "rank": 3,
+      "source": "Hacker News",
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 11:54:41+00:00",
+      "rank": 4,
+      "source": "Hacker News",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 09:08:17+00:00",
+      "rank": 5,
+      "source": "Hacker News",
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/"
+    },
+    {
+      "excerpt": "Letter: <a href=\"https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;JensenHuang&#x2F;status&#x2F;208064368240832110",
+      "published_at": "2026-07-24 13:32:30+00:00",
+      "rank": 6,
+      "source": "Hacker News",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:33:31+00:00",
+      "rank": 7,
+      "source": "Hacker News",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 14:41:59+00:00",
+      "rank": 8,
+      "source": "Hacker News",
+      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 12:40:27+00:00",
+      "rank": 9,
+      "source": "Hacker News",
+      "title": "Em dashes are amazing",
+      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 09:31:48+00:00",
+      "rank": 10,
+      "source": "Hacker News",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 05:09:15+00:00",
+      "rank": 11,
+      "source": "Hacker News",
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 12:53:59+00:00",
+      "rank": 12,
+      "source": "Hacker News",
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 09:52:58+00:00",
+      "rank": 13,
+      "source": "Hacker News",
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 09:26:40+00:00",
+      "rank": 14,
+      "source": "Hacker News",
+      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 19:05:53+00:00",
+      "rank": 15,
+      "source": "Hacker News",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 09:24:44+00:00",
+      "rank": 16,
+      "source": "Hacker News",
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference"
+    },
+    {
+      "excerpt": "<a href=\"https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;html&#x2F;design-proposals.en.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ecb.europa.eu&#x2F;euro&#x2F;banknotes&#x2F;future_banknotes&#x2F;ht...</a>",
+      "published_at": "2026-07-24 09:29:44+00:00",
+      "rank": 17,
+      "source": "Hacker News",
+      "title": "Future euro banknote design proposals",
+      "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:48:57+00:00",
+      "rank": 18,
+      "source": "Hacker News",
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 15:05:06+00:00",
+      "rank": 19,
+      "source": "Hacker News",
+      "title": "Codeberg Divides",
+      "url": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 19:45:10+00:00",
+      "rank": 20,
+      "source": "Hacker News",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 18:03:22+00:00",
+      "rank": 21,
+      "source": "Hacker News",
+      "title": "I got into YC Startup School by hacking it",
+      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:52:33+00:00",
+      "rank": 22,
+      "source": "Hacker News",
+      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
+      "url": "https://openjdk.org/jeps/541"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:32:52+00:00",
+      "rank": 23,
+      "source": "Hacker News",
+      "title": "Unitree As2-W",
+      "url": "https://www.unitree.com/As2-W/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 12:00:17+00:00",
+      "rank": 24,
+      "source": "Hacker News",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 22:44:38+00:00",
+      "rank": 25,
+      "source": "Hacker News",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "url": "https://www.spacex.com/launches/starship-flight-13"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 06:59:07+00:00",
+      "rank": 26,
+      "source": "Hacker News",
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 15:24:00+00:00",
+      "rank": 27,
+      "source": "Hacker News",
+      "title": "The front end framework for correctness: built on Effect, architected like Elm",
+      "url": "https://foldkit.dev/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 11:46:40+00:00",
+      "rank": 28,
+      "source": "Hacker News",
+      "title": "The case for MUDs in modern times (2018)",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 07:02:43+00:00",
+      "rank": 29,
+      "source": "Hacker News",
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 11:13:59+00:00",
+      "rank": 30,
+      "source": "Hacker News",
+      "title": "The IBM PC, Part 1: Arrival",
+      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 10:15:29+00:00",
+      "rank": 31,
+      "source": "Hacker News",
+      "title": "Game of Trees \u2013 Git-based version control from OpenBSD folks",
+      "url": "https://www.gameoftrees.org/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:40:49+00:00",
+      "rank": 32,
+      "source": "Hacker News",
+      "title": "The rise and fall of language diversity through the Holocene",
+      "url": "https://www.science.org/doi/10.1126/science.adx4343"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 17:59:08+00:00",
+      "rank": 33,
+      "source": "Hacker News",
+      "title": "Gsxui \u2013 Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 12:15:11+00:00",
+      "rank": 34,
+      "source": "Hacker News",
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 08:29:11+00:00",
+      "rank": 35,
+      "source": "Hacker News",
+      "title": "The Book Prize Index",
+      "url": "https://book-prize-index.vercel.app"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:33:26+00:00",
+      "rank": 36,
+      "source": "Hacker News",
+      "title": "Proving a human wrote something",
+      "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 13:57:22+00:00",
+      "rank": 37,
+      "source": "Hacker News",
+      "title": "Plants vs. Zombies for PlayStation 2",
+      "url": "https://github.com/OptiJuegos/pvz-ps2"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 22:24:08+00:00",
+      "rank": 38,
+      "source": "Hacker News",
+      "title": "AIs don't do what you want. This is bad",
+      "url": "https://rewardhacking.org"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 14:06:03+00:00",
+      "rank": 39,
+      "source": "Hacker News",
+      "title": "Writing a Debugger from Scratch",
+      "url": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 07:05:58+00:00",
+      "rank": 40,
+      "source": "Hacker News",
+      "title": "The hardest way to make a GIF",
+      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 17:28:59+00:00",
+      "rank": 41,
+      "source": "Hacker News",
+      "title": "The small, real, original web",
+      "url": "https://spacetimetech.wordpress.com/2026/07/19/the-small-real-original-web/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 17:00:23+00:00",
+      "rank": 42,
+      "source": "Hacker News",
+      "title": "DuckPGQ \u2013 A DuckDB community extension for graph workloads",
+      "url": "https://duckpgq.org/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 14:23:39+00:00",
+      "rank": 43,
+      "source": "Hacker News",
+      "title": "3GPP Version 19",
+      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 12:34:28+00:00",
+      "rank": 44,
+      "source": "Hacker News",
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 13:47:04+00:00",
+      "rank": 45,
+      "source": "Hacker News",
+      "title": "My Emacs Configuration (Dired)",
+      "url": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 14:04:50+00:00",
+      "rank": 46,
+      "source": "Hacker News",
+      "title": "WebGPU Unleashed: A Practical Tutorial",
+      "url": "https://shi-yan.github.io/webgpuunleashed/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 18:07:08+00:00",
+      "rank": 47,
+      "source": "Hacker News",
+      "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+      "url": "https://blog.cloudflare.com/bgp-origin-attribute/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 16:47:23+00:00",
+      "rank": 48,
+      "source": "Hacker News",
+      "title": "Online Historical Encyclopaedia of Programming Languages",
+      "url": "https://hopl.info/"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 14:28:38+00:00",
+      "rank": 49,
+      "source": "Hacker News",
+      "title": "Co-Opting Linux Processes for High-Performance Network Simulation (2022)",
+      "url": "https://www.usenix.org/conference/atc22/presentation/jansen"
+    },
+    {
+      "excerpt": "",
+      "published_at": "2026-07-24 23:13:18+00:00",
+      "rank": 50,
+      "source": "Hacker News",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/"
+    }
+  ],
+  "metrics": {
+    "published_items": 50,
+    "retained_articles": 50
+  },
+  "report_date": "2026-07-24",
+  "status": "PARTIAL DATA",
+  "version": 1
+}
