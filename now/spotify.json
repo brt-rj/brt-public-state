@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T07:02:03.945332+00:00",
+  "generated_at": "2026-07-31T07:08:16.716061+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Bellbottoms",
+    "artist": "The Jon Spencer Blues Explosion",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b273dc7ad9c31c30976b5477db31",
+    "url": "https://open.spotify.com/track/6CvB4TqrDQKmdBd3nNmT9t",
+    "is_playing": false
+  },
   "recently_played": [
+    {
+      "name": "Kurukuru Kan (Afro Nisha)",
+      "artist": "A.R. Rahman",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c48109bc625b3ebbadc08035",
+      "url": "https://open.spotify.com/track/6WaeBF1XmVP5OAOFDGCU1p",
+      "played_at": "2026-07-31T07:06:13.540Z"
+    },
+    {
+      "name": "Kurukuru Kan (Afro Nisha)",
+      "artist": "A.R. Rahman",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273c48109bc625b3ebbadc08035",
+      "url": "https://open.spotify.com/track/6WaeBF1XmVP5OAOFDGCU1p",
+      "played_at": "2026-07-30T14:22:24.218Z"
+    },
     {
       "name": "Yaaro Ivan Yaaro",
       "artist": "Govind Vasantha, Kamal Haasan, Uma Devi",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2737e86df2b3a35c59564738524",
       "url": "https://open.spotify.com/track/3umPmjP5dmxSnYgbqv5ne4",
-      "played_at": "2026-07-30T05:05:51.216Z"
-    },
-    {
-      "name": "Kannadi Poove (From \"Retro\")",
-      "artist": "Santhosh Narayanan, Vivek",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2733feeceaf6adaa22e57791da0",
-      "url": "https://open.spotify.com/track/4tJz5wXpwIvG2KMKPbYWwz",
-      "played_at": "2026-07-30T04:40:44.550Z"
-    },
-    {
-      "name": "Sthuthi (From \"Bougainvillea\")",
-      "artist": "Sushin Shyam, Mary Ann Alexander, Vinayak Sasikumar",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b2732e0e8cf184bfe6bb0c4bb08f",
-      "url": "https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8",
-      "played_at": "2026-07-30T04:36:23.143Z"
+      "played_at": "2026-07-30T13:49:46.448Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
