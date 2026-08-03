@@ -6,7 +6,7 @@
       "metrics": {
         "coverage": 0.458,
         "diversity": 0.5,
-        "freshness": 0.802,
+        "freshness": 0.557,
         "gravity": 0.0,
         "prominence": 0.815
       },
@@ -17,7 +17,7 @@
         "title": "\u2018Crush this lady\u2019: how eBay harassment campaign led to $56mn payout",
         "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1"
       },
-      "score": 0.368,
+      "score": 0.256,
       "source_classes": [
         "Hacker News",
         "RSS"
@@ -36,7 +36,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.915,
+        "freshness": 0.635,
         "gravity": 0.0,
         "prominence": 0.779
       },
@@ -47,7 +47,7 @@
         "title": "AI poster wins Ohio State Fair contest",
         "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest"
       },
-      "score": 0.349,
+      "score": 0.242,
       "source_classes": [
         "Hacker News"
       ],
@@ -65,7 +65,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.847,
+        "freshness": 0.588,
         "gravity": 0.0,
         "prominence": 0.797
       },
@@ -76,7 +76,7 @@
         "title": "EU Age Verification Project Mandates Hardware-Bound Attestation",
         "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/"
       },
-      "score": 0.327,
+      "score": 0.227,
       "source_classes": [
         "Hacker News"
       ],
@@ -90,11 +90,40 @@
     },
     {
       "article_count": 1,
+      "cluster_id": "cluster-0c2a6dc17559",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.55,
+        "gravity": 0.0,
+        "prominence": 0.877
+      },
+      "newest_published_at": "2026-08-02T18:59:05Z",
+      "representative": {
+        "publisher": "ykvm.com",
+        "summary": "",
+        "title": "SwiftUI After 7 Years",
+        "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"
+      },
+      "score": 0.226,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "ykvm.com",
+          "title": "SwiftUI After 7 Years",
+          "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
       "cluster_id": "cluster-a7a78927ee28",
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.928,
+        "freshness": 0.644,
         "gravity": 0.0,
         "prominence": 0.671
       },
@@ -105,7 +134,7 @@
         "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
         "url": "https://github.com/pg83/shitty"
       },
-      "score": 0.324,
+      "score": 0.225,
       "source_classes": [
         "Hacker News"
       ],
@@ -123,7 +152,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.899,
+        "freshness": 0.624,
         "gravity": 0.0,
         "prominence": 0.656
       },
@@ -134,7 +163,7 @@
         "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
         "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/"
       },
-      "score": 0.309,
+      "score": 0.215,
       "source_classes": [
         "Hacker News"
       ],
@@ -152,7 +181,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.803,
+        "freshness": 0.558,
         "gravity": 0.0,
         "prominence": 0.766
       },
@@ -163,7 +192,7 @@
         "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
         "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/"
       },
-      "score": 0.303,
+      "score": 0.21,
       "source_classes": [
         "Hacker News"
       ],
@@ -181,7 +210,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.814,
+        "freshness": 0.565,
         "gravity": 0.0,
         "prominence": 0.716
       },
@@ -192,7 +221,7 @@
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "url": "https://frogs.vaguespac.es/"
       },
-      "score": 0.295,
+      "score": 0.205,
       "source_classes": [
         "Hacker News"
       ],
@@ -210,7 +239,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.85,
+        "freshness": 0.59,
         "gravity": 0.0,
         "prominence": 0.649
       },
@@ -221,7 +250,7 @@
         "title": "AI Mania: From Tulips to Tokens",
         "url": "https://seanhelvey.com/tools-and-their-tools/"
       },
-      "score": 0.291,
+      "score": 0.202,
       "source_classes": [
         "Hacker News"
       ],
@@ -239,7 +268,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.698,
+        "freshness": 0.484,
         "gravity": 0.0,
         "prominence": 0.855
       },
@@ -250,7 +279,7 @@
         "title": "How the words we teach English language learners changed",
         "url": "https://pudding.cool/2026/07/essential-words/"
       },
-      "score": 0.282,
+      "score": 0.196,
       "source_classes": [
         "Hacker News"
       ],
@@ -268,7 +297,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.718,
+        "freshness": 0.499,
         "gravity": 0.0,
         "prominence": 0.775
       },
@@ -279,7 +308,7 @@
         "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
         "url": "https://github.com/wie-project/kakehashi"
       },
-      "score": 0.273,
+      "score": 0.189,
       "source_classes": [
         "Hacker News"
       ],
@@ -297,7 +326,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.91,
+        "freshness": 0.632,
         "gravity": 0.0,
         "prominence": 0.483
       },
@@ -308,7 +337,7 @@
         "title": "The Computational Theory of Mind (2015)",
         "url": "https://plato.stanford.edu/entries/computational-mind/"
       },
-      "score": 0.266,
+      "score": 0.185,
       "source_classes": [
         "Hacker News"
       ],
@@ -326,7 +355,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.737,
+        "freshness": 0.511,
         "gravity": 0.0,
         "prominence": 0.687
       },
@@ -337,7 +366,7 @@
         "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
         "url": "https://github.com/graham33/nixos-dgx-spark"
       },
-      "score": 0.26,
+      "score": 0.181,
       "source_classes": [
         "Hacker News"
       ],
@@ -355,7 +384,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.676,
+        "freshness": 0.469,
         "gravity": 0.0,
         "prominence": 0.791
       },
@@ -366,7 +395,7 @@
         "title": "A Rant About \u201cTechnology\u201d (2005)",
         "url": "https://www.ursulakleguin.com/a-rant-about-technology"
       },
-      "score": 0.26,
+      "score": 0.18,
       "source_classes": [
         "Hacker News"
       ],
@@ -384,7 +413,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.773,
+        "freshness": 0.537,
         "gravity": 0.0,
         "prominence": 0.622
       },
@@ -395,7 +424,7 @@
         "title": "The Myth of Snow Leopard",
         "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/"
       },
-      "score": 0.258,
+      "score": 0.179,
       "source_classes": [
         "Hacker News"
       ],
@@ -413,7 +442,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.918,
+        "freshness": 0.638,
         "gravity": 0.0,
         "prominence": 0.442
       },
@@ -424,7 +453,7 @@
         "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89M",
         "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million"
       },
-      "score": 0.257,
+      "score": 0.178,
       "source_classes": [
         "Hacker News"
       ],
@@ -442,7 +471,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.893,
+        "freshness": 0.62,
         "gravity": 0.0,
         "prominence": 0.464
       },
@@ -453,7 +482,7 @@
         "title": "Show HN: Mu \u2013 Tools for Agents",
         "url": "https://github.com/micro/mu"
       },
-      "score": 0.256,
+      "score": 0.178,
       "source_classes": [
         "Hacker News"
       ],
@@ -471,7 +500,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.838,
+        "freshness": 0.582,
         "gravity": 0.0,
         "prominence": 0.522
       },
@@ -482,7 +511,7 @@
         "title": "Sharing an X11 Server Across Hosts with FamilyWild",
         "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/"
       },
-      "score": 0.255,
+      "score": 0.177,
       "source_classes": [
         "Hacker News"
       ],
@@ -500,7 +529,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.841,
+        "freshness": 0.584,
         "gravity": 0.0,
         "prominence": 0.516
       },
@@ -511,7 +540,7 @@
         "title": "Show HN: Make your Framework 12 sound like a creaky door",
         "url": "https://github.com/ArcaEge/creakwork12"
       },
-      "score": 0.254,
+      "score": 0.176,
       "source_classes": [
         "Hacker News"
       ],
@@ -529,7 +558,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.833,
+        "freshness": 0.578,
         "gravity": 0.0,
         "prominence": 0.514
       },
@@ -540,7 +569,7 @@
         "title": "Let the machines in",
         "url": "https://blog.semenzin.com/let-the-machines-in/"
       },
-      "score": 0.251,
+      "score": 0.174,
       "source_classes": [
         "Hacker News"
       ],
@@ -558,7 +587,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.897,
+        "freshness": 0.623,
         "gravity": 0.0,
         "prominence": 0.431
       },
@@ -569,7 +598,7 @@
         "title": "OpenAI\u2019s amazing \u2014 but vastly oversold \u2014 new model Astra",
         "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold"
       },
-      "score": 0.248,
+      "score": 0.172,
       "source_classes": [
         "Hacker News"
       ],
@@ -587,7 +616,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.943,
+        "freshness": 0.655,
         "gravity": 0.0,
         "prominence": 0.379
       },
@@ -598,7 +627,7 @@
         "title": "RFK Jr tells US families to vaccinate children against measles amid outbreak",
         "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination"
       },
-      "score": 0.246,
+      "score": 0.171,
       "source_classes": [
         "Hacker News"
       ],
@@ -616,7 +645,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.756,
+        "freshness": 0.525,
         "gravity": 0.0,
         "prominence": 0.591
       },
@@ -627,7 +656,7 @@
         "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
         "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/"
       },
-      "score": 0.245,
+      "score": 0.17,
       "source_classes": [
         "Hacker News"
       ],
@@ -645,7 +674,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.809,
+        "freshness": 0.562,
         "gravity": 0.0,
         "prominence": 0.518
       },
@@ -656,7 +685,7 @@
         "title": "Saying 'Google It' Makes You Sound Old",
         "url": "https://www.nytimes.com/2026/07/23/magazine/google-it-search-it-up.html"
       },
-      "score": 0.245,
+      "score": 0.17,
       "source_classes": [
         "Hacker News"
       ],
@@ -674,7 +703,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.873,
+        "freshness": 0.606,
         "gravity": 0.0,
         "prominence": 0.438
       },
@@ -685,7 +714,7 @@
         "title": "Flock \u2013 Chilling Effects: Long Island's Emerging Open-Air Prison",
         "url": "https://www.11971.com/"
       },
-      "score": 0.243,
+      "score": 0.169,
       "source_classes": [
         "Hacker News"
       ],
@@ -703,7 +732,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.715,
+        "freshness": 0.496,
         "gravity": 0.0,
         "prominence": 0.639
       },
@@ -714,7 +743,7 @@
         "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
         "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/"
       },
-      "score": 0.242,
+      "score": 0.168,
       "source_classes": [
         "Hacker News"
       ],
@@ -732,7 +761,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.893,
+        "freshness": 0.62,
         "gravity": 0.0,
         "prominence": 0.406
       },
@@ -743,7 +772,7 @@
         "title": "Ask HN: What are you working on? (August 2026)",
         "url": "https://news.ycombinator.com/item?id=49148884"
       },
-      "score": 0.24,
+      "score": 0.167,
       "source_classes": [
         "Hacker News"
       ],
@@ -761,7 +790,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.777,
+        "freshness": 0.54,
         "gravity": 0.0,
         "prominence": 0.538
       },
@@ -772,7 +801,7 @@
         "title": "A fresh look at CPU silent data corruption in modern data centers",
         "url": "https://cacm.acm.org/research/revisiting-cpu-silent-data-corruptions-in-modern-datacenters/"
       },
-      "score": 0.24,
+      "score": 0.167,
       "source_classes": [
         "Hacker News"
       ],
@@ -790,7 +819,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.618,
+        "freshness": 0.429,
         "gravity": 0.0,
         "prominence": 0.795
       },
@@ -801,7 +830,7 @@
         "title": "F*: A general-purpose proof-oriented programming language",
         "url": "https://fstar-lang.org/"
       },
-      "score": 0.238,
+      "score": 0.165,
       "source_classes": [
         "Hacker News"
       ],
@@ -819,7 +848,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.824,
+        "freshness": 0.573,
         "gravity": 0.0,
         "prominence": 0.463
       },
@@ -830,7 +859,7 @@
         "title": "TinyNES Review \u2013 A Super Niche NES Console",
         "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/"
       },
-      "score": 0.236,
+      "score": 0.164,
       "source_classes": [
         "Hacker News"
       ],
@@ -848,7 +877,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.939,
+        "freshness": 0.652,
         "gravity": 0.0,
         "prominence": 0.339
       },
@@ -859,7 +888,7 @@
         "title": "The diabolical world of convincing AI thirst traps",
         "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps"
       },
-      "score": 0.234,
+      "score": 0.162,
       "source_classes": [
         "Hacker News"
       ],
@@ -877,7 +906,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.726,
+        "freshness": 0.504,
         "gravity": 0.0,
         "prominence": 0.58
       },
@@ -888,7 +917,7 @@
         "title": "The Rise of Million-Dollar Companies with Just One Employee",
         "url": "https://www.wsj.com/tech/ai/the-rise-of-million-dollar-companies-with-just-one-employee-f36a77c1"
       },
-      "score": 0.233,
+      "score": 0.162,
       "source_classes": [
         "Hacker News"
       ],
@@ -906,7 +935,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.619,
+        "freshness": 0.43,
         "gravity": 0.0,
         "prominence": 0.748
       },
@@ -917,7 +946,7 @@
         "title": "Twenty Years of RISC OS Open",
         "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open"
       },
-      "score": 0.23,
+      "score": 0.16,
       "source_classes": [
         "Hacker News"
       ],
@@ -935,7 +964,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.932,
+        "freshness": 0.647,
         "gravity": 0.0,
         "prominence": 0.33
       },
@@ -946,7 +975,7 @@
         "title": "New spinning drone hides in plain sight",
         "url": "https://news.northwestern.edu/stories/2026/07/new-spinning-drone-hides-in-plain-sight"
       },
-      "score": 0.229,
+      "score": 0.159,
       "source_classes": [
         "Hacker News"
       ],
@@ -964,7 +993,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.83,
+        "freshness": 0.577,
         "gravity": 0.0,
         "prominence": 0.425
       },
@@ -975,7 +1004,7 @@
         "title": "Adding Go's Defer to the TypeScript Compiler",
         "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler"
       },
-      "score": 0.228,
+      "score": 0.158,
       "source_classes": [
         "Hacker News"
       ],
@@ -993,7 +1022,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.916,
+        "freshness": 0.636,
         "gravity": 0.0,
         "prominence": 0.335
       },
@@ -1004,7 +1033,7 @@
         "title": "What Else Do We Lose When People Give Up Booze?",
         "url": "https://www.nytimes.com/2026/08/01/style/what-else-do-we-lose-when-people-give-up-booze.html"
       },
-      "score": 0.227,
+      "score": 0.157,
       "source_classes": [
         "Hacker News"
       ],
@@ -1022,7 +1051,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.83,
+        "freshness": 0.576,
         "gravity": 0.0,
         "prominence": 0.418
       },
@@ -1033,7 +1062,7 @@
         "title": "Show HN: MicroCodex Coding Agent \u2013 OpenAI/codex reimplemented in C++ <1MB binary",
         "url": "https://github.com/paoloanzn/microcodex"
       },
-      "score": 0.226,
+      "score": 0.157,
       "source_classes": [
         "Hacker News"
       ],
@@ -1047,11 +1076,40 @@
     },
     {
       "article_count": 1,
+      "cluster_id": "cluster-3742b8f464a1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.604,
+        "gravity": 0.0,
+        "prominence": 0.372
+      },
+      "newest_published_at": "2026-08-02T21:25:27Z",
+      "representative": {
+        "publisher": "quarters.captaintouch.com",
+        "summary": "",
+        "title": "Let kids be kids: When collectibles lose their playfulness",
+        "url": "https://quarters.captaintouch.com/blog/posts/2026-08-02-let-kids-be-kids:-when-collectibles-lose-their-playfulness.html"
+      },
+      "score": 0.156,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "quarters.captaintouch.com",
+          "title": "Let kids be kids: When collectibles lose their playfulness",
+          "url": "https://quarters.captaintouch.com/blog/posts/2026-08-02-let-kids-be-kids:-when-collectibles-lose-their-playfulness.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
       "cluster_id": "cluster-2a5c34c570b2",
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.595,
+        "freshness": 0.414,
         "gravity": 0.0,
         "prominence": 0.742
       },
@@ -1062,7 +1120,7 @@
         "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
         "url": "https://meshdiff.com/"
       },
-      "score": 0.22,
+      "score": 0.153,
       "source_classes": [
         "Hacker News"
       ],
@@ -1080,7 +1138,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.919,
+        "freshness": 0.638,
         "gravity": 0.0,
         "prominence": 0.306
       },
@@ -1091,7 +1149,7 @@
         "title": "Supply and Demand Is Not What Most People Think",
         "url": "https://shonczinner.substack.com/p/supply-and-demand-is-not-what-most"
       },
-      "score": 0.22,
+      "score": 0.153,
       "source_classes": [
         "Hacker News"
       ],
@@ -1109,7 +1167,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.915,
+        "freshness": 0.635,
         "gravity": 0.0,
         "prominence": 0.308
       },
@@ -1120,7 +1178,7 @@
         "title": "Negative social ties as risks for faster aging, inflammation, and multimorbidity",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933095/"
       },
-      "score": 0.219,
+      "score": 0.152,
       "source_classes": [
         "Hacker News"
       ],
@@ -1138,7 +1196,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.591,
+        "freshness": 0.411,
         "gravity": 0.0,
         "prominence": 0.707
       },
@@ -1149,7 +1207,7 @@
         "title": "Show HN: Fuse \u2013 statically typed functional programming language",
         "url": "https://fuselang.org"
       },
-      "score": 0.212,
+      "score": 0.148,
       "source_classes": [
         "Hacker News"
       ],
@@ -1167,7 +1225,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.894,
+        "freshness": 0.621,
         "gravity": 0.0,
         "prominence": 0.289
       },
@@ -1178,7 +1236,7 @@
         "title": "Coldcard wallet RNG flaw likely linked to $88M Bitcoin theft",
         "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/"
       },
-      "score": 0.209,
+      "score": 0.145,
       "source_classes": [
         "Hacker News"
       ],
@@ -1196,7 +1254,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.902,
+        "freshness": 0.626,
         "gravity": 0.0,
         "prominence": 0.279
       },
@@ -1207,7 +1265,7 @@
         "title": "Tips for Landing a YC Internship?",
         "url": "https://news.ycombinator.com/item?id=49149028"
       },
-      "score": 0.208,
+      "score": 0.145,
       "source_classes": [
         "Hacker News"
       ],
@@ -1225,7 +1283,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.573,
+        "freshness": 0.398,
         "gravity": 0.0,
         "prominence": 0.721
       },
@@ -1236,7 +1294,7 @@
         "title": "Rust All Hands 2026 Retrospective",
         "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/"
       },
-      "score": 0.208,
+      "score": 0.144,
       "source_classes": [
         "Hacker News"
       ],
@@ -1254,7 +1312,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.937,
+        "freshness": 0.65,
         "gravity": 0.0,
         "prominence": 0.247
       },
@@ -1265,7 +1323,7 @@
         "title": "Crypto miners are stealing power in Southeast Asia",
         "url": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364"
       },
-      "score": 0.207,
+      "score": 0.144,
       "source_classes": [
         "Hacker News"
       ],
@@ -1283,7 +1341,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.567,
+        "freshness": 0.394,
         "gravity": 0.0,
         "prominence": 0.728
       },
@@ -1294,7 +1352,7 @@
         "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
         "url": "https://publicdomainreview.org/essay/ars-notoria/"
       },
-      "score": 0.207,
+      "score": 0.144,
       "source_classes": [
         "Hacker News"
       ],
@@ -1312,7 +1370,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.937,
+        "freshness": 0.651,
         "gravity": 0.0,
         "prominence": 0.239
       },
@@ -1323,7 +1381,7 @@
         "title": "Why Were the Dabaos Late?",
         "url": "https://www.crowdsupply.com/baochip/dabao/updates/why-were-the-dabaos-late"
       },
-      "score": 0.205,
+      "score": 0.143,
       "source_classes": [
         "Hacker News"
       ],
@@ -1341,7 +1399,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.799,
+        "freshness": 0.555,
         "gravity": 0.0,
         "prominence": 0.357
       },
@@ -1352,7 +1410,7 @@
         "title": "Coursera Bets $100M That Andrew Ng Can Do What Coursera Can't",
         "url": "https://www.classcentral.com/report/coursera-andrew-ng-learnvector-investment/"
       },
-      "score": 0.203,
+      "score": 0.141,
       "source_classes": [
         "Hacker News"
       ],
@@ -1370,7 +1428,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.846,
+        "freshness": 0.588,
         "gravity": 0.0,
         "prominence": 0.305
       },
@@ -1381,7 +1439,7 @@
         "title": "Special Relativity Boot Camp: A Geometry-First Introduction to Special Relativit",
         "url": "https://www.acsu.buffalo.edu/~whkinney/SpecialRelativityBootCamp/"
       },
-      "score": 0.202,
+      "score": 0.14,
       "source_classes": [
         "Hacker News"
       ],
@@ -1399,7 +1457,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.541,
+        "freshness": 0.376,
         "gravity": 0.0,
         "prominence": 0.748
       },
@@ -1410,7 +1468,7 @@
         "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
         "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/"
       },
-      "score": 0.201,
+      "score": 0.14,
       "source_classes": [
         "Hacker News"
       ],
@@ -1428,7 +1486,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.85,
+        "freshness": 0.591,
         "gravity": 0.0,
         "prominence": 0.289
       },
@@ -1439,7 +1497,7 @@
         "title": "Bubble Memory",
         "url": "https://en.wikipedia.org/wiki/Bubble_memory"
       },
-      "score": 0.199,
+      "score": 0.138,
       "source_classes": [
         "Hacker News"
       ],
@@ -1457,7 +1515,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.446,
+        "freshness": 0.31,
         "gravity": 0.0,
         "prominence": 0.981
       },
@@ -1468,7 +1526,7 @@
         "title": "Karpathy\u2019s Pelican",
         "url": "https://twitter.com/karpathy/status/2083749667410727319"
       },
-      "score": 0.197,
+      "score": 0.137,
       "source_classes": [
         "Hacker News"
       ],
@@ -1486,7 +1544,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.747,
+        "freshness": 0.519,
         "gravity": 0.0,
         "prominence": 0.387
       },
@@ -1497,7 +1555,7 @@
         "title": "I Learned to Stop Worrying and Love the Mask",
         "url": "https://dispatchesfromtheautismwars.substack.com/p/how-i-learned-to-stop-worrying-and"
       },
-      "score": 0.197,
+      "score": 0.137,
       "source_classes": [
         "Hacker News"
       ],
@@ -1515,7 +1573,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.556,
+        "freshness": 0.386,
         "gravity": 0.0,
         "prominence": 0.669
       },
@@ -1526,7 +1584,7 @@
         "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
         "url": "https://github.com/syncular/syncular"
       },
-      "score": 0.193,
+      "score": 0.134,
       "source_classes": [
         "Hacker News"
       ],
@@ -1544,7 +1602,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.69,
+        "freshness": 0.479,
         "gravity": 0.0,
         "prominence": 0.411
       },
@@ -1555,7 +1613,7 @@
         "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
         "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/"
       },
-      "score": 0.187,
+      "score": 0.13,
       "source_classes": [
         "Hacker News"
       ],
@@ -1573,7 +1631,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.798,
+        "freshness": 0.554,
         "gravity": 0.0,
         "prominence": 0.272
       },
@@ -1584,7 +1642,7 @@
         "title": "The End of Everything by M. John Harrison",
         "url": "https://www.lrb.co.uk/the-paper/v48/n13/edmund-gordon/uncanny-little-blighter"
       },
-      "score": 0.182,
+      "score": 0.127,
       "source_classes": [
         "Hacker News"
       ],
@@ -1602,7 +1660,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.518,
+        "freshness": 0.36,
         "gravity": 0.0,
         "prominence": 0.678
       },
@@ -1613,7 +1671,7 @@
         "title": "Cyberscript",
         "url": "https://cyberscript.dev"
       },
-      "score": 0.182,
+      "score": 0.126,
       "source_classes": [
         "Hacker News"
       ],
@@ -1631,7 +1689,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.451,
+        "freshness": 0.313,
         "gravity": 0.0,
         "prominence": 0.847
       },
@@ -1642,7 +1700,7 @@
         "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
         "url": "https://www.wafer.ai/blog/kimi-k3-mi355x"
       },
-      "score": 0.181,
+      "score": 0.126,
       "source_classes": [
         "Hacker News"
       ],
@@ -1660,7 +1718,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.913,
+        "freshness": 0.634,
         "gravity": 0.0,
         "prominence": 0.156
       },
@@ -1671,7 +1729,7 @@
         "title": "Unexpected events and prosocial behavior: the Batman effect",
         "url": "https://www.nature.com/articles/s44184-025-00171-5"
       },
-      "score": 0.177,
+      "score": 0.123,
       "source_classes": [
         "Hacker News"
       ],
@@ -1689,7 +1747,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.785,
+        "freshness": 0.545,
         "gravity": 0.0,
         "prominence": 0.259
       },
@@ -1700,7 +1758,7 @@
         "title": "KotlinLLM",
         "url": "https://github.com/JetBrains-Research/kotlinllm-plugin"
       },
-      "score": 0.177,
+      "score": 0.123,
       "source_classes": [
         "Hacker News"
       ],
@@ -1718,7 +1776,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.577,
+        "freshness": 0.401,
         "gravity": 0.0,
         "prominence": 0.516
       },
@@ -1729,7 +1787,7 @@
         "title": "Show HN: Katharos Functional programming and CSP-style concurrency for Python",
         "url": "https://github.com/kamalfarahani/katharos"
       },
-      "score": 0.174,
+      "score": 0.121,
       "source_classes": [
         "Hacker News"
       ],
@@ -1747,7 +1805,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.405,
+        "freshness": 0.282,
         "gravity": 0.0,
         "prominence": 0.939
       },
@@ -1758,7 +1816,7 @@
         "title": "Go 1.27 Interactive Tour",
         "url": "https://victoriametrics.com/blog/go-1-27/index.html"
       },
-      "score": 0.174,
+      "score": 0.121,
       "source_classes": [
         "Hacker News"
       ],
@@ -1776,7 +1834,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.414,
+        "freshness": 0.287,
         "gravity": 0.0,
         "prominence": 0.9
       },
@@ -1787,7 +1845,7 @@
         "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
         "url": "https://github.com/tom-ilan/cycloidal_gearbox"
       },
-      "score": 0.173,
+      "score": 0.12,
       "source_classes": [
         "Hacker News"
       ],
@@ -1805,7 +1863,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.775,
+        "freshness": 0.538,
         "gravity": 0.0,
         "prominence": 0.239
       },
@@ -1816,7 +1874,7 @@
         "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
         "url": "https://github.com/gakonst/nanocodex"
       },
-      "score": 0.17,
+      "score": 0.118,
       "source_classes": [
         "Hacker News"
       ],
@@ -1834,7 +1892,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.498,
+        "freshness": 0.346,
         "gravity": 0.0,
         "prominence": 0.64
       },
@@ -1845,7 +1903,7 @@
         "title": "ESP32-C3 SuperMini antenna modification",
         "url": "https://peterneufeld.wordpress.com/2025/03/04/esp32-c3-supermini-antenna-modification/"
       },
-      "score": 0.169,
+      "score": 0.117,
       "source_classes": [
         "Hacker News"
       ],
@@ -1863,7 +1921,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.77,
+        "freshness": 0.534,
         "gravity": 0.0,
         "prominence": 0.239
       },
@@ -1874,7 +1932,7 @@
         "title": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source"
       },
-      "score": 0.169,
+      "score": 0.117,
       "source_classes": [
         "Hacker News"
       ],
@@ -1892,7 +1950,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.787,
+        "freshness": 0.547,
         "gravity": 0.0,
         "prominence": 0.202
       },
@@ -1903,7 +1961,7 @@
         "title": "AI-assisted analytics now 10x cheaper",
         "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/"
       },
-      "score": 0.164,
+      "score": 0.114,
       "source_classes": [
         "Hacker News"
       ],
@@ -1921,7 +1979,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.789,
+        "freshness": 0.548,
         "gravity": 0.0,
         "prominence": 0.181
       },
@@ -1932,7 +1990,7 @@
         "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
         "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx"
       },
-      "score": 0.159,
+      "score": 0.11,
       "source_classes": [
         "Hacker News"
       ],
@@ -1950,7 +2008,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.426,
+        "freshness": 0.296,
         "gravity": 0.0,
         "prominence": 0.733
       },
@@ -1961,7 +2019,7 @@
         "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
         "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#"
       },
-      "score": 0.156,
+      "score": 0.108,
       "source_classes": [
         "Hacker News"
       ],
@@ -1979,7 +2037,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.432,
+        "freshness": 0.3,
         "gravity": 0.0,
         "prominence": 0.673
       },
@@ -1990,7 +2048,7 @@
         "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
         "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html"
       },
-      "score": 0.151,
+      "score": 0.105,
       "source_classes": [
         "Hacker News"
       ],
@@ -2008,7 +2066,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.77,
+        "freshness": 0.535,
         "gravity": 0.0,
         "prominence": 0.156
       },
@@ -2019,7 +2077,7 @@
         "title": "Combinatorial Materials Synthesis(2023) [pdf]",
         "url": "https://gregoire.people.caltech.edu/documents/22843/CombinatorialMaterialsSynthesis_preprint.pdf"
       },
-      "score": 0.149,
+      "score": 0.104,
       "source_classes": [
         "Hacker News"
       ],
@@ -2037,7 +2095,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.405,
+        "freshness": 0.281,
         "gravity": 0.0,
         "prominence": 0.736
       },
@@ -2048,7 +2106,7 @@
         "title": "ASRock BC-250: Building the Budget Steam Machine",
         "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/"
       },
-      "score": 0.149,
+      "score": 0.104,
       "source_classes": [
         "Hacker News"
       ],
@@ -2066,7 +2124,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.961,
+        "freshness": 0.667,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2077,7 +2135,7 @@
         "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
         "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1"
       },
-      "score": 0.141,
+      "score": 0.098,
       "source_classes": [
         "RSS"
       ],
@@ -2095,7 +2153,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.947,
+        "freshness": 0.658,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2106,7 +2164,7 @@
         "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
         "url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon"
       },
-      "score": 0.14,
+      "score": 0.097,
       "source_classes": [
         "RSS"
       ],
@@ -2124,7 +2182,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.946,
+        "freshness": 0.657,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2135,7 +2193,7 @@
         "title": "'What was my fault?': How India's exam paper leak ended young lives",
         "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.139,
+      "score": 0.097,
       "source_classes": [
         "RSS"
       ],
@@ -2153,7 +2211,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.936,
+        "freshness": 0.65,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2164,7 +2222,7 @@
         "title": "Tale of two halves leaves Iraola with plenty to ponder",
         "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.138,
+      "score": 0.096,
       "source_classes": [
         "RSS"
       ],
@@ -2182,7 +2240,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.934,
+        "freshness": 0.649,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2193,7 +2251,7 @@
         "title": "The change that may help you get a mortgage as a first-time buyer",
         "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.138,
+      "score": 0.096,
       "source_classes": [
         "RSS"
       ],
@@ -2211,7 +2269,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.934,
+        "freshness": 0.648,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2222,7 +2280,7 @@
         "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
         "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.137,
+      "score": 0.095,
       "source_classes": [
         "RSS"
       ],
@@ -2240,7 +2298,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.924,
+        "freshness": 0.642,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2251,7 +2309,7 @@
         "title": "Do videos show Secret Service agent smelling Trump's diaper at Lindsey Graham's funeral? There's no proof",
         "url": "https://www.snopes.com/news/2026/08/02/trump-diaper-lindsey-graham-funeral/"
       },
-      "score": 0.136,
+      "score": 0.095,
       "source_classes": [
         "RSS"
       ],
@@ -2269,7 +2327,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.917,
+        "freshness": 0.636,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2280,7 +2338,7 @@
         "title": "Trump says Iran talks to resume after US called off major attack",
         "url": "https://www.ft.com/content/c9bd508c-2915-4b34-a5a5-553bff9548a5?syn-25a6b1a6=1"
       },
-      "score": 0.135,
+      "score": 0.094,
       "source_classes": [
         "RSS"
       ],
@@ -2298,7 +2356,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.891,
+        "freshness": 0.618,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2309,7 +2367,7 @@
         "title": "Uefa threatens legal action over Infantino\u2019s failed Fifa commercialisation",
         "url": "https://www.ft.com/content/ddb7c0d4-c156-48a0-b30f-d03f605a1a9c?syn-25a6b1a6=1"
       },
-      "score": 0.131,
+      "score": 0.091,
       "source_classes": [
         "RSS"
       ],
@@ -2327,7 +2385,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.403,
+        "freshness": 0.28,
         "gravity": 0.0,
         "prominence": 0.588
       },
@@ -2338,7 +2396,7 @@
         "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
         "url": "https://yarchive.net/comp/128bit.html"
       },
-      "score": 0.13,
+      "score": 0.091,
       "source_classes": [
         "Hacker News"
       ],
@@ -2356,7 +2414,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.881,
+        "freshness": 0.612,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2367,7 +2425,7 @@
         "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
         "url": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.13,
+      "score": 0.09,
       "source_classes": [
         "RSS"
       ],
@@ -2385,7 +2443,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.875,
+        "freshness": 0.607,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2396,7 +2454,7 @@
         "title": "The global memory shortage hits the MacBook Air",
         "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
       },
-      "score": 0.129,
+      "score": 0.089,
       "source_classes": [
         "RSS"
       ],
@@ -2414,7 +2472,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.866,
+        "freshness": 0.601,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2425,7 +2483,7 @@
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.128,
+      "score": 0.089,
       "source_classes": [
         "RSS"
       ],
@@ -2443,7 +2501,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.853,
+        "freshness": 0.592,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2454,7 +2512,7 @@
         "title": "Sam Altman and AI\u2019s decel debate",
         "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
       },
-      "score": 0.126,
+      "score": 0.087,
       "source_classes": [
         "RSS"
       ],
@@ -2472,7 +2530,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.843,
+        "freshness": 0.586,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2483,7 +2541,7 @@
         "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.124,
+      "score": 0.086,
       "source_classes": [
         "RSS"
       ],
@@ -2501,7 +2559,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.804,
+        "freshness": 0.558,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2512,7 +2570,7 @@
         "title": "Kuwaki wins Women's Open after Henseleit's ball strikes marshal",
         "url": "https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.118,
+      "score": 0.082,
       "source_classes": [
         "RSS"
       ],
@@ -2530,7 +2588,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.796,
+        "freshness": 0.553,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2541,7 +2599,7 @@
         "title": "Irish boxer Reeves 'critical but stable' in hospital",
         "url": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.117,
+      "score": 0.081,
       "source_classes": [
         "RSS"
       ],
@@ -2559,7 +2617,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.793,
+        "freshness": 0.55,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2570,7 +2628,7 @@
         "title": "Day to remember for record-breaking Finucane",
         "url": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.117,
+      "score": 0.081,
       "source_classes": [
         "RSS"
       ],
@@ -2588,7 +2646,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.783,
+        "freshness": 0.544,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2599,7 +2657,7 @@
         "title": "Multiple trackside fires halt trains between London and Stansted Airport",
         "url": "https://www.bbc.co.uk/news/articles/cr49q3drdpxo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.115,
+      "score": 0.08,
       "source_classes": [
         "RSS"
       ],
@@ -2617,7 +2675,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.783,
+        "freshness": 0.543,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2628,7 +2686,7 @@
         "title": "How ransom notes could help catch Nancy Guthrie's kidnappers",
         "url": "https://www.bbc.co.uk/news/articles/c2dkng21dg2o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.115,
+      "score": 0.08,
       "source_classes": [
         "RSS"
       ],
@@ -2646,7 +2704,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.781,
+        "freshness": 0.543,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2657,7 +2715,7 @@
         "title": "Chelsea sign Strasbourg midfielder Barco",
         "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.115,
+      "score": 0.08,
       "source_classes": [
         "RSS"
       ],
@@ -2675,7 +2733,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.778,
+        "freshness": 0.54,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2686,7 +2744,7 @@
         "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
         "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering"
       },
-      "score": 0.115,
+      "score": 0.08,
       "source_classes": [
         "RSS"
       ],
@@ -2704,7 +2762,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.763,
+        "freshness": 0.53,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2715,7 +2773,7 @@
         "title": "20 alleged RFK Jr. quotes we've investigated",
         "url": "https://www.snopes.com/collections/rfk-jr-quotes-collection/"
       },
-      "score": 0.112,
+      "score": 0.078,
       "source_classes": [
         "RSS"
       ],
@@ -2733,7 +2791,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.759,
+        "freshness": 0.527,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2744,7 +2802,7 @@
         "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
         "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.112,
+      "score": 0.078,
       "source_classes": [
         "RSS"
       ],
@@ -2762,7 +2820,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.753,
+        "freshness": 0.523,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2773,7 +2831,7 @@
         "title": "Massive Attack respond after Singapore ban over Palestine display",
         "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.111,
+      "score": 0.077,
       "source_classes": [
         "RSS"
       ],
@@ -2791,7 +2849,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.749,
+        "freshness": 0.52,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2802,7 +2860,7 @@
         "title": "Monte dei Paschi explores Banco BPM takeover after \u2018merger of equals\u2019 talks collapse",
         "url": "https://www.ft.com/content/4ce36d22-571d-4532-8a8f-078e8fba34ff?syn-25a6b1a6=1"
       },
-      "score": 0.11,
+      "score": 0.077,
       "source_classes": [
         "RSS"
       ],
@@ -2820,7 +2878,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.736,
+        "freshness": 0.511,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2831,7 +2889,7 @@
         "title": "Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School",
         "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/"
       },
-      "score": 0.108,
+      "score": 0.075,
       "source_classes": [
         "RSS"
       ],
@@ -2849,7 +2907,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.723,
+        "freshness": 0.502,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2860,7 +2918,7 @@
         "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
         "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.106,
+      "score": 0.074,
       "source_classes": [
         "RSS"
       ],
@@ -2878,7 +2936,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.708,
+        "freshness": 0.492,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2889,7 +2947,7 @@
         "title": "TechCrunch Mobility: Two roads diverged \u2014 for robotaxis",
         "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/"
       },
-      "score": 0.104,
+      "score": 0.072,
       "source_classes": [
         "RSS"
       ],
@@ -2907,7 +2965,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.706,
+        "freshness": 0.49,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2918,7 +2976,7 @@
         "title": "Alonso heals Real Madrid scars to lead Chelsea's senior revolution",
         "url": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.104,
+      "score": 0.072,
       "source_classes": [
         "RSS"
       ],
@@ -2936,7 +2994,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.706,
+        "freshness": 0.49,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2947,7 +3005,7 @@
         "title": "America\u2019s biggest companies report \u2018rock solid\u2019 profits as consumers face higher costs",
         "url": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1"
       },
-      "score": 0.104,
+      "score": 0.072,
       "source_classes": [
         "RSS"
       ],
@@ -2965,7 +3023,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.702,
+        "freshness": 0.487,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -2976,7 +3034,7 @@
         "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
         "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.103,
+      "score": 0.072,
       "source_classes": [
         "RSS"
       ],
@@ -2994,7 +3052,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.701,
+        "freshness": 0.487,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3005,7 +3063,7 @@
         "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
         "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.103,
+      "score": 0.072,
       "source_classes": [
         "RSS"
       ],
@@ -3023,7 +3081,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.69,
+        "freshness": 0.479,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3034,7 +3092,7 @@
         "title": "These App Store hidden gems prove there\u2019s still room for great software in the AI era",
         "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
       },
-      "score": 0.102,
+      "score": 0.071,
       "source_classes": [
         "RSS"
       ],
@@ -3052,7 +3110,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.689,
+        "freshness": 0.478,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3063,7 +3121,7 @@
         "title": "Morocco counts its dead and missing after mass swim to Ceuta",
         "url": "https://www.ft.com/content/a01171e8-f8a1-4e2c-b3f7-f79f9cd11651?syn-25a6b1a6=1"
       },
-      "score": 0.101,
+      "score": 0.07,
       "source_classes": [
         "RSS"
       ],
@@ -3081,7 +3139,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.687,
+        "freshness": 0.477,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3092,7 +3150,7 @@
         "title": "Four arrested over hate crime attack on ship crew",
         "url": "https://www.bbc.co.uk/news/articles/cx2mppyzgedo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.101,
+      "score": 0.07,
       "source_classes": [
         "RSS"
       ],
@@ -3110,7 +3168,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.66,
+        "freshness": 0.458,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3121,7 +3179,7 @@
         "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
         "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.097,
+      "score": 0.067,
       "source_classes": [
         "RSS"
       ],
@@ -3139,7 +3197,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.644,
+        "freshness": 0.447,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3150,7 +3208,7 @@
         "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
         "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane"
       },
-      "score": 0.095,
+      "score": 0.066,
       "source_classes": [
         "RSS"
       ],
@@ -3168,7 +3226,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.64,
+        "freshness": 0.444,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3179,7 +3237,7 @@
         "title": "Dark matter\u2019s secret force does the opposite of what scientists expected",
         "url": "https://www.sciencedaily.com/releases/2026/08/260801042822.htm"
       },
-      "score": 0.094,
+      "score": 0.065,
       "source_classes": [
         "RSS"
       ],
@@ -3197,7 +3255,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.639,
+        "freshness": 0.443,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3208,7 +3266,7 @@
         "title": "Without this protein, damaged muscle turns to fat and scar tissue",
         "url": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm"
       },
-      "score": 0.094,
+      "score": 0.065,
       "source_classes": [
         "RSS"
       ],
@@ -3226,7 +3284,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.633,
+        "freshness": 0.44,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3237,7 +3295,7 @@
         "title": "Mathematicians prove perfectly fair elections are impossible",
         "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
       },
-      "score": 0.093,
+      "score": 0.065,
       "source_classes": [
         "RSS"
       ],
@@ -3255,7 +3313,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.629,
+        "freshness": 0.437,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3266,7 +3324,7 @@
         "title": "L'Or\u00e9al's CeraVe faces 6 class action lawsuits claiming products contain cancer-causing chemical",
         "url": "https://www.snopes.com/fact-check/loreal-cerave-class-action-lawsuits/"
       },
-      "score": 0.093,
+      "score": 0.064,
       "source_classes": [
         "RSS"
       ],
@@ -3284,7 +3342,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.619,
+        "freshness": 0.43,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3295,7 +3353,7 @@
         "title": "Teenager dies after 'medical episode' at music festival in Cumbria",
         "url": "https://www.bbc.co.uk/news/articles/cj9dz3xvz1wo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.091,
+      "score": 0.063,
       "source_classes": [
         "RSS"
       ],
@@ -3313,7 +3371,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.605,
+        "freshness": 0.42,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3324,7 +3382,7 @@
         "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
         "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital"
       },
-      "score": 0.089,
+      "score": 0.062,
       "source_classes": [
         "RSS"
       ],
@@ -3342,7 +3400,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.601,
+        "freshness": 0.417,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3353,7 +3411,7 @@
         "title": "Five dead and 41 missing after Indonesia ferry catches fire",
         "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.089,
+      "score": 0.061,
       "source_classes": [
         "RSS"
       ],
@@ -3371,7 +3429,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.594,
+        "freshness": 0.412,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3382,7 +3440,7 @@
         "title": "8 Best Password Managers (2026), Tested and Reviewed",
         "url": "https://www.wired.com/story/best-password-managers/"
       },
-      "score": 0.087,
+      "score": 0.061,
       "source_classes": [
         "RSS"
       ],
@@ -3400,7 +3458,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.584,
+        "freshness": 0.405,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3411,7 +3469,7 @@
         "title": "Why is the rate of premature births so high in this community?",
         "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan"
       },
-      "score": 0.086,
+      "score": 0.06,
       "source_classes": [
         "RSS"
       ],
@@ -3429,7 +3487,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.582,
+        "freshness": 0.404,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3440,7 +3498,7 @@
         "title": "The James Webb Telescope Is Changing Astronomers\u2019 Understanding of the Ancient Cosmos",
         "url": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/"
       },
-      "score": 0.086,
+      "score": 0.06,
       "source_classes": [
         "RSS"
       ],
@@ -3458,7 +3516,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.582,
+        "freshness": 0.404,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3469,7 +3527,7 @@
         "title": "Fastest runner to cross the Alps says it was an incredible experience",
         "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss"
       },
-      "score": 0.086,
+      "score": 0.06,
       "source_classes": [
         "RSS"
       ],
@@ -3487,7 +3545,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.573,
+        "freshness": 0.398,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3498,7 +3556,7 @@
         "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
         "url": "https://www.wired.com/story/best-car-vacuums/"
       },
-      "score": 0.084,
+      "score": 0.059,
       "source_classes": [
         "RSS"
       ],
@@ -3516,7 +3574,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.571,
+        "freshness": 0.397,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3527,7 +3585,7 @@
         "title": "There Are 2 Eclipses This August. Here\u2019s How to See Them",
         "url": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/"
       },
-      "score": 0.084,
+      "score": 0.058,
       "source_classes": [
         "RSS"
       ],
@@ -3545,7 +3603,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.561,
+        "freshness": 0.389,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3556,7 +3614,7 @@
         "title": "The Best Kids\u2019 Backpacks for the 2026 School Year",
         "url": "https://www.wired.com/gallery/best-kids-backpacks-2026/"
       },
-      "score": 0.083,
+      "score": 0.057,
       "source_classes": [
         "RSS"
       ],
@@ -3574,7 +3632,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.56,
+        "freshness": 0.389,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3585,7 +3643,7 @@
         "title": "Morgan Stanley\u2019s IPO after-party: a wealth management bonanza",
         "url": "https://www.ft.com/content/3f651fa0-3362-4a16-9ac1-992291c5f68a?syn-25a6b1a6=1"
       },
-      "score": 0.083,
+      "score": 0.057,
       "source_classes": [
         "RSS"
       ],
@@ -3603,7 +3661,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.56,
+        "freshness": 0.389,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3614,7 +3672,7 @@
         "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
         "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"
       },
-      "score": 0.083,
+      "score": 0.057,
       "source_classes": [
         "RSS"
       ],
@@ -3632,7 +3690,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.56,
+        "freshness": 0.389,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3643,7 +3701,7 @@
         "title": "Is It Possible to Make Smart Glasses That Aren\u2019t Creepy?",
         "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/"
       },
-      "score": 0.083,
+      "score": 0.057,
       "source_classes": [
         "RSS"
       ],
@@ -3657,69 +3715,11 @@
     },
     {
       "article_count": 1,
-      "cluster_id": "cluster-87f24372083b",
-      "metrics": {
-        "coverage": 0.289,
-        "diversity": 0.25,
-        "freshness": 0.539,
-        "gravity": 0.0,
-        "prominence": 0.0
-      },
-      "newest_published_at": "2026-08-02T09:00:00Z",
-      "representative": {
-        "publisher": "Wired",
-        "summary": "AboFlah talks about his new goals, streaming for charity, and when it\u2019s time to log off.",
-        "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
-        "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/"
-      },
-      "score": 0.079,
-      "source_classes": [
-        "RSS"
-      ],
-      "supporting_articles": [
-        {
-          "publisher": "Wired",
-          "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
-          "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/"
-        }
-      ]
-    },
-    {
-      "article_count": 1,
-      "cluster_id": "cluster-86f43216b318",
-      "metrics": {
-        "coverage": 0.289,
-        "diversity": 0.25,
-        "freshness": 0.539,
-        "gravity": 0.0,
-        "prominence": 0.0
-      },
-      "newest_published_at": "2026-08-02T09:00:00Z",
-      "representative": {
-        "publisher": "NPR",
-        "summary": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
-        "title": "We asked a first grader to interview his hero: A bird scientist",
-        "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
-      },
-      "score": 0.079,
-      "source_classes": [
-        "RSS"
-      ],
-      "supporting_articles": [
-        {
-          "publisher": "NPR",
-          "title": "We asked a first grader to interview his hero: A bird scientist",
-          "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
-        }
-      ]
-    },
-    {
-      "article_count": 1,
       "cluster_id": "cluster-c16d949461af",
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.539,
+        "freshness": 0.374,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3730,7 +3730,7 @@
         "title": "What Cyclospora does inside the gut and how it gets there",
         "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak"
       },
-      "score": 0.079,
+      "score": 0.055,
       "source_classes": [
         "RSS"
       ],
@@ -3744,11 +3744,69 @@
     },
     {
       "article_count": 1,
+      "cluster_id": "cluster-86f43216b318",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.374,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-02T09:00:00Z",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
+        "title": "We asked a first grader to interview his hero: A bird scientist",
+        "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
+      },
+      "score": 0.055,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NPR",
+          "title": "We asked a first grader to interview his hero: A bird scientist",
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-87f24372083b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.374,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-02T09:00:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "AboFlah talks about his new goals, streaming for charity, and when it\u2019s time to log off.",
+        "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
+        "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/"
+      },
+      "score": 0.055,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
+          "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
       "cluster_id": "cluster-a8e3d44ea8b1",
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.519,
+        "freshness": 0.361,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3759,7 +3817,7 @@
         "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
         "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead"
       },
-      "score": 0.076,
+      "score": 0.053,
       "source_classes": [
         "RSS"
       ],
@@ -3777,7 +3835,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.51,
+        "freshness": 0.354,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3788,7 +3846,7 @@
         "title": "Trump says he's cancelling Iran strikes, deal pending",
         "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
       },
-      "score": 0.075,
+      "score": 0.052,
       "source_classes": [
         "RSS"
       ],
@@ -3806,7 +3864,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.51,
+        "freshness": 0.354,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3817,7 +3875,7 @@
         "title": "This once-a-week workout may help cut belly fat, study shows",
         "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm"
       },
-      "score": 0.075,
+      "score": 0.052,
       "source_classes": [
         "RSS"
       ],
@@ -3835,7 +3893,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.474,
+        "freshness": 0.329,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3846,7 +3904,7 @@
         "title": "Iran sets the pace in war with Trump",
         "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1"
       },
-      "score": 0.07,
+      "score": 0.048,
       "source_classes": [
         "RSS"
       ],
@@ -3864,7 +3922,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.46,
+        "freshness": 0.319,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3875,7 +3933,7 @@
         "title": "Eating less protein could slow aging, major review finds",
         "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm"
       },
-      "score": 0.068,
+      "score": 0.047,
       "source_classes": [
         "RSS"
       ],
@@ -3893,7 +3951,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.454,
+        "freshness": 0.315,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3904,7 +3962,7 @@
         "title": "Cancer may be breaking its own DNA to keep growing",
         "url": "https://www.sciencedaily.com/releases/2026/07/260731034204.htm"
       },
-      "score": 0.067,
+      "score": 0.046,
       "source_classes": [
         "RSS"
       ],
@@ -3922,7 +3980,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.446,
+        "freshness": 0.31,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3933,7 +3991,7 @@
         "title": "APOD: 2026 August 2 \u2013 A Fire Rainbow over West Virginia",
         "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/"
       },
-      "score": 0.066,
+      "score": 0.046,
       "source_classes": [
         "RSS"
       ],
@@ -3951,7 +4009,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.428,
+        "freshness": 0.297,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3962,7 +4020,7 @@
         "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
         "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm"
       },
-      "score": 0.063,
+      "score": 0.044,
       "source_classes": [
         "RSS"
       ],
@@ -3980,7 +4038,7 @@
       "metrics": {
         "coverage": 0.289,
         "diversity": 0.25,
-        "freshness": 0.412,
+        "freshness": 0.286,
         "gravity": 0.0,
         "prominence": 0.0
       },
@@ -3991,7 +4049,7 @@
         "title": "Why some 9/11 families signed petition to exclude Mamdani from memorial event",
         "url": "https://www.snopes.com/fact-check/mamdani-911-families-petition/"
       },
-      "score": 0.061,
+      "score": 0.042,
       "source_classes": [
         "RSS"
       ],
@@ -4020,10 +4078,10 @@
       "newsdata"
     ]
   },
-  "generated_at": "2026-08-03T01:02:39.264364Z",
+  "generated_at": "2026-08-03T10:30:54.330900Z",
   "metrics": {
-    "published_clusters": 138,
-    "retained_articles": 139
+    "published_clusters": 140,
+    "retained_articles": 141
   },
   "report_date": "2026-08-02",
   "status": "PARTIAL DATA",
