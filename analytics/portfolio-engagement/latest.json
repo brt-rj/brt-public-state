@@ -12,8 +12,8 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-08-02T00:00:05.159959Z",
-    "last_success_at": "2026-08-02T00:00:05.159959Z"
+    "last_attempt_at": "2026-08-03T00:00:03.470585Z",
+    "last_success_at": "2026-08-03T00:00:03.470585Z"
   },
   "kpis": {
     "avg_observed_session_seconds": null,
@@ -25,10 +25,10 @@
   "ok": true,
   "status": "fresh",
   "table": [],
-  "updated_at": "2026-08-02T00:00:05.159959Z",
+  "updated_at": "2026-08-03T00:00:03.470585Z",
   "window": {
     "days": 30,
-    "end_at": "2026-08-02T00:00:00Z",
-    "start_at": "2026-07-03T00:00:00Z"
+    "end_at": "2026-08-03T00:00:00Z",
+    "start_at": "2026-07-04T00:00:00Z"
   }
 }
