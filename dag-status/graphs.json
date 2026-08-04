@@ -1,0 +1,152 @@
+{
+  "saas_fraud__main_pipeline": {
+    "end_date": "2026-08-04T12:34:08.740234+00:00",
+    "generated_at": "2026-08-04T12:34:11.380066+00:00",
+    "logical_date": "2026-08-04T12:26:51+00:00",
+    "tasks": [
+      {
+        "downstream": [
+          "trigger_dbt_transform"
+        ],
+        "duration_seconds": null,
+        "operator": "EmptyOperator",
+        "state": null,
+        "task_id": "bronze_complete"
+      },
+      {
+        "downstream": [],
+        "duration_seconds": null,
+        "operator": "EmptyOperator",
+        "state": null,
+        "task_id": "end"
+      },
+      {
+        "downstream": [
+          "trigger_bronze_billing_invoices",
+          "trigger_bronze_billing_payments",
+          "trigger_bronze_billing_subscriptions",
+          "trigger_bronze_crm_accounts",
+          "trigger_bronze_crm_contacts",
+          "trigger_bronze_crm_opportunities",
+          "trigger_bronze_fraud_chargebacks",
+          "trigger_bronze_fraud_fraud_signals",
+          "trigger_bronze_fraud_transactions",
+          "trigger_bronze_product_events",
+          "trigger_bronze_product_users"
+        ],
+        "duration_seconds": null,
+        "operator": "EmptyOperator",
+        "state": null,
+        "task_id": "start"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_billing_invoices"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_billing_payments"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_billing_subscriptions"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_crm_accounts"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_crm_contacts"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_crm_opportunities"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_fraud_chargebacks"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_fraud_fraud_signals"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_fraud_transactions"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_product_events"
+      },
+      {
+        "downstream": [
+          "bronze_complete"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_bronze_product_users"
+      },
+      {
+        "downstream": [
+          "end"
+        ],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_dbt_transform"
+      }
+    ]
+  }
+}
