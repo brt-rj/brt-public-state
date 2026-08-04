@@ -8,11 +8,11 @@
     "status": "succeeded"
   },
   "saas_fraud__main_pipeline": {
-    "duration_seconds": 140.780007,
-    "end_date": "2026-07-21T00:02:22.664723+00:00",
-    "generated_at": "2026-07-21T00:02:23.665416+00:00",
-    "logical_date": "2026-07-21T00:00:00+00:00",
-    "start_date": "2026-07-21T00:00:01.884716+00:00",
-    "status": "succeeded"
+    "duration_seconds": 434.524127,
+    "end_date": "2026-08-04T12:34:08.740234+00:00",
+    "generated_at": "2026-08-04T12:34:09.597595+00:00",
+    "logical_date": "2026-08-04T12:26:51+00:00",
+    "start_date": "2026-08-04T12:26:54.216107+00:00",
+    "status": "failed"
   }
 }
