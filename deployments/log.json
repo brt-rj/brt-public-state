@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260804-092",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-08-04T12:25:48.661478+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/30908029595",
+    "project": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "2ca6e163e4f4f926525d4ef9316c53d705ea4c39",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260804-091",
     "environment": "dev",
     "status": "succeeded",
@@ -584,18 +596,6 @@
     "project": {
       "repo": "brt-rj/triangulate",
       "sha": "7633cc87011567c5e6609e9e4d8bfb96e1da0a98",
-      "status": "succeeded"
-    }
-  },
-  {
-    "release_id": "dev-20260715-040",
-    "environment": "dev",
-    "status": "succeeded",
-    "finished_at": "2026-07-15T05:43:21.566725+00:00",
-    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29391718118",
-    "project": {
-      "repo": "brt-rj/triangulate",
-      "sha": "01bf60ee1478b916bcb041e936bf7bb7e0f943d7",
       "status": "succeeded"
     }
   }
