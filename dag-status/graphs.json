@@ -1,4 +1,74 @@
 {
+  "hypecheck_daily": {
+    "end_date": "2026-08-04T12:36:29.561620+00:00",
+    "generated_at": "2026-08-04T12:36:31.664743+00:00",
+    "logical_date": "2026-08-04T12:26:42+00:00",
+    "tasks": [
+      {
+        "downstream": [
+          "load_feeds"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "collect_box_office"
+      },
+      {
+        "downstream": [
+          "load_feeds"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "collect_streaming"
+      },
+      {
+        "downstream": [
+          "collect_trends",
+          "collect_youtube",
+          "load_feeds"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "collect_tmdb"
+      },
+      {
+        "downstream": [
+          "load_feeds"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "collect_trends"
+      },
+      {
+        "downstream": [
+          "load_feeds"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "collect_youtube"
+      },
+      {
+        "downstream": [
+          "trigger_dbt_transform"
+        ],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "load_feeds"
+      },
+      {
+        "downstream": [],
+        "duration_seconds": null,
+        "operator": "TriggerDagRunOperator",
+        "state": null,
+        "task_id": "trigger_dbt_transform"
+      }
+    ]
+  },
   "saas_fraud__main_pipeline": {
     "end_date": "2026-08-04T12:34:08.740234+00:00",
     "generated_at": "2026-08-04T12:34:11.380066+00:00",
