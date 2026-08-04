@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260804-091",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-08-04T09:22:37.764583+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/30895057395",
+    "project": {
+      "repo": "brt-rj/no-flab-brief",
+      "sha": "18b72629415494078b85d5dcee4048291729fa60",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260804-090",
     "environment": "dev",
     "status": "succeeded",
@@ -585,18 +597,6 @@
       "repo": "brt-rj/triangulate",
       "sha": "01bf60ee1478b916bcb041e936bf7bb7e0f943d7",
       "status": "succeeded"
-    }
-  },
-  {
-    "release_id": "dev-20260715-039",
-    "environment": "dev",
-    "status": "failed",
-    "finished_at": "2026-07-15T05:21:12.331913+00:00",
-    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29391199489",
-    "project": {
-      "repo": "brt-rj/triangulate",
-      "sha": "9c5bdb565ad79347f57e6915bc7c735486d290f8",
-      "status": "failed"
     }
   }
 ]
