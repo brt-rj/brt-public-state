@@ -129,6 +129,20 @@
       }
     ]
   },
+  "portfolio_engagement_daily": {
+    "end_date": "2026-08-05T00:00:11.737520+00:00",
+    "generated_at": "2026-08-05T00:00:14.552667+00:00",
+    "logical_date": "2026-08-05T00:00:00+00:00",
+    "tasks": [
+      {
+        "downstream": [],
+        "duration_seconds": null,
+        "operator": "_PythonDecoratedOperator",
+        "state": null,
+        "task_id": "pull_and_publish"
+      }
+    ]
+  },
   "saas_fraud__main_pipeline": {
     "end_date": "2026-08-04T14:27:37.418568+00:00",
     "generated_at": "2026-08-04T14:27:40.612320+00:00",
