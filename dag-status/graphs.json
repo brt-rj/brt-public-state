@@ -1,8 +1,8 @@
 {
   "hypecheck_daily": {
-    "end_date": "2026-08-05T00:06:27.930735+00:00",
-    "generated_at": "2026-08-05T00:06:30.143540+00:00",
-    "logical_date": "2026-08-05T00:00:00+00:00",
+    "end_date": "2026-08-05T05:26:10.227359+00:00",
+    "generated_at": "2026-08-05T05:26:12.594262+00:00",
+    "logical_date": "2026-08-05T05:14:16+00:00",
     "tasks": [
       {
         "downstream": [
@@ -10,7 +10,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "collect_box_office"
       },
       {
@@ -19,7 +19,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "collect_streaming"
       },
       {
@@ -30,7 +30,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "collect_tmdb"
       },
       {
@@ -39,7 +39,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "collect_trends"
       },
       {
@@ -48,7 +48,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "collect_youtube"
       },
       {
@@ -57,14 +57,14 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": null,
+        "state": "success",
         "task_id": "load_feeds"
       },
       {
         "downstream": [],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_dbt_transform"
       }
     ]
