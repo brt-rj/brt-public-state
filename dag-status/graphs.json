@@ -144,9 +144,9 @@
     ]
   },
   "saas_fraud__main_pipeline": {
-    "end_date": "2026-08-05T00:02:16.141406+00:00",
-    "generated_at": "2026-08-05T00:02:19.225742+00:00",
-    "logical_date": "2026-08-05T00:00:00+00:00",
+    "end_date": "2026-08-05T05:16:41.236782+00:00",
+    "generated_at": "2026-08-05T05:16:44.474235+00:00",
+    "logical_date": "2026-08-05T05:14:29+00:00",
     "tasks": [
       {
         "downstream": [
@@ -154,14 +154,14 @@
         ],
         "duration_seconds": null,
         "operator": "EmptyOperator",
-        "state": null,
+        "state": "success",
         "task_id": "bronze_complete"
       },
       {
         "downstream": [],
         "duration_seconds": null,
         "operator": "EmptyOperator",
-        "state": null,
+        "state": "success",
         "task_id": "end"
       },
       {
@@ -180,7 +180,7 @@
         ],
         "duration_seconds": null,
         "operator": "EmptyOperator",
-        "state": null,
+        "state": "success",
         "task_id": "start"
       },
       {
@@ -189,7 +189,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_billing_invoices"
       },
       {
@@ -198,7 +198,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_billing_payments"
       },
       {
@@ -207,7 +207,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_billing_subscriptions"
       },
       {
@@ -216,7 +216,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_crm_accounts"
       },
       {
@@ -225,7 +225,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_crm_contacts"
       },
       {
@@ -234,7 +234,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_crm_opportunities"
       },
       {
@@ -243,7 +243,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_fraud_chargebacks"
       },
       {
@@ -252,7 +252,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_fraud_fraud_signals"
       },
       {
@@ -261,7 +261,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_fraud_transactions"
       },
       {
@@ -270,7 +270,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_product_events"
       },
       {
@@ -279,7 +279,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_bronze_product_users"
       },
       {
@@ -288,7 +288,7 @@
         ],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": null,
+        "state": "success",
         "task_id": "trigger_dbt_transform"
       }
     ]
