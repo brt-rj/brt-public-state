@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T15:07:41.468569+00:00",
+  "generated_at": "2026-08-17T07:05:08.361455+00:00",
   "ok": true,
   "latest_session": {
-    "date": "2026-08-02",
-    "type": "mixed",
-    "status": "completed",
+    "date": "2026-09-20",
+    "type": "cardio",
+    "status": "planned",
     "exercises": [
       {
-        "exercise": "Imported Cardio",
+        "exercise": "Treadmill Run",
         "sets": null,
         "top_set_load_kg": null,
         "top_set_reps": null
@@ -16,7 +16,7 @@
     ]
   },
   "acwr": {
-    "asOfDate": "2026-08-02",
+    "asOfDate": "2026-09-20",
     "acute": 0,
     "chronic": 0,
     "acwr": null,
