@@ -1,0 +1,35 @@
+{
+  "release_id": "dev-20260817-098",
+  "environment": "dev",
+  "created_at": "2026-08-17T10:47:55.668291Z",
+  "generated_by": {
+    "repo": "brt-rj/brt-ork",
+    "sha": "ada6fd89c7ecbb108cf7ac8b59b9eb8c1b54c287"
+  },
+  "platform_services": {
+    "brt-airflow": {
+      "repo": "brt-rj/brt-airflow",
+      "sha": "e1160a992a3fee1692eb9aa6ed9b3d39395e2d12"
+    },
+    "brt-dbt": {
+      "repo": "brt-rj/brt-dbt",
+      "sha": "1971250faf4b9d63a0ff5f9b28121b6e0ec81350"
+    },
+    "brt-infra": {
+      "repo": "brt-rj/brt-infra",
+      "sha": "cc2797546c5584f2fb4d0298e902f52de1d05bee"
+    }
+  },
+  "use_cases": {
+    "HypeCheck": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "35b0e7186017d2baaf3f7e2a0cc2b28a0afd402c"
+    }
+  },
+  "consumers": {
+    "barati-dev.github.io": {
+      "repo": "brt-rj/barati-dev.github.io",
+      "sha": "4e09a99f6abe598904deab7dd1d0ffe14bf46f94"
+    }
+  }
+}
