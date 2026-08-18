@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T10:48:19.181801+00:00",
+  "generated_at": "2026-08-18T02:30:43.512788+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Bloody Valentine - Instrumental",
+    "artist": "Anirudh Ravichander",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
+    "url": "https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp",
+    "is_playing": true
+  },
   "recently_played": [
+    {
+      "name": "Raga of Madness",
+      "artist": "Anirudh Ravichander, Vishal Mishra",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
+      "url": "https://open.spotify.com/track/7pfh5uXaQKnk6h0dRpui9M",
+      "played_at": "2026-08-18T02:28:24.258Z"
+    },
+    {
+      "name": "Das and Parvathy - Instrumental",
+      "artist": "Anirudh Ravichander",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
+      "url": "https://open.spotify.com/track/5fbtzFbCrxvSPBAP8vfkKu",
+      "played_at": "2026-08-17T16:37:09.998Z"
+    },
     {
       "name": "Bum Baa Diga Diga",
       "artist": "Anirudh Ravichander, Vedan, Heisenberg",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
       "url": "https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7",
-      "played_at": "2026-08-17T06:37:48.770Z"
-    },
-    {
-      "name": "Vizhigale",
-      "artist": "Anirudh Ravichander, Heisenberg",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
-      "url": "https://open.spotify.com/track/4XhC9ap8MKzPM9aWiRSHqy",
-      "played_at": "2026-08-17T06:17:39.043Z"
-    },
-    {
-      "name": "Hangova",
-      "artist": "Anirudh Ravichander, Heisenberg",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b90520d9172e8beeaeb6449b",
-      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM",
-      "played_at": "2026-08-17T06:15:42.071Z"
+      "played_at": "2026-08-17T15:25:40.095Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
