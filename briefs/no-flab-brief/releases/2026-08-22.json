@@ -1,0 +1,2870 @@
+{
+  "clusters": [
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3df2db6ccdd6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.767,
+        "gravity": 0.0,
+        "prominence": 0.919
+      },
+      "newest_published_at": "2026-08-22T18:08:56Z",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "Scrap",
+        "url": "https://twitter.com/moxie/status/2091218652133732491"
+      },
+      "score": 0.324,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "twitter.com",
+          "title": "Scrap",
+          "url": "https://twitter.com/moxie/status/2091218652133732491"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c4fd28d67d37",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.795,
+        "gravity": 0.0,
+        "prominence": 0.796
+      },
+      "newest_published_at": "2026-08-22T19:04:41Z",
+      "representative": {
+        "publisher": "lapcatsoftware.com",
+        "summary": "",
+        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "url": "https://lapcatsoftware.com/articles/2026/8/7.html"
+      },
+      "score": 0.307,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "lapcatsoftware.com",
+          "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+          "url": "https://lapcatsoftware.com/articles/2026/8/7.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-efd471fa824f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.77,
+        "gravity": 0.0,
+        "prominence": 0.791
+      },
+      "newest_published_at": "2026-08-22T18:14:16Z",
+      "representative": {
+        "publisher": "forum.level1techs.com",
+        "summary": "",
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+      },
+      "score": 0.296,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "forum.level1techs.com",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-788048e11659",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.733,
+        "gravity": 0.0,
+        "prominence": 0.846
+      },
+      "newest_published_at": "2026-08-22T16:58:49Z",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729"
+      },
+      "score": 0.294,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "twitter.com",
+          "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e34c99487d6c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.677,
+        "gravity": 0.0,
+        "prominence": 0.891
+      },
+      "newest_published_at": "2026-08-22T14:54:07Z",
+      "representative": {
+        "publisher": "quantumi.sh",
+        "summary": "",
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html"
+      },
+      "score": 0.28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "quantumi.sh",
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a3fdf6df63e0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.796,
+        "gravity": 0.0,
+        "prominence": 0.681
+      },
+      "newest_published_at": "2026-08-22T19:07:46Z",
+      "representative": {
+        "publisher": "mail-index.netbsd.org",
+        "summary": "",
+        "title": "NetBSD and my life (2005)",
+        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
+      },
+      "score": 0.28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "mail-index.netbsd.org",
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a5f7e0c01393",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.898,
+        "gravity": 0.0,
+        "prominence": 0.54
+      },
+      "newest_published_at": "2026-08-22T22:14:27Z",
+      "representative": {
+        "publisher": "primeintellect.ai",
+        "summary": "",
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+      },
+      "score": 0.278,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "primeintellect.ai",
+          "title": "NanoGPT Speedrun Frontier",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d144d2f88cf8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.738,
+        "gravity": 0.0,
+        "prominence": 0.754
+      },
+      "newest_published_at": "2026-08-22T17:09:27Z",
+      "representative": {
+        "publisher": "cnn.com",
+        "summary": "",
+        "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+        "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl"
+      },
+      "score": 0.276,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "cnn.com",
+          "title": "Belgian car salesman becomes prince after DNA test proves royal parentage",
+          "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-555fb0f51ec2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.784,
+        "gravity": 0.0,
+        "prominence": 0.661
+      },
+      "newest_published_at": "2026-08-22T18:43:03Z",
+      "representative": {
+        "publisher": "soverybright.com",
+        "summary": "Certain logos started standing out to me on LinkedIn as brighter&#x2F;whiter than everything else around them.<p>I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visible only on HDR screens like a newer MacBook Pro. LinkedIn is the only social network I&#x27;ve found that isn&#x27;t stripping them out, but of course you serve them up on your own site.<p>I worked with Claude Code to turn it into a little browser-based utility (no registration) and hope you fin",
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "url": "https://www.soverybright.com/"
+      },
+      "score": 0.271,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "soverybright.com",
+          "title": "Show HN: Make your logo extra bright on HDR screens",
+          "url": "https://www.soverybright.com/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fe2778697e06",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.657,
+        "gravity": 0.0,
+        "prominence": 0.835
+      },
+      "newest_published_at": "2026-08-22T14:08:19Z",
+      "representative": {
+        "publisher": "geometridae.bearblog.dev",
+        "summary": "",
+        "title": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
+      },
+      "score": 0.261,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "geometridae.bearblog.dev",
+          "title": "A Friendly Introduction to Racket",
+          "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bf939f16eae3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.642,
+        "gravity": 0.0,
+        "prominence": 0.843
+      },
+      "newest_published_at": "2026-08-22T13:31:34Z",
+      "representative": {
+        "publisher": "blog.modelcontextprotocol.io",
+        "summary": "",
+        "title": "New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+      },
+      "score": 0.257,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "blog.modelcontextprotocol.io",
+          "title": "New MCP Roadmap",
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9b66968f5e76",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.639,
+        "gravity": 0.0,
+        "prominence": 0.834
+      },
+      "newest_published_at": "2026-08-22T13:24:06Z",
+      "representative": {
+        "publisher": "decodingvibes.com",
+        "summary": "",
+        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
+      },
+      "score": 0.254,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "decodingvibes.com",
+          "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+          "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-37c4f4d2ff20",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.608,
+        "gravity": 0.0,
+        "prominence": 0.874
+      },
+      "newest_published_at": "2026-08-22T12:07:06Z",
+      "representative": {
+        "publisher": "theguardian.com",
+        "summary": "",
+        "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+      },
+      "score": 0.249,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "theguardian.com",
+          "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a6baa85a1bfc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.768,
+        "gravity": 0.0,
+        "prominence": 0.55
+      },
+      "newest_published_at": "2026-08-22T18:10:49Z",
+      "representative": {
+        "publisher": "thinkinginpython.com",
+        "summary": "",
+        "title": "Thinking in Python by Bruce Eckel",
+        "url": "https://thinkinginpython.com/"
+      },
+      "score": 0.24,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "thinkinginpython.com",
+          "title": "Thinking in Python by Bruce Eckel",
+          "url": "https://thinkinginpython.com/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2239bff435c6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.89,
+        "gravity": 0.0,
+        "prominence": 0.402
+      },
+      "newest_published_at": "2026-08-22T22:00:28Z",
+      "representative": {
+        "publisher": "bactra.org",
+        "summary": "",
+        "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+        "url": "https://bactra.org/reviews/wolfram/"
+      },
+      "score": 0.238,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "bactra.org",
+          "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+          "url": "https://bactra.org/reviews/wolfram/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-24e81e63cf1f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.556,
+        "gravity": 0.0,
+        "prominence": 0.878
+      },
+      "newest_published_at": "2026-08-22T09:49:14Z",
+      "representative": {
+        "publisher": "munderdiffl.in",
+        "summary": "",
+        "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/"
+      },
+      "score": 0.228,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "munderdiffl.in",
+          "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
+          "url": "https://munderdiffl.in/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b8d28867a5a6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.919,
+        "gravity": 0.0,
+        "prominence": 0.316
+      },
+      "newest_published_at": "2026-08-22T22:50:51Z",
+      "representative": {
+        "publisher": "reuters.com",
+        "summary": "",
+        "title": "Jane Street took $15B hit in July tied to Situational Awareness",
+        "url": "https://www.reuters.com/business/finance/jane-street-took-15-billion-hit-july-tied-situational-awareness-sources-say-2026-08-14/"
+      },
+      "score": 0.223,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "reuters.com",
+          "title": "Jane Street took $15B hit in July tied to Situational Awareness",
+          "url": "https://www.reuters.com/business/finance/jane-street-took-15-billion-hit-july-tied-situational-awareness-sources-say-2026-08-14/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cfaeaa6f37e9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.943,
+        "gravity": 0.0,
+        "prominence": 0.289
+      },
+      "newest_published_at": "2026-08-22T23:30:20Z",
+      "representative": {
+        "publisher": "euronews.com",
+        "summary": "",
+        "title": "AI has failed to win people's trust. Its makers? less trusted",
+        "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted"
+      },
+      "score": 0.22,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "euronews.com",
+          "title": "AI has failed to win people's trust. Its makers? less trusted",
+          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b68762626edf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.819,
+        "gravity": 0.0,
+        "prominence": 0.403
+      },
+      "newest_published_at": "2026-08-22T19:50:31Z",
+      "representative": {
+        "publisher": "arpitbhayani.me",
+        "summary": "",
+        "title": "Slop Debt",
+        "url": "https://arpitbhayani.me/blogs/slop-debt/"
+      },
+      "score": 0.219,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "arpitbhayani.me",
+          "title": "Slop Debt",
+          "url": "https://arpitbhayani.me/blogs/slop-debt/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5611770312a2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.486,
+        "gravity": 0.0,
+        "prominence": 0.994
+      },
+      "newest_published_at": "2026-08-22T06:16:57Z",
+      "representative": {
+        "publisher": "bbc.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;www.pm.gc.ca&#x2F;en&#x2F;news&#x2F;statements&#x2F;2026&#x2F;08&#x2F;21&#x2F;statement-prime-minister-carney-canada-us-trade-negotiations\" rel=\"nofollow\">https:&#x2F;&#x2F;www.pm.gc.ca&#x2F;en&#x2F;news&#x2F;statements&#x2F;2026&#x2F;08&#x2F;21&#x2F;statement...</a>",
+        "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+        "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
+      },
+      "score": 0.216,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "bbc.com",
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-617250f3cee9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.753,
+        "gravity": 0.0,
+        "prominence": 0.461
+      },
+      "newest_published_at": "2026-08-22T17:40:28Z",
+      "representative": {
+        "publisher": "mastodon.social",
+        "summary": "",
+        "title": "A journalist was banned from a Flock Safety convention, so they hacked it",
+        "url": "https://mastodon.social/@salixsericea/117135685832584904"
+      },
+      "score": 0.215,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "mastodon.social",
+          "title": "A journalist was banned from a Flock Safety convention, so they hacked it",
+          "url": "https://mastodon.social/@salixsericea/117135685832584904"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e9d4bdc4ea7b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.709,
+        "gravity": 0.0,
+        "prominence": 0.49
+      },
+      "newest_published_at": "2026-08-22T16:06:47Z",
+      "representative": {
+        "publisher": "economist.com",
+        "summary": "",
+        "title": "The war on data centres is a bit fake",
+        "url": "https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake"
+      },
+      "score": 0.209,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "economist.com",
+          "title": "The war on data centres is a bit fake",
+          "url": "https://www.economist.com/business/2026/08/19/the-war-on-data-centres-is-a-bit-fake"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e4eb52674beb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.557,
+        "gravity": 0.0,
+        "prominence": 0.753
+      },
+      "newest_published_at": "2026-08-22T09:49:57Z",
+      "representative": {
+        "publisher": "computer.org",
+        "summary": "",
+        "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi"
+      },
+      "score": 0.208,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "computer.org",
+          "title": "Z80 \u2013 The 1970s Microprocessor Still Alive (2021)",
+          "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e1fc44fedd39",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.846,
+        "gravity": 0.0,
+        "prominence": 0.257
+      },
+      "newest_published_at": "2026-08-22T20:42:46Z",
+      "representative": {
+        "publisher": "semafor.com",
+        "summary": "",
+        "title": "The software buyout wave is upon us",
+        "url": "https://www.semafor.com/article/08/20/2026/the-software-buyout-wave-is-upon-us"
+      },
+      "score": 0.19,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "semafor.com",
+          "title": "The software buyout wave is upon us",
+          "url": "https://www.semafor.com/article/08/20/2026/the-software-buyout-wave-is-upon-us"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6eb8e4ded74e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.398,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-08-22T01:06:17Z",
+      "representative": {
+        "publisher": "danluu.com",
+        "summary": "",
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/"
+      },
+      "score": 0.178,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "danluu.com",
+          "title": "There's no reason for software to be slow anymore",
+          "url": "https://danluu.com/perf-opt/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f65d654c1f3e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.812,
+        "gravity": 0.0,
+        "prominence": 0.219
+      },
+      "newest_published_at": "2026-08-22T19:38:11Z",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "QEMU, now with almost full NeXT Black/M68K hardware support",
+        "url": "https://github.com/blanham/qemu-NeXT"
+      },
+      "score": 0.173,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "github.com",
+          "title": "QEMU, now with almost full NeXT Black/M68K hardware support",
+          "url": "https://github.com/blanham/qemu-NeXT"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e29d95271c49",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.542,
+        "gravity": 0.0,
+        "prominence": 0.522
+      },
+      "newest_published_at": "2026-08-22T09:07:26Z",
+      "representative": {
+        "publisher": "nostarch.com",
+        "summary": "",
+        "title": "Embedded AI",
+        "url": "https://nostarch.com/embedded-ai"
+      },
+      "score": 0.165,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "nostarch.com",
+          "title": "Embedded AI",
+          "url": "https://nostarch.com/embedded-ai"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7973ccbe1ef6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.397,
+        "gravity": 0.0,
+        "prominence": 0.777
+      },
+      "newest_published_at": "2026-08-22T01:02:09Z",
+      "representative": {
+        "publisher": "grapheneos.social",
+        "summary": "",
+        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985"
+      },
+      "score": 0.151,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "grapheneos.social",
+          "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+          "url": "https://grapheneos.social/@GrapheneOS/117136278553665985"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d038dee63d6d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.776,
+        "gravity": 0.0,
+        "prominence": 0.156
+      },
+      "newest_published_at": "2026-08-22T18:27:11Z",
+      "representative": {
+        "publisher": "phrack.org",
+        "summary": "",
+        "title": "May this night carry my will",
+        "url": "https://phrack.org/issues/58/advanced-return-into-libc-exploits-pax-case-study"
+      },
+      "score": 0.151,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "phrack.org",
+          "title": "May this night carry my will",
+          "url": "https://phrack.org/issues/58/advanced-return-into-libc-exploits-pax-case-study"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f127bcf76d22",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.952,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:45:01Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+        "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+        "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+          "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c0e13cb194a2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.949,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:40:39Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.",
+        "title": "The Papers:  'Power to block nimby protests' and Meghan 'deal could be off'",
+        "url": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "The Papers:  'Power to block nimby protests' and Meghan 'deal could be off'",
+          "url": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-edfdb9ce69e4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.938,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:22:10Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Videos of extreme cleaning posted on social media often go viral and are watched millions of times.",
+        "title": "Why we can't look away from hoarder home clean-ups",
+        "url": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.138,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Why we can't look away from hoarder home clean-ups",
+          "url": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-34f4c643e5d9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.938,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:22:02Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+        "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+        "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.138,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+          "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-789116c50438",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.934,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:16:43Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+        "title": "How a new era of heatwaves could shake up the school calendar",
+        "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.138,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "How a new era of heatwaves could shake up the school calendar",
+          "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d7ee6a5b44b4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.926,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:01:54Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Northern Ireland saw consecutive nights of violence following a knife attack - but how are victims faring now?",
+        "title": "Fear and fallout three months on from Northern Ireland's race riots",
+        "url": "https://www.bbc.co.uk/news/articles/c0ej0edzddjo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.136,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Fear and fallout three months on from Northern Ireland's race riots",
+          "url": "https://www.bbc.co.uk/news/articles/c0ej0edzddjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8bf064165674",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.924,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:00:03Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+        "title": "Struggling households need more help with bills, energy industry says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.136,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Struggling households need more help with bills, energy industry says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bb5bcf5970ee",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.924,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T23:00:00Z",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "The New York Democrat's press secretary said via email that Alexandria Ocasio-Cortez didn't say the quote.",
+        "title": "Did AOC say GOP is trying to rig elections by only letting citizens vote? Here's the real story",
+        "url": "https://www.snopes.com/fact-check/aoc-republicans-rig-elections/"
+      },
+      "score": 0.136,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Snopes",
+          "title": "Did AOC say GOP is trying to rig elections by only letting citizens vote? Here's the real story",
+          "url": "https://www.snopes.com/fact-check/aoc-republicans-rig-elections/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6ba468933fc9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T22:57:04Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Promoter Eddie Hearn says \"no-one can pull out\" of the proposed fight between Tyson Fury and Anthony Joshua.",
+        "title": "Nobody can stop Fury-Joshua from happening - Hearn",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/ce8k8314j07o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.136,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Nobody can stop Fury-Joshua from happening - Hearn",
+          "url": "https://www.bbc.co.uk/sport/boxing/articles/ce8k8314j07o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-253d3f4e685e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.884,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T21:50:29Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Office star was appearing at convention in London, less than two weeks after announcing her condition.",
+        "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
+        "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
+          "url": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0480c44b5159",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.882,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T21:46:56Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+      },
+      "score": 0.13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c7e70ed7523f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.88,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T21:42:42Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Syria says Israeli strike near Damascus violation of international law",
+          "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-554f0aeac14e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.852,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:53:19Z",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.",
+        "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries"
+      },
+      "score": 0.126,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NPR",
+          "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-37adcfd625b1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.84,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:30:23Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Doctors have told mum and dad Catrin and Dylan it could take years for a donor to materialise.",
+        "title": "Baby whose parents feared had just days to live is 'thriving' after life-saving heart operation",
+        "url": "https://www.bbc.co.uk/news/articles/c5y6npz7zy0o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.124,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Baby whose parents feared had just days to live is 'thriving' after life-saving heart operation",
+          "url": "https://www.bbc.co.uk/news/articles/c5y6npz7zy0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-360c03117f04",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.837,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:24:20Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+        "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+      },
+      "score": 0.123,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
+          "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2552faff02e5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.832,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:16:00Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
+        "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.123,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1c76d05b0907",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.831,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:14:04Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough.",
+        "title": "Video appears to show police chase minutes before fatal A66 crash",
+        "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.122,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Video appears to show police chase minutes before fatal A66 crash",
+          "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-efdd34938991",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.829,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T20:10:00Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.122,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7dab6f8a9b02",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.808,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:29:26Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Volodymyr Zelenskyy calls on allies to pile \u2018real pressure\u2019 on Moscow to end the war",
+        "title": "Russian \u2018double-tap\u2019 attack on Ukrainian shopping mall kills at least 16",
+        "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1"
+      },
+      "score": 0.119,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Russian \u2018double-tap\u2019 attack on Ukrainian shopping mall kills at least 16",
+          "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2789c4339362",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.807,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:28:14Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "PC Matthew Blades and PC Tom Clough died after a car driving the wrong way down the A66 near Middlesbrough collided with a police vehicle.",
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.119,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Two police officers among seven killed in wrong-way car crash",
+          "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fc33fa7f12a9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.797,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:09:08Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Ben Stokes hits 66 not out and takes 5-17 as Durham wrap up a 338-run victory at Derbyshire inside three days in Division Two of the County Championship.",
+        "title": "Stokes stars as leaders Durham hammer Derbyshire",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/c3d3gd39y49o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.117,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Stokes stars as leaders Durham hammer Derbyshire",
+          "url": "https://www.bbc.co.uk/sport/cricket/articles/c3d3gd39y49o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-afb28b3c54cd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.796,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:06:02Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
+        "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.117,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-596bf1461d4e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.794,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:03:03Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+        "title": "The hotel booking mix-up that could free mushroom murderer",
+        "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.117,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "The hotel booking mix-up that could free mushroom murderer",
+          "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4ca10235fee4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.792,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T19:00:00Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+      },
+      "score": 0.117,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ca1015dfb630",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.771,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T18:17:56Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Washington\u2019s ambassador to Ankara says attack on air base could have been \u2018aggressive\u2009.\u2009.\u2009.\u2009pre-election concept\u2019 ahead of October polls",
+        "title": "Israel\u2019s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+        "url": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2"
+      },
+      "score": 0.114,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Israel\u2019s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
+          "url": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-56142b6a8c31",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.766,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T18:06:43Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
+        "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.113,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ddef2c266d4f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.763,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T18:00:00Z",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Conspiracy theories around the vaccine have continued to spread with Robert F. Kennedy Jr., a vaccine skeptic, helming Trump's HHS.",
+        "title": "10 COVID-19 vaccine claims we've investigated during Trump's 2nd term",
+        "url": "https://www.snopes.com/collections/covid-19-vaccine-trump-2nd-term/"
+      },
+      "score": 0.112,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Snopes",
+          "title": "10 COVID-19 vaccine claims we've investigated during Trump's 2nd term",
+          "url": "https://www.snopes.com/collections/covid-19-vaccine-trump-2nd-term/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1bc30cfc8996",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.754,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T17:43:01Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix.",
+        "title": "Norris expects challenge after back-to-back poles",
+        "url": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.111,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Norris expects challenge after back-to-back poles",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-17120c4183fe",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.745,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T17:22:54Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country",
+        "title": "Mark Carney says Canada is now \u2018at war\u2019 with US over trade",
+        "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1"
+      },
+      "score": 0.11,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Mark Carney says Canada is now \u2018at war\u2019 with US over trade",
+          "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-06353512e9b5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.735,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T17:02:06Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
+        "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.108,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0885310ba693",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.732,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T16:57:19Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+        "title": "US military newspaper editor voices censorship fears after being fired",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.108,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "US military newspaper editor voices censorship fears after being fired",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2930e93aa989",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.72,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T16:30:34Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+      },
+      "score": 0.106,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a12897a8d0b1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.706,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T16:00:00Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+      },
+      "score": 0.104,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-176afdbfea2b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.688,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T15:20:00Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+        "title": "US battery startups have found a lifeline in defense",
+        "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/"
+      },
+      "score": 0.101,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "US battery startups have found a lifeline in defense",
+          "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3ba48cb3dc80",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.669,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T14:35:11Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.098,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+          "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1f9bd8f9916a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.657,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T14:08:04Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simple additional option for managing elevated blood pressure.",
+        "title": "Peppermint oil lowers blood pressure in just 20 days",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm"
+      },
+      "score": 0.097,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Peppermint oil lowers blood pressure in just 20 days",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c0d7262b44c8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.654,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T14:00:00Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Google\u2019s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+        "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
+        "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/"
+      },
+      "score": 0.096,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Pixel 11 Pro XL review: Snappier cameras can\u2019t hide an iterative upgrade",
+          "url": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dc4134d32211",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.652,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:55:11Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
+        "title": "Exercise may work better for keeping weight off than losing it",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm"
+      },
+      "score": 0.096,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Exercise may work better for keeping weight off than losing it",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9020ca316813",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.649,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:48:06Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+        "title": "Fourteen killed in strike on Myanmar monastery",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.096,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Fourteen killed in strike on Myanmar monastery",
+          "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f9add4538481",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.634,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:13:16Z",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.093,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+          "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f0be705e4102",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.634,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:12:23Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "People who speak several languages may have brains that age more slowly, with four-language speakers showing brains that appeared about 13 years younger than those of monolinguals. Starting earlier and becoming highly fluent were also linked to a stronger effect.",
+        "title": "Multilingual people may have brains up to 13 years younger",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm"
+      },
+      "score": 0.093,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Multilingual people may have brains up to 13 years younger",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-159be2e70b06",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.63,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:02:37Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Freezing the liquid core of an optical fiber produced an extreme environment where light and sound interact more than 1,000 times more strongly than in ordinary fibers. Researchers used the effect to create optoacoustic memory, potentially paving the way for lower-energy photonic computers and advanced quantum technologies.",
+        "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm"
+      },
+      "score": 0.093,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a82ee3bd6a24",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:00:00Z",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "The image superimposed the first lady's face onto a legitimate photo of Epstein grabbing and kissing an unidentified person.",
+        "title": "Macron never posted fake image of Epstein kissing Melania Trump",
+        "url": "https://www.snopes.com/fact-check/macron-epstein-kissing-melania-image/"
+      },
+      "score": 0.093,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Snopes",
+          "title": "Macron never posted fake image of Epstein kissing Melania Trump",
+          "url": "https://www.snopes.com/fact-check/macron-epstein-kissing-melania-image/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-635967fc0712",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T13:00:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "For uninterrupted service as you country-hop, the Saily Ultra eSIM works well and comes with plentiful perks. It\u2019s pricey though.",
+        "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+        "url": "https://www.wired.com/review/saily-ultra-esim/"
+      },
+      "score": 0.093,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+          "url": "https://www.wired.com/review/saily-ultra-esim/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a64d9af5255c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.62,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T12:36:23Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Astronomers using JWST have discovered that massive early galaxies contain far more small, faint stars than expected. That hidden population could make some of these galaxies three to four times more massive than previous estimates. The finding makes it even harder to explain how enormous, mature galaxies formed so soon after the Big Bang. It could also suggest that planets around low-mass stars were more common in the early universe than scientists realized.",
+        "title": "JWST finds early galaxies may be 4 times more massive than thought",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm"
+      },
+      "score": 0.091,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "JWST finds early galaxies may be 4 times more massive than thought",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260822015141.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a6146d067f8f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.605,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T12:00:00Z",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
+        "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood"
+      },
+      "score": 0.089,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NPR",
+          "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ab842fffb7a5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.599,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T11:43:32Z",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they're no better than Flock.",
+        "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity"
+      },
+      "score": 0.088,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NPR",
+          "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-533ff16eb3bf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.591,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T11:22:32Z",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+        "title": "Putting mice into hibernation causes a major loss of synapses",
+        "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+      },
+      "score": 0.087,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Ars Technica",
+          "title": "Putting mice into hibernation causes a major loss of synapses",
+          "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3456ed0873b2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.586,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T11:08:53Z",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Lands free of roads are under threat from the Trump administration\u2019s proposed rollback.",
+        "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+        "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/"
+      },
+      "score": 0.086,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Ars Technica",
+          "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+          "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-44a6498f7e82",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.583,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T11:01:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Your desk setup needs a monitor arm, and I\u2019ve been testing every one I can get my hands on to find the best.",
+        "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+        "url": "https://www.wired.com/gallery/best-monitor-arms/"
+      },
+      "score": 0.086,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
+          "url": "https://www.wired.com/gallery/best-monitor-arms/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-76e1b0e9f941",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.582,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T11:00:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "It is possible to achieve your desired work-life balance on your smartphone. Just set up separate accounts using this built-in Android feature.",
+        "title": "Set Up a Separate Work Profile on Your Android Phone",
+        "url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/"
+      },
+      "score": 0.086,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "Set Up a Separate Work Profile on Your Android Phone",
+          "url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d26ba826bfe2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.573,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T10:34:22Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A simple yeast-based food supplement may help restore the immune system\u2019s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and breast cancer cells.",
+        "title": "This yeast supplement may boost cancer-fighting immunity",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm"
+      },
+      "score": 0.084,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "This yeast supplement may boost cancer-fighting immunity",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-449a6cb90385",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.572,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T10:32:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "These toppers will transform your mattress into exactly what you need, whether that\u2019s a super-plush pillow top, memory foam, or targeted back support.",
+        "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
+        "url": "https://www.wired.com/gallery/the-best-mattress-toppers/"
+      },
+      "score": 0.084,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "The Best Mattress Toppers I've Tried (2026): Supportive, Plush, Memory Foam",
+          "url": "https://www.wired.com/gallery/the-best-mattress-toppers/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ced7d984e123",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.571,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T10:30:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Plus: Apple sends out an \u201cunprecedented\u201d number of spyware warnings, Ukraine hits a Russian ecommerce giant with cyber and drone attacks, and more.",
+        "title": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
+        "url": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/"
+      },
+      "score": 0.084,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "Your Expired Visa Card Could Be \u2018Zombified\u2019 to Make Contactless Payments",
+          "url": "https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b470f49c9795",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.539,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T09:00:00Z",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The LINK probe was supposed to use robotic arms to capture Swift and lift it into a safe orbit. Problems with its control system forced NASA to call off the attempt.",
+        "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+        "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/"
+      },
+      "score": 0.079,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "NASA Cancels Its Rescue Mission for the Aging Swift Telescope",
+          "url": "https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f16a0fce518d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.455,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:36:27Z",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
+        "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+      },
+      "score": 0.067,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NPR",
+          "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
+          "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-23380256cdce",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.446,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:05:00Z",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 August 22\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mostly Perseids Explanation: Recorded [&#8230;]",
+        "title": "APOD: 2026 August 22 \u2013 Mostly Perseids",
+        "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "NASA",
+          "title": "APOD: 2026 August 22 \u2013 Mostly Perseids",
+          "url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d5398138ed72",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:38Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Despite Scott Bessent\u2019s efforts, investors worry something is up",
+        "title": "Bossing the bond market around never works",
+        "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Bossing the bond market around never works",
+          "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ee1fd3c34ebe",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:38Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "A less seductive continent would not attract so many enemies",
+        "title": "Europe\u2019s fatal beauty",
+        "url": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Europe\u2019s fatal beauty",
+          "url": "https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cc7db2e3b3cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:38Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "The president\u2019s agenda is under strain as the Iran war pushes up prices and America\u2019s finances worsen",
+        "title": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
+        "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
+          "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0e04e15a7e5f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:29Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Gillian Tett on the president\u2019s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide",
+        "title": "Who counts in Trump\u2019s America?",
+        "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Who counts in Trump\u2019s America?",
+          "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fb72fb65b11e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:09Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Questions mount over management of mandatory pension schemes for professionals worth \u20ac300bn",
+        "title": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
+        "url": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
+          "url": "https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f8c4cc28b212",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T04:00:09Z",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
+        "title": "Germany becomes Europe\u2019s largest regulated cannabis market",
+        "url": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce"
+      },
+      "score": 0.066,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Germany becomes Europe\u2019s largest regulated cannabis market",
+          "url": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89f9df774ae8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T03:53:17Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Honeybee queens exposed to pesticides can shift some of the contamination into their eggs, revealing a previously unknown survival strategy. The process may protect the queen while putting developing offspring, and potentially the entire colony, at risk.",
+        "title": "Queen bees have a disturbing way to survive pesticides",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm"
+      },
+      "score": 0.065,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Queen bees have a disturbing way to survive pesticides",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012224.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b713d255f07e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.436,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T03:29:38Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Pancreatic cancer patients with at least 21 natural teeth survived nearly two years longer after surgery than those with fewer teeth in a study of 339 people. Researchers suspect tooth loss may reflect decades of inflammation, frailty, nutrition, and other factors tied to the body\u2019s overall resilience.",
+        "title": "Tooth count may predict survival after pancreatic cancer surgery",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm"
+      },
+      "score": 0.064,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Tooth count may predict survival after pancreatic cancer surgery",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-879d25db7db6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.428,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T02:58:44Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A tiny, fully intact Indigenous pot buried for roughly 400 years has left archaeologists wondering why such a usable object was deliberately abandoned. Found at a historic Potano-Timucua village in Florida, the mysterious vessel is helping reveal a complex world of Native traditions, Spanish influence, trade, and migration.",
+        "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm"
+      },
+      "score": 0.063,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "Archaeologists discover mysterious 400-year-old Indigenous pot in Florida",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202902.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f1a28cf4f292",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.419,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T02:27:20Z",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have linked a specific gut bacterium, Roseburia inulinivorans, to stronger muscles in both humans and mice. Older adults who carried it had 29% greater handgrip strength, while treated mice gained about 30% more grip strength and developed larger, more fast-twitch muscle fibers. The bacterium was also less common in older people. Researchers say it could eventually become a probiotic candidate for helping combat age-related muscle loss.",
+        "title": "This gut microbe may help keep you strong as you age",
+        "url": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm"
+      },
+      "score": 0.062,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Science Daily",
+          "title": "This gut microbe may help keep you strong as you age",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-20d1a489fdfe",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.404,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T01:31:04Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Michael Polansky \u2014 better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker \u2014 has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
+        "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+      },
+      "score": 0.06,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
+          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a3355eb0a0cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.397,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-08-22T01:03:06Z",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising \u00a52.6 billion ($16 million).",
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"
+      },
+      "score": 0.058,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "TechCrunch",
+          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+          "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/"
+        }
+      ]
+    }
+  ],
+  "coverage": {
+    "completed_source_classes": [
+      "hacker_news",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": [
+      "gdelt",
+      "newsdata"
+    ]
+  },
+  "generated_at": "2026-08-23T01:02:41.632116Z",
+  "metrics": {
+    "published_clusters": 98,
+    "retained_articles": 98
+  },
+  "report_date": "2026-08-22",
+  "status": "PARTIAL DATA",
+  "version": 2
+}
