@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T12:06:26.354694+00:00",
+  "generated_at": "2026-08-31T13:15:27.074055+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Soorayaatam (From \"Mahaan\")",
+    "artist": "Santhosh Narayanan, V.M. Mahalingam, Muthamil",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d27a0cd7dc9dd77c9d730035",
+    "url": "https://open.spotify.com/track/7s7GOker45FT0DjzlEj2Wr",
+    "is_playing": true
+  },
   "recently_played": [
+    {
+      "name": "Naan Naan",
+      "artist": "Santhosh Narayanan, Vivek",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273d0cbe9587e1fbb39e531068f",
+      "url": "https://open.spotify.com/track/3MBUQcMPekDVtn5mZ6Nv7c",
+      "played_at": "2026-08-31T13:05:52.193Z"
+    },
+    {
+      "name": "Evanda Enakku Custody (From \"Mahaan\")",
+      "artist": "Santhosh Narayanan, Vivek",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273858e426ce363b1e3c8028c1f",
+      "url": "https://open.spotify.com/track/4rGLwg8ej2ar25UJ5Rw7xz",
+      "played_at": "2026-08-31T13:01:43.319Z"
+    },
     {
       "name": "Anju Vanna Poove",
       "artist": "A.R. Rahman, Charulatha Mani, Karthik Netha",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b27379dd2165f2180c79713bfe4a",
       "url": "https://open.spotify.com/track/063KKkTnDD3cvXp06jkyTr",
       "played_at": "2026-08-31T09:00:40.640Z"
-    },
-    {
-      "name": "O Maara",
-      "artist": "A.R. Rahman, Paal Dabba",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27379dd2165f2180c79713bfe4a",
-      "url": "https://open.spotify.com/track/2YazEOAU8Gfle6C89QF1wL",
-      "played_at": "2026-08-31T08:25:50.341Z"
-    },
-    {
-      "name": "New New",
-      "artist": "Blaaze, Karthik, Vijay Prakash, Sunitha Sarathy, Tanvi Shah",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273fda49084bac5a1ebf4385bf3",
-      "url": "https://open.spotify.com/track/66CpgrXpLtDP1wbjeORSiR",
-      "played_at": "2026-08-31T08:20:54.180Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
