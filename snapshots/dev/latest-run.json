@@ -1,36 +1,36 @@
 {
-  "release_id": "dev-20260901-103",
+  "release_id": "dev-20260901-104",
   "environment": "dev",
-  "status": "succeeded",
-  "generated_at": "2026-09-01T03:47:31.797617Z",
-  "finished_at": "2026-09-01T03:47:31.797617Z",
+  "status": "failed",
+  "generated_at": "2026-09-01T08:33:35.254288Z",
+  "finished_at": "2026-09-01T08:33:35.254288Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
     "sha": "e1f492809ad5244e663188e44363bbdc7774eb6a"
   },
-  "workflow_run_id": "33466745333",
-  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/33466745333",
+  "workflow_run_id": "33487261861",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/33487261861",
   "platform_services": {
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
-      "sha": "2ac97870be1130b7a32dd06f64579cc38538fe5e",
+      "sha": "bb8c1196773132a7d149070eff60b23643dd015b",
       "status": "succeeded"
     },
     "brt-dbt": {
       "repo": "brt-rj/brt-dbt",
-      "sha": "1971250faf4b9d63a0ff5f9b28121b6e0ec81350",
-      "status": "succeeded"
+      "sha": "d1239061240d986672d47532f6d11ae6234ebd24",
+      "status": "failed"
     },
     "brt-infra": {
       "repo": "brt-rj/brt-infra",
-      "sha": "07feb5f89a8c0da89d6cd2484873fa22be68c167",
-      "status": "succeeded"
+      "sha": "08c35f48f4fcb1223d55742abf478dad01089ffa",
+      "status": "unknown"
     }
   },
   "use_cases": {
     "HypeCheck": {
       "repo": "brt-rj/HypeCheck",
-      "sha": "35b0e7186017d2baaf3f7e2a0cc2b28a0afd402c",
+      "sha": "84e210111758b49ee8c23237103cab046b79e0b3",
       "status": "succeeded"
     }
   },
@@ -38,7 +38,7 @@
     "barati-dev.github.io": {
       "repo": "brt-rj/barati-dev.github.io",
       "sha": "f88ef0a912778cac41d831f5fa7da54727612e8d",
-      "status": "succeeded"
+      "status": "unknown"
     }
   }
 }
