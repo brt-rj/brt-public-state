@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20260901-105",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-09-01T10:22:46.764255+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/33496023604",
+    "project": {
+      "repo": "brt-rj/HypeCheck",
+      "sha": "84e210111758b49ee8c23237103cab046b79e0b3",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20260901-104",
     "environment": "dev",
     "status": "failed",
@@ -584,18 +596,6 @@
     "project": {
       "repo": "brt-rj/HypeCheck",
       "sha": "6dd65127576d89432718cb919dc60d0b65f8d4c8",
-      "status": "succeeded"
-    }
-  },
-  {
-    "release_id": "dev-20260717-055",
-    "environment": "dev",
-    "status": "succeeded",
-    "finished_at": "2026-07-17T08:04:45.508373+00:00",
-    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/29564316776",
-    "project": {
-      "repo": "brt-rj/brt-train",
-      "sha": "4594d04794d4ffa4092e4ff1dcab1eb05177584f",
       "status": "succeeded"
     }
   }
