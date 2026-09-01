@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T11:25:34.003093+00:00",
+  "generated_at": "2026-09-01T19:03:54.808333+00:00",
   "ok": true,
   "latest_session": {
-    "date": "2026-09-20",
+    "date": "2026-09-01",
     "type": "cardio",
-    "status": "planned",
+    "status": "completed",
     "exercises": [
       {
-        "exercise": "Treadmill Run",
+        "exercise": "Outdoor Walk",
         "sets": null,
         "top_set_load_kg": null,
         "top_set_reps": null
@@ -16,10 +16,10 @@
     ]
   },
   "acwr": {
-    "asOfDate": "2026-09-20",
-    "acute": 4,
-    "chronic": 0,
-    "acwr": null,
+    "asOfDate": "2026-09-01",
+    "acute": 5,
+    "chronic": 17.25,
+    "acwr": 0.29,
     "deloadFlag": false
   },
   "profile_url": "https://methodos.barati.dev"
