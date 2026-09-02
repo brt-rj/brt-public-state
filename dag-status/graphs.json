@@ -1,8 +1,8 @@
 {
   "hypecheck_daily": {
-    "end_date": "2026-09-02T07:35:22.511719+00:00",
-    "generated_at": "2026-09-02T07:35:25.890820+00:00",
-    "logical_date": "2026-09-02T07:22:28+00:00",
+    "end_date": "2026-09-02T08:14:01.451002+00:00",
+    "generated_at": "2026-09-02T08:14:04.362310+00:00",
+    "logical_date": "2026-09-02T08:08:20+00:00",
     "tasks": [
       {
         "downstream": [
@@ -64,7 +64,7 @@
         "downstream": [],
         "duration_seconds": null,
         "operator": "TriggerDagRunOperator",
-        "state": "failed",
+        "state": "success",
         "task_id": "trigger_dbt_transform"
       }
     ]
