@@ -1,7 +1,13 @@
 {
   "chart": {
     "dimension": "referrer_utm",
-    "series": [],
+    "series": [
+      {
+        "count": 2,
+        "label": "(direct)",
+        "source_type": "direct"
+      }
+    ],
     "type": "breakdown"
   },
   "coverage": {
@@ -12,23 +18,23 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-09-15T00:00:20.884579Z",
-    "last_success_at": "2026-09-15T00:00:20.884579Z"
+    "last_attempt_at": "2026-09-16T00:00:04.096271Z",
+    "last_success_at": "2026-09-16T00:00:04.096271Z"
   },
   "kpis": {
-    "avg_observed_session_seconds": null,
+    "avg_observed_session_seconds": 0.0,
     "demo_launches_total": 0,
     "outbound_clicks": 0,
-    "pageviews": 0,
-    "sessions": 0
+    "pageviews": 2,
+    "sessions": 2
   },
   "ok": true,
   "status": "fresh",
   "table": [],
-  "updated_at": "2026-09-15T00:00:20.884579Z",
+  "updated_at": "2026-09-16T00:00:04.096271Z",
   "window": {
     "days": 30,
-    "end_at": "2026-09-15T00:00:00Z",
-    "start_at": "2026-08-16T00:00:00Z"
+    "end_at": "2026-09-16T00:00:00Z",
+    "start_at": "2026-08-17T00:00:00Z"
   }
 }
