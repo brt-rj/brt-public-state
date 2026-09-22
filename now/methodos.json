@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T12:28:55.316128+00:00",
+  "generated_at": "2026-09-22T11:18:02.098583+00:00",
   "ok": true,
   "latest_session": {
     "date": "2026-09-21",
@@ -16,10 +16,10 @@
     ]
   },
   "acwr": {
-    "asOfDate": "2026-09-21",
-    "acute": 1,
-    "chronic": 13.75,
-    "acwr": 0.07,
+    "asOfDate": "2026-09-22",
+    "acute": 2,
+    "chronic": 14,
+    "acwr": 0.14,
     "deloadFlag": false
   },
   "profile_url": "https://methodos.barati.dev"
