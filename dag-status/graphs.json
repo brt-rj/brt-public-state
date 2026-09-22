@@ -70,9 +70,9 @@
     ]
   },
   "no_flab_brief_daily": {
-    "end_date": "2026-09-21T01:08:28.990046+00:00",
-    "generated_at": "2026-09-21T01:08:32.168375+00:00",
-    "logical_date": "2026-09-21T01:00:00+00:00",
+    "end_date": "2026-09-22T01:16:33.425808+00:00",
+    "generated_at": "2026-09-22T01:16:36.088111+00:00",
+    "logical_date": "2026-09-22T01:00:00+00:00",
     "tasks": [
       {
         "downstream": [
@@ -89,7 +89,7 @@
         ],
         "duration_seconds": null,
         "operator": "BashOperator",
-        "state": "success",
+        "state": "upstream_failed",
         "task_id": "dbt_build"
       },
       {
@@ -98,14 +98,14 @@
         ],
         "duration_seconds": null,
         "operator": "BashOperator",
-        "state": "success",
+        "state": "upstream_failed",
         "task_id": "dbt_deps"
       },
       {
         "downstream": [],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": "success",
+        "state": "upstream_failed",
         "task_id": "deliver"
       },
       {
@@ -115,7 +115,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": "success",
+        "state": "failed",
         "task_id": "ingest"
       },
       {
@@ -124,7 +124,7 @@
         ],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": "success",
+        "state": "upstream_failed",
         "task_id": "publish"
       }
     ]
