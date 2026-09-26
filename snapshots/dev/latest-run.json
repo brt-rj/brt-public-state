@@ -1,15 +1,15 @@
 {
-  "release_id": "dev-20260926-111",
+  "release_id": "dev-20260926-112",
   "environment": "dev",
-  "status": "failed",
-  "generated_at": "2026-09-26T12:29:46.353725Z",
-  "finished_at": "2026-09-26T12:29:46.353725Z",
+  "status": "succeeded",
+  "generated_at": "2026-09-26T16:15:36.497688Z",
+  "finished_at": "2026-09-26T16:15:36.497688Z",
   "generated_by": {
     "repo": "brt-rj/brt-ork",
     "sha": "e1f492809ad5244e663188e44363bbdc7774eb6a"
   },
-  "workflow_run_id": "36241857684",
-  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/36241857684",
+  "workflow_run_id": "36254196960",
+  "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/36254196960",
   "platform_services": {
     "brt-airflow": {
       "repo": "brt-rj/brt-airflow",
@@ -18,13 +18,13 @@
     },
     "brt-dbt": {
       "repo": "brt-rj/brt-dbt",
-      "sha": "9e6214d3b9ade881f64381b4d22a3a31249d9a39",
-      "status": "failed"
+      "sha": "cd493086ba4a27092cb959a577416ef057ad79f8",
+      "status": "succeeded"
     },
     "brt-infra": {
       "repo": "brt-rj/brt-infra",
       "sha": "08c35f48f4fcb1223d55742abf478dad01089ffa",
-      "status": "unknown"
+      "status": "succeeded"
     }
   },
   "use_cases": {
@@ -38,7 +38,7 @@
     "barati-dev.github.io": {
       "repo": "brt-rj/barati-dev.github.io",
       "sha": "6d1a72040b10162b9283e7c824a8a6071f62bf7a",
-      "status": "unknown"
+      "status": "failed"
     }
   }
 }
