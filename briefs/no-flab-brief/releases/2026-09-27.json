@@ -1,0 +1,3965 @@
+{
+  "clusters": [
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1f714516a52c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.944,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:37:26Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+        "title": "One dead as powerful storm pummels New York and New Jersey",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.281,
+      "source_class_rank": 1,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-7a39d31b049a",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:53Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Cam Newton and his co-host Omari \u201cPeggy\u201d Collins will host a live recording of their podcast, \u201c4th & 1,\u201d in Charlotte on Sunday, Oct. 4.",
+        "title": "Cam Newton\u2019s \u20184th & 1\u2032 podcast returning to Charlotte",
+        "url": "https://sports.yahoo.com/articles/cam-newton-4th-1-podcast-130553933.html"
+      },
+      "score": 0.119,
+      "source_class_rank": 1,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wsoc-tv",
+          "title": "Cam Newton\u2019s \u20184th & 1\u2032 podcast returning to Charlotte",
+          "url": "https://www.wsoctv.com/news/local/cam-newtons-4th-1-podcast-returning-charlotte/5IOZMTKO3ZEWPDQRBLBFX7VD7Q/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-21fa68c43932",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.828,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-09-27T20:12:54Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "sancho.bearblog.dev",
+        "summary": "",
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/"
+      },
+      "score": 0.37,
+      "source_class_rank": 1,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-acdbf593aff5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.746,
+        "gravity": 0.0,
+        "prominence": 0.94
+      },
+      "newest_published_at": "2026-09-27T17:31:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "fireworks.ai",
+        "summary": "",
+        "title": "Ember-1",
+        "url": "https://fireworks.ai/blog/ember-1"
+      },
+      "score": 0.32,
+      "source_class_rank": 2,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-79fc9fccda74",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.939,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:29:06Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Dr Chris McCarthy talks through the four considerations you need to make before buying your pillow.",
+        "title": "'I take my pillow everywhere': An expert's guide to finding your perfect match",
+        "url": "https://www.bbc.co.uk/news/articles/cmn0jey2dde7o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.279,
+      "source_class_rank": 2,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c12a243ad706",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:06:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Lufkindailynews",
+        "summary": "WASHINGTON, DC \u2014 When you think about the years Darrell Green roamed the grass of a cozy stadium not too far from here, you might remember his reputation, too.",
+        "title": "NFL legend Darrell Green explains why he joined a girls sports movement",
+        "url": "https://lufkindailynews.com/news_reuters/national/nfl-legend-darrell-green-explains-why-he-joined-a-girls-sports-movement/article_dad70c03-8d37-5213-a5ae-9fd56dcb54a5.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 2,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9cbf9aaebe33",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:06:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Techspot",
+        "summary": "The September 25 attack struck Kyiv's Solomianskyi district. Mayor Vitali Klitschko said seven people were injured, including a child, while three of those killed were found in a parking lot outside the building. The blast damaged the facade and shattered windows. Read Entire Article",
+        "title": "Russia targets Ukraine's data centers as attacks disrupt internet access for 100,000 households",
+        "url": "https://www.techspot.com/news/114002-russia-targets-ukraine-data-centers-attacks-disrupt-internet.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 3,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b11db2069bc3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.713,
+        "gravity": 0.0,
+        "prominence": 0.952
+      },
+      "newest_published_at": "2026-09-27T16:19:46Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "eoinhiggins.substack.com",
+        "summary": "",
+        "title": "There are no \"rogue\" AI agents",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+      },
+      "score": 0.309,
+      "source_class_rank": 3,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-88d7a895662c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.938,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:27:22Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+        "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.279,
+      "source_class_rank": 3,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a16f61614b48",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.934,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:20:43Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+        "title": "You need \u00a317,000 for a first home - here's how to do it",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.278,
+      "source_class_rank": 4,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b6c2df8d89af",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.782,
+        "gravity": 0.0,
+        "prominence": 0.802
+      },
+      "newest_published_at": "2026-09-27T18:44:30Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "loficities.com",
+        "summary": "",
+        "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+        "url": "https://loficities.com/"
+      },
+      "score": 0.303,
+      "source_class_rank": 4,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e561ff59c5d8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:06:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Digital Spy",
+        "summary": "Emmerdale's Sarah Sudgen faces an awkward question next week as she continues to deal with the fallout from her grandmother Charity Dingle's devastating baby bombshell.",
+        "title": "Emmerdale's Sarah to face awkward questions in aftermath of baby bombshell",
+        "url": "https://www.digitalspy.com/soaps/emmerdale/a73908315/emmerdale-sarah-awkward-question-baby-bombshell/"
+      },
+      "score": 0.093,
+      "source_class_rank": 4,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-958861f0ee7d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:06:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Hoodline",
+        "summary": "Inova Health System paid $97.5 million for Willow Oaks Medical Campus in Fairfax, gaining full ownership of office towers next to its flagship hospital.",
+        "title": "Inova Buys Merrifield's Willow Oaks Medical Campus for $97.5M in a Year-Long Flip",
+        "url": "https://hoodline.com/2026/09/inova-buys-merrifield-s-willow-oaks-medical-campus-for-97-5m-in-a-year-long-flip/"
+      },
+      "score": 0.093,
+      "source_class_rank": 5,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-52bbc71dc0fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.925,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:05:53Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.275,
+      "source_class_rank": 5,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6c06e59d9c67",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.862,
+        "gravity": 0.0,
+        "prominence": 0.661
+      },
+      "newest_published_at": "2026-09-27T21:15:33Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "bloomberg.com",
+        "summary": "",
+        "title": "EV Sales Are Booming in Europe with Gasoline at $10 a Gallon",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-24/electric-car-sales-soar-52-in-europe-with-fuel-at-record-highs"
+      },
+      "score": 0.298,
+      "source_class_rank": 5,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f3340c3a0229",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:06:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Davis Enterprise",
+        "summary": "Here is a disturbing game: Try to spot the illegal immigrant.",
+        "title": "Commentary: Spot the illegals \u2014 a chilling, sad neighborhood game",
+        "url": "https://www.davisenterprise.com/forum/commentary-spot-the-illegals-a-chilling-sad-neighborhood-game/article_718438c4-50ed-4ac7-b2d6-024db504162b.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 6,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-10a50f8630ce",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T23:01:47Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+        "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.274,
+      "source_class_rank": 6,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6b1caa5f68a6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.671,
+        "gravity": 0.0,
+        "prominence": 0.959
+      },
+      "newest_published_at": "2026-09-27T14:45:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "unsung.aresluna.org",
+        "summary": "",
+        "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
+        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/"
+      },
+      "score": 0.292,
+      "source_class_rank": 6,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6301ed7762b9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.669,
+        "gravity": 0.0,
+        "prominence": 0.949
+      },
+      "newest_published_at": "2026-09-27T14:41:26Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "hereticpleb.vercel.app",
+        "summary": "",
+        "title": "Tells of a Slop UI",
+        "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop"
+      },
+      "score": 0.289,
+      "source_class_rank": 7,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5445a8e9301b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.905,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T22:31:16Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "So far, scientists have identified more than 1,300 species of sea spiders. <br>",
+        "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982026/new-sea-spider-species"
+      },
+      "score": 0.269,
+      "source_class_rank": 7,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a9f1d474a068",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:59Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Staten Island Ny Local News",
+        "summary": "Con Edison is responding to outages across multiple ZIP codes as the storm continues to impact the borough Sunday.",
+        "title": "Power outages reported across S.I. Sunday as nor\u2019easter continues",
+        "url": "https://www.silive.com/news/2026/09/power-outages-reported-across-staten-island-sunday-as-noreaster-continues.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 7,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-17fa289c1176",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.898,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T22:20:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel.",
+        "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.267,
+      "source_class_rank": 8,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c18a5211f4a2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.689,
+        "gravity": 0.0,
+        "prominence": 0.87
+      },
+      "newest_published_at": "2026-09-27T15:26:40Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "ihatethefuture.com",
+        "summary": "",
+        "title": "The Normalization of Inexplicable Failures",
+        "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html"
+      },
+      "score": 0.281,
+      "source_class_rank": 8,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-87b82f566ca5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:59Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Newsdio",
+        "summary": "Spider-Man: Brand New Day is less than $3 million away from becoming the first Hollywood film in history to cross the $950 million domestic box-office milestone in North America. The post Spider-Man: Brand New Day North America Box Office: Less Than $3M Away From Becoming The 1st Hollywood Film Ever To Hit This Domestic Milestone! appeared first on News DIO .",
+        "title": "Spider-Man: Brand New Day North America Box Office: Less Than $3M Away From Becoming The 1st Hollywood Film Ever To Hit This Domestic Milestone!",
+        "url": "https://newsdio.com/spider-man-brand-new-day-north-america-box-office-less-than-3m-away-from-becoming-the-1st-hollywood-film-ever-to-hit-this-domestic-milestone/"
+      },
+      "score": 0.093,
+      "source_class_rank": 8,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a0e3cab15c9e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.857,
+        "gravity": 0.0,
+        "prominence": 0.602
+      },
+      "newest_published_at": "2026-09-27T21:06:17Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "notes.secretsauce.net",
+        "summary": "",
+        "title": "Lunar Terminator Paradox",
+        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html"
+      },
+      "score": 0.281,
+      "source_class_rank": 9,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-63bd3136ca23",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.862,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T21:16:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.256,
+      "source_class_rank": 9,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-886bc1e7f8f0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:59Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Wtkr News 3",
+        "summary": "A Norfolk nonprofit went ahead with a food pantry ribbon-cutting Saturday after discovering the facility had been vandalized overnight.",
+        "title": "Volunteers 'very concerned' after Norfolk food pantry 'destroyed' hours before ribbon-cutting",
+        "url": "https://www.wtkr.com/news/in-the-community/norfolk/changing-lives-365-food-pantry-destroyed-sept-27-2026"
+      },
+      "score": 0.093,
+      "source_class_rank": 9,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a9624211becf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.727,
+        "gravity": 0.0,
+        "prominence": 0.789
+      },
+      "newest_published_at": "2026-09-27T16:50:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "iain.rocks",
+        "summary": "",
+        "title": "Don't couple your Go code to GitHub",
+        "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github"
+      },
+      "score": 0.279,
+      "source_class_rank": 10,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-41a3921bc4de",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:58Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Worldnetdaily",
+        "summary": "'The missing person in this coalition is the ratepayer, whose bills go up when environmentalists and utilities team up to shut down existing plants'",
+        "title": "Trump\u2019s Energy Department keeps ordering coal plants to stay open after losing in court",
+        "url": "https://www.wnd.com/2026/09/trumps-energy-department-keeps-ordering-coal-plants-stay/"
+      },
+      "score": 0.093,
+      "source_class_rank": 10,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-71f109876cef",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.853,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T21:00:06Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.254,
+      "source_class_rank": 10,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1215e705ce48",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.853,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T21:00:05Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent",
+        "title": "World\u2019s worst-performing market slashes minimum price for stocks",
+        "url": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1"
+      },
+      "score": 0.254,
+      "source_class_rank": 11,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-aecadab0fcec",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:57Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "New Telegraph",
+        "summary": "On Sunday, human rights activist and presidential candidate of the African Action Congress (AAC), Omoyele Sowore, announced his return to Nigeria from the United States (US) to resume his 2027 presidential campaign. Sowore, publisher of Sahara Reporter and a strong voice against bad governance, made this disclosure in a statement made available to newsmen in... The post 2027: Sowore Returns To Nigeria, Resumes Campaign appeared first on New Telegraph .",
+        "title": "2027: Sowore Returns To Nigeria, Resumes Campaign",
+        "url": "https://newtelegraphng.com/2027-sowore-returns-to-nigeria-resumes-campaign/"
+      },
+      "score": 0.093,
+      "source_class_rank": 11,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b74e2dfd52ec",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.809,
+        "gravity": 0.0,
+        "prominence": 0.654
+      },
+      "newest_published_at": "2026-09-27T19:37:05Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "quora.com",
+        "summary": "",
+        "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
+        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11"
+      },
+      "score": 0.278,
+      "source_class_rank": 11,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dab31473a2cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.665,
+        "gravity": 0.0,
+        "prominence": 0.836
+      },
+      "newest_published_at": "2026-09-27T14:30:55Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nytimes.com",
+        "summary": "",
+        "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html"
+      },
+      "score": 0.265,
+      "source_class_rank": 12,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5df15a3b3975",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:56Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Bignewsnetwork",
+        "summary": "By Snehal Satghare New Delhi [India], September 27 (ANI): Boeing is working on a software update for its 737 aircraft after identifying an issue that could leave pilots without access to automated vertical flight guidance during a specific landing scenario, the aircraft manufacturer's spokesperson said. The company has informed all 737 operators about the issue last month and provided information reinforcin",
+        "title": "Boeing spokesperson says the company is working on software update after 737 flight guidance issue",
+        "url": "http://bignewsnetwork.com/news/279335480/boeing-spokesperson-says-the-company-is-working-on-software-update-after-737-flight-guidance-issue"
+      },
+      "score": 0.093,
+      "source_class_rank": 12,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-20b1c294f0f1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.839,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T20:34:28Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+      },
+      "score": 0.249,
+      "source_class_rank": 12,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-55c204cba942",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.823,
+        "gravity": 0.0,
+        "prominence": 0.581
+      },
+      "newest_published_at": "2026-09-27T20:03:36Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "david.alvarezrosa.com",
+        "summary": "",
+        "title": "Self-Hosting on the Dark Web",
+        "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/"
+      },
+      "score": 0.265,
+      "source_class_rank": 13,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7d94e15e7f6f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.839,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T20:33:42Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Brandon McNulty becomes the first American winner of the men's road race world title in 33 years with a stunning victory in Montreal.",
+        "title": "McNulty first US world road race winner in 33 years",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cqe8xr05dj1no?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.249,
+      "source_class_rank": 13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-71e2f6d40165",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:56Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Ohio County Monitor",
+        "summary": "FRANKFORT, Ky. \u2014 Released during National Student Parent Month, a new report finds that childcare ...",
+        "title": "CPE report: Childcare barriers are more than a workforce issue",
+        "url": "https://ocmonitor.com/2026/09/27/cpe-report-childcare-barriers-are-more-than-a-workforce-issue/"
+      },
+      "score": 0.093,
+      "source_class_rank": 13,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a6a5bf869a82",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.792,
+        "gravity": 0.0,
+        "prominence": 0.62
+      },
+      "newest_published_at": "2026-09-27T19:04:19Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "thill.me",
+        "summary": "",
+        "title": "What I did at Recurse Center",
+        "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html"
+      },
+      "score": 0.264,
+      "source_class_rank": 14,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-19484a96a3fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:55Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Thesun",
+        "summary": "Families of 55 Malaysians missing in the Nepal floods have urged the government and Prime Minister Datuk Seri Anwar Ibrahim for a special financial moratorium.",
+        "title": "Nepal floods: Families of 55 missing Malaysians seek PM\u2019s intervention, moratorium",
+        "url": "https://thesun.my/news/malaysia-news/people-issues/nepal-floods-families-of-55-missing-malaysians-seek-pms-intervention-moratorium/"
+      },
+      "score": 0.093,
+      "source_class_rank": 14,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ddccf759f689",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.838,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T20:31:48Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Administration denies delaying sale of a $14bn arms package to Taiwan to appease Beijing",
+        "title": "Trump asked Xi if China wanted to buy American weapons, US envoy says",
+        "url": "https://www.ft.com/content/8b4690d4-7c02-48af-b117-56faf21c389d?syn-25a6b1a6=1"
+      },
+      "score": 0.249,
+      "source_class_rank": 14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-139eb4b7dfd0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:53Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Sunstar",
+        "summary": "Piston Cebu will proceed with its Sept. 29 transport strike, claiming the recent P1-P2 fare hike is insufficient amid high fuel costs.",
+        "title": "Piston Cebu to push through with Tuesday strike",
+        "url": "https://www.sunstar.com.ph/cebu/piston-cebu-to-push-through-with-tuesday-strike"
+      },
+      "score": 0.093,
+      "source_class_rank": 15,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-21ea903bb8c2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.691,
+        "gravity": 0.0,
+        "prominence": 0.776
+      },
+      "newest_published_at": "2026-09-27T15:31:15Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nura.eco",
+        "summary": "",
+        "title": "PostmarketOS is rebranding as Nura",
+        "url": "https://nura.eco/blog/2026/09/27/nura-rename/"
+      },
+      "score": 0.263,
+      "source_class_rank": 15,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-116d5d368623",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.827,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T20:10:51Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The men have been detained on suspicion of preparation of a terrorist act after three suspicious vehicles were reported to be travelling towards the base.",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.246,
+      "source_class_rank": 15,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-934ff610b9df",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.82,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T19:57:30Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "title": "Can Muse overcome Meta\u2019s trust issues?",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/"
+      },
+      "score": 0.244,
+      "source_class_rank": 16,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2ad161a94654",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.94,
+        "gravity": 0.0,
+        "prominence": 0.423
+      },
+      "newest_published_at": "2026-09-27T23:30:49Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "ottawacitizen.com",
+        "summary": "",
+        "title": "Judge orders release of records on Nazi war criminals who settled in Canada",
+        "url": "https://ottawacitizen.com/public-service/defence-watch/judge-orders-release-of-records-on-nazi-war-criminals-who-settled-in-canada"
+      },
+      "score": 0.258,
+      "source_class_rank": 16,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3b7a68ecb41a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:53Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Sussexworld",
+        "summary": "Worthing Raiders lost 34-28 to Old Alleynians as the new Regional 1 South Central season kicked off a fortnight later than planned.",
+        "title": "37 photos as Worthing Raiders face Old Alleynians in season opener",
+        "url": "https://www.sussexexpress.co.uk/sport/rugby-union/37-photos-as-worthing-raiders-face-old-alleynians-in-season-opener-9195836"
+      },
+      "score": 0.093,
+      "source_class_rank": 16,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c0255e8b9f9a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Won/f4w",
+        "summary": "Yota Tsuji successfully defended the IWGP Heavyweight Championship against Hirooki Goto at Destruction in Kobe on Sunday. Tsuji picked up the win after hitting two Fire Blasters on Goto. Following the match, G1 Climax winner Ryohei Oiwa confronted Tsuji, with their title match at King of Pro Wrestling on October 12 now official. For full [\u2026]",
+        "title": "Result of IWGP Heavyweight title match at NJPW Destruction in Kobe",
+        "url": "https://www.f4wonline.com/news/new-japan/result-of-iwgp-heavyweight-title-match-at-njpw-destruction-in-kobe/"
+      },
+      "score": 0.093,
+      "source_class_rank": 17,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9959dc2a209d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.814,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T19:47:44Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+        "title": "What we know about RAF Fairford counter-terror probe",
+        "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.242,
+      "source_class_rank": 17,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5bed54ad9e78",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.7,
+        "gravity": 0.0,
+        "prominence": 0.717
+      },
+      "newest_published_at": "2026-09-27T15:51:28Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tinyaiarena.com",
+        "summary": "Did you ever click on an \u201cAI Arena\u201d expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8\u00d78 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena</a>",
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/"
+      },
+      "score": 0.254,
+      "source_class_rank": 17,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fa42a4a4995d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Economic and Financial Crimes Commission (EFCC) has arrested the suspended South-West Zonal Coordinator of the womens wing of the City Boy Movement, Halimat...The post She Is In Our Custody EFCC Arrests Suspended City Boy Movement Woman Leader appeared first on Naija News.",
+        "title": "She Is In Our Custody EFCC Arrests Suspended City Boy Movement Woman Leader",
+        "url": "https://www.latestnigeriannews.com/p/414065/she-is-in-our-custody-efcc-arrests-suspended-city-boy-movement-woman-leader.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 18,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-57fccdb3d85f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.839,
+        "gravity": 0.0,
+        "prominence": 0.492
+      },
+      "newest_published_at": "2026-09-27T20:33:55Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "notoriousbfg.com",
+        "summary": "",
+        "title": "My Recent Woodworking Projects",
+        "url": "https://notoriousbfg.com/recent-woodworking-projects/"
+      },
+      "score": 0.247,
+      "source_class_rank": 18,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-44ef46d815ca",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.814,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T19:47:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+        "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.242,
+      "source_class_rank": 18,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b18d7a057ef1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Good morning Nigeria. Welcome to the Naija News roundup of top newspaper headlines in Nigeria for today, Sunday, 27th September, 2026. 1. Peter Obi,...The post Top Nigerian Newspaper Headlines For Today, Sunday, 27th September, 2026 appeared first on Naija News.",
+        "title": "Top Nigerian Newspaper Headlines For Today, Sunday, 27th September, 2026",
+        "url": "https://www.latestnigeriannews.com/p/414084/top-nigerian-newspaper-headlines-for-today-sunday-27th-september-2026.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 19,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9472a897edc7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.804,
+        "gravity": 0.0,
+        "prominence": 0.526
+      },
+      "newest_published_at": "2026-09-27T19:28:23Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;hex.pm&#x2F;packages&#x2F;imp\" rel=\"nofollow\">https:&#x2F;&#x2F;hex.pm&#x2F;packages&#x2F;imp</a><p><a href=\"https:&#x2F;&#x2F;dspy.ai&#x2F;current&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;dspy.ai&#x2F;current&#x2F;</a>",
+        "title": "Imp is a full port of DSPy to the BEAM",
+        "url": "https://github.com/deepfates/imp"
+      },
+      "score": 0.245,
+      "source_class_rank": 19,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e5e5189adcc6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.814,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T19:46:44Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Doubt crept in at Chelsea last season when they lost their Women's Super League crown - but early signs in this campaign suggest they have regained their spark for another challenge.",
+        "title": "Chelsea restore resilience - are they title contenders again?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz477nl57o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.242,
+      "source_class_rank": 19,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f309c8820d29",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.639,
+        "gravity": 0.0,
+        "prominence": 0.788
+      },
+      "newest_published_at": "2026-09-27T13:30:11Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "jvns.ca",
+        "summary": "",
+        "title": "Replacing the old battery on rechargeable bike lights",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"
+      },
+      "score": 0.245,
+      "source_class_rank": 20,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8df698e7baed",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Nollywood actress, Jumoke Odetola, has announced that she has dumped acting for ministerial work. Naija News reports that Jumoke made the announcement while addressing...The post Nollywood Actress, Jumoke Odetola Turns Minister Of God appeared first on Naija News.",
+        "title": "Nollywood Actress, Jumoke Odetola Turns Minister Of God",
+        "url": "https://www.latestnigeriannews.com/p/414088/nollywood-actress-jumoke-odetola-turns-minister-of-god.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 20,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b44ab90ef8ec",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.798,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T19:16:16Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Craig Bellamy says he is \"hurting\" on the back of Wales' 2-0 Nations League A defeat away to Denmark, but feels his side will continue to improve.",
+        "title": "Bellamy 'hurting' as Denmark outclass Wales",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvgyjp3lgv9o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.237,
+      "source_class_rank": 20,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8a796aea71e7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.823,
+        "gravity": 0.0,
+        "prominence": 0.487
+      },
+      "newest_published_at": "2026-09-27T20:04:37Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "zachholman.com",
+        "summary": "",
+        "title": "Have an LLC",
+        "url": "https://zachholman.com/posts/you-should-have-an-llc"
+      },
+      "score": 0.242,
+      "source_class_rank": 21,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a02c0642a8e7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.788,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T18:55:30Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Southern Water says it is investigating the burst pipe which happened on Sunday morning.",
+        "title": "Thousands affected and roads closed after burst pipe",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e33ej13r5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.234,
+      "source_class_rank": 21,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-22405db82e7a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Presidency has dismissed the presidential ambition of the African Democratic Congress (ADC) flag bearer, Atiku Abubakar. Naija News reports that the Political Adviser...The post Atiku Knows He Is Joking About 2027 Ambition Presidency appeared first on Naija News.",
+        "title": "Atiku Knows He Is Joking About 2027 Ambition Presidency",
+        "url": "https://www.latestnigeriannews.com/p/414094/atiku-knows-he-is-joking-about-2027-ambition-presidency.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 21,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-9b4c1d85d5bb",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.5,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:05:56Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses.",
+        "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces"
+      },
+      "score": 0.229,
+      "source_class_rank": 22,
+      "source_classes": [
+        "NewsData",
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wtop News",
+          "title": "UK police say 5 men arrested near a U.S. air base are being held on suspicion of preparing a terrorist act",
+          "url": "https://wtop.com/world/2026/09/uk-police-say-5-men-arrested-near-a-u-s-air-base-are-being-held-on-suspicion-of-preparing-a-terrorist-act/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2c73a89f919e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.761,
+        "gravity": 0.0,
+        "prominence": 0.563
+      },
+      "newest_published_at": "2026-09-27T18:02:43Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "youtube.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Chowning\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;John_Chowning</a>",
+        "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+        "url": "https://www.youtube.com/watch?v=e1Xn3030IvM"
+      },
+      "score": 0.241,
+      "source_class_rank": 22,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5669e0837597",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Nigerian Army has graduated 87 newly trained soldiers for deployment to various theatres of Operation FANSAN YAMMA as part of efforts to strengthen...The post Nigerian Army Deploys 87 Trained Soldiers To Security Theatres appeared first on Naija News.",
+        "title": "Nigerian Army Deploys 87 Trained Soldiers To Security Theatres",
+        "url": "https://www.latestnigeriannews.com/p/414100/nigerian-army-deploys-87-trained-soldiers-to-security-theatres.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 22,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6d3579e7afc3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.876,
+        "gravity": 0.0,
+        "prominence": 0.422
+      },
+      "newest_published_at": "2026-09-27T21:40:54Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "George Hotz\u2019s opinion on AI coding",
+        "url": "https://twitter.com/__tinygrad__/status/2044354852663558370"
+      },
+      "score": 0.24,
+      "source_class_rank": 23,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3456c6b979fc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Presidential spokesman, Bayo Onanuga, has accused former Anambra governor, Peter Obi, of failing to acknowledge the achievements of his predecessors or successors. According to...The post Peter Obi Has Become The Next Big Thing After God Presidency Raises Alarm appeared first on Naija News.",
+        "title": "Peter Obi Has Become The Next Big Thing After God Presidency Raises Alarm",
+        "url": "https://www.latestnigeriannews.com/p/414099/peter-obi-has-become-the-next-big-thing-after-god-presidency-raises-alarm.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 23,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dadff6e05054",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.76,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T18:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "The presidential security force takes the spotlight in this collection of fact-checked rumors.",
+        "title": "10 rumors involving the Secret Service we've unraveled",
+        "url": "https://www.snopes.com/collections/secret-service-rumors/"
+      },
+      "score": 0.226,
+      "source_class_rank": 23,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e813c90a76a1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, has urged Nigerian editors to expose the past wrongdoings of politicians and scrutinise...The post Peter Obi Urges Editors To Expose Politicians Past Wrongdoings appeared first on Naija News.",
+        "title": "Peter Obi Urges Editors To Expose Politicians Past Wrongdoings",
+        "url": "https://www.latestnigeriannews.com/p/414083/peter-obi-urges-editors-to-expose-politicians-past-wrongdoings.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 24,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-53d4bbfaf55c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.938,
+        "gravity": 0.0,
+        "prominence": 0.357
+      },
+      "newest_published_at": "2026-09-27T23:27:10Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "utilitydive.com",
+        "summary": "",
+        "title": "Hitachi to double US production of small and medium-sized power transformers",
+        "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/"
+      },
+      "score": 0.239,
+      "source_class_rank": 24,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f2826a2f8810",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.743,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T17:24:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran",
+        "title": "Terrorism arrests made in \u2018major incident\u2019 near US air base in UK",
+        "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1"
+      },
+      "score": 0.221,
+      "source_class_rank": 24,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-25ebee6ab97d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.734,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T17:05:26Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.218,
+      "source_class_rank": 25,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5b50c37cb3dd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Former Nigerian international, Victor Ikpeba, has backed Stanley Nwabali to remain the Super Eagles first-choice goalkeeper ahead of Maduka Okoye. Victor Ikpeba assessed Nigerias...The post Victor Ikpeba Backs Nwabali As Super Eagles No. 1 Ahead Of Maduka Okoye appeared first on Naija News.",
+        "title": "Victor Ikpeba Backs Nwabali As Super Eagles No. 1 Ahead Of Maduka Okoye",
+        "url": "https://www.latestnigeriannews.com/p/414070/victor-ikpeba-backs-nwabali-as-super-eagles-no-1-ahead-of-maduka-okoye.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 25,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b3b266ee8f0c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.937,
+        "gravity": 0.0,
+        "prominence": 0.355
+      },
+      "newest_published_at": "2026-09-27T23:26:17Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "theatlantic.com",
+        "summary": "",
+        "title": "The Great Crime Decline Is Happening All Across the Country",
+        "url": "https://www.theatlantic.com/ideas/2026/01/great-crime-decline/685695/"
+      },
+      "score": 0.238,
+      "source_class_rank": 25,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9a356bb62a01",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.731,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T17:00:04Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic\u2019s systems",
+        "title": "Corporate America embraces cheaper \u2018open\u2019 AI models",
+        "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1"
+      },
+      "score": 0.217,
+      "source_class_rank": 26,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-348a073e06b2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.64,
+        "gravity": 0.0,
+        "prominence": 0.739
+      },
+      "newest_published_at": "2026-09-27T13:33:03Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "pixelambacht.nl",
+        "summary": "",
+        "title": "Ten lines of code that changed my world",
+        "url": "https://pixelambacht.nl/2026/ten-lines-of-code/"
+      },
+      "score": 0.236,
+      "source_class_rank": 26,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8ef50ec9a1a2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, has clarified his position on fuel subsidy. Naija News recalls that the partys...The post Kwankwaso Did Not Say He Would Remove Fuel Subsidy Peter Obi Addresses Controversial Comment appeared first on Naija News.",
+        "title": "Kwankwaso Did Not Say He Would Remove Fuel Subsidy Peter Obi Addresses Controversial Comment",
+        "url": "https://www.latestnigeriannews.com/p/414091/kwankwaso-did-not-say-he-would-remove-fuel-subsidy-peter-obi-addresses-controver.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 26,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8195f3eaebc1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Former Bauchi State governor, Isa Yuguda, has dismissed reports on social media concerning his death. Addressing reporters on Saturday, Yuguda said he recently underwent...The post I Have No Enemies In This World Former Gov. Yuguda Speaks On Death Rumour appeared first on Naija News.",
+        "title": "I Have No Enemies In This World Former Gov. Yuguda Speaks On Death Rumour",
+        "url": "https://www.latestnigeriannews.com/p/414101/i-have-no-enemies-in-this-world-former-gov-yuguda-speaks-on-death-rumour.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 27,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cee25fb781a5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.727,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T16:49:38Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka.",
+        "title": "England win series as Banton delivers on potential",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.216,
+      "source_class_rank": 27,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2c1fe30523f3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.532,
+        "gravity": 0.0,
+        "prominence": 0.98
+      },
+      "newest_published_at": "2026-09-27T08:44:04Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reddit.com",
+        "summary": "",
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"
+      },
+      "score": 0.235,
+      "source_class_rank": 27,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-18569eb19a94",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.717,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T16:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "\"AI is the devil and I its maker.\"",
+        "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+      },
+      "score": 0.213,
+      "source_class_rank": 28,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4af8f4c01ecf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.485,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-09-27T06:19:33Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "authorsguild.org",
+        "summary": "",
+        "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/"
+      },
+      "score": 0.217,
+      "source_class_rank": 28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a5f4dba1d42c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Nigerian singer, Adekunle Gold, has opened up on an experience he had while living in the United States. Naija News reports that the father...The post This Is Your Last Warning Adekunle Gold Reveals How He Almost Got Arrested In America appeared first on Naija News.",
+        "title": "This Is Your Last Warning Adekunle Gold Reveals How He Almost Got Arrested In America",
+        "url": "https://www.latestnigeriannews.com/p/414079/this-is-your-last-warning-adekunle-gold-reveals-how-he-almost-got-arrested-in-am.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 28,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-93f339ff167d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.568,
+        "gravity": 0.0,
+        "prominence": 0.772
+      },
+      "newest_published_at": "2026-09-27T10:26:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "arxiv.org",
+        "summary": "",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021"
+      },
+      "score": 0.215,
+      "source_class_rank": 29,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2678cdfe1e6c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Detectives from the Zone 13 Command in Ukpo, Dunukofia, Anambra State, have arrested a former member of the House of Representatives, Uchenna Igwesi, popularly...The post Police Arrest Former Lawmaker, Prominent Monarch, Eight Others Over NDC Meeting Attack appeared first on Naija News.",
+        "title": "Police Arrest Former Lawmaker, Prominent Monarch, Eight Others Over NDC Meeting Attack",
+        "url": "https://www.latestnigeriannews.com/p/414103/police-arrest-former-lawmaker-prominent-monarch-eight-others-over-ndc-meeting-at.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 29,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-826a5844ba43",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.705,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T16:02:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+        "title": "Switzerland rejects stricter interpretation of its neutrality",
+        "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.21,
+      "source_class_rank": 29,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f0b56dbe280b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.666,
+        "gravity": 0.0,
+        "prominence": 0.575
+      },
+      "newest_published_at": "2026-09-27T14:35:10Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "livescience.com",
+        "summary": "",
+        "title": "Fragment of oldest known peace treaty found in Turkey",
+        "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey"
+      },
+      "score": 0.213,
+      "source_class_rank": 30,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-03e70767f076",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Activist lawyer, Deji Adeyanju, has alleged that the presidential candidate of the Nigeria Democratic Congress, Peter Obi, and his running mate, Rabiu Kwankwaso, are...The post Peter Obi, Kwankwaso Are Working For Tinubu Adeyanju appeared first on Naija News.",
+        "title": "Peter Obi, Kwankwaso Are Working For Tinubu Adeyanju",
+        "url": "https://www.latestnigeriannews.com/p/414071/peter-obi-kwankwaso-are-working-for-tinubu-adeyanju.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 30,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-19d3fca78625",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.705,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T16:02:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "TechCrunch Mobility: AV companies pick their lanes",
+        "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/"
+      },
+      "score": 0.209,
+      "source_class_rank": 30,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-46a678c862ce",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.743,
+        "gravity": 0.0,
+        "prominence": 0.464
+      },
+      "newest_published_at": "2026-09-27T17:24:17Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "earnanhonestdollar.com",
+        "summary": "",
+        "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+        "url": "https://earnanhonestdollar.com/bench"
+      },
+      "score": 0.213,
+      "source_class_rank": 31,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c32d3cac49b9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.688,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T15:25:47Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Five men have been arrested as counter-terrorism police lead investigation into major incident near RAF Fairford.",
+        "title": "Watch: At the scene of counter-terrorism operation near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/videos/cxp84gq34n9zo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.205,
+      "source_class_rank": 31,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1e45337754ad",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Minister of Works, David Umahi, has dismissed claims that he has concentrated federal projects in the South-East. He argued that he is not...The post Where Will Tinubu Be When I Corner All Projects To The Southeast' Umahi Fires Critics appeared first on Naija News.",
+        "title": "Where Will Tinubu Be When I Corner All Projects To The Southeast' Umahi Fires Critics",
+        "url": "https://www.latestnigeriannews.com/p/414075/where-will-tinubu-be-when-i-corner-all-projects-to-the-southeast-umahi-fires-cri.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 31,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-28830a3e224a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.829,
+        "gravity": 0.0,
+        "prominence": 0.28
+      },
+      "newest_published_at": "2026-09-27T20:14:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "code.garage44.eu",
+        "summary": "",
+        "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
+        "url": "https://code.garage44.eu/jeroen/cartopolis"
+      },
+      "score": 0.192,
+      "source_class_rank": 32,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-34ff094ce267",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Former Governor of Cross River State, Donald Duke, has said he does not believe in fuel subsidy, arguing that Nigerians should benefit from the...The post Petrol Can Sell For 200 In Nigeria Without Subsidy Donald Duke appeared first on Naija News.",
+        "title": "Petrol Can Sell For 200 In Nigeria Without Subsidy Donald Duke",
+        "url": "https://www.latestnigeriannews.com/p/414096/petrol-can-sell-for-200-in-nigeria-without-subsidy-donald-duke.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 32,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1de2e310d95b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.677,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T15:00:03Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "States are feeling more pressure from companies demanding subsidies and tax breaks",
+        "title": "Pay to play in the age of corporate migration",
+        "url": "https://www.ft.com/content/267379ff-8491-478b-a10f-ad19a67df37c?syn-25a6b1a6=1"
+      },
+      "score": 0.201,
+      "source_class_rank": 32,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a2eb93db7546",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.949,
+        "gravity": 0.0,
+        "prominence": 0.181
+      },
+      "newest_published_at": "2026-09-27T23:45:17Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "huggingface.co",
+        "summary": "",
+        "title": "Flux 3 Action: A 7B open-weight world action model for robots",
+        "url": "https://huggingface.co/blog/black-forest-labs/flux-3-action"
+      },
+      "score": 0.191,
+      "source_class_rank": 33,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3b4c0ffee11c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Chief of Staff to President Bola Tinubu, Femi Gbajabiamila, has said the President has confidence in him, adding that he has never betrayed that...The post I Have Been With Tinubu For Many Years, Never Betrayed His Trust Gbajabiamila appeared first on Naija News.",
+        "title": "I Have Been With Tinubu For Many Years, Never Betrayed His Trust Gbajabiamila",
+        "url": "https://www.latestnigeriannews.com/p/414080/i-have-been-with-tinubu-for-many-years-never-betrayed-his-trust-gbajabiamila.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 33,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2e23287ac4a5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.677,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T15:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+        "title": "Sennheiser Momentum 5\u00a0review: Great sound, incredible battery life, and few compromises",
+        "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
+      },
+      "score": 0.201,
+      "source_class_rank": 33,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dc17f68110bf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.662,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T14:24:46Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Manchester City. Here's what it means.",
+        "title": "Why Premier League faces uncertainty and chaos after Man City ruling",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.197,
+      "source_class_rank": 34,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d6cd18460db7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Former governor of Ebonyi State and the Minister of Works, David Umahi, has stated that there is no rainbow coalition in the state. Naija...The post Wike Has Not Told Me He Has Candidates In Ebonyi State Umahi appeared first on Naija News.",
+        "title": "Wike Has Not Told Me He Has Candidates In Ebonyi State Umahi",
+        "url": "https://www.latestnigeriannews.com/p/414077/wike-has-not-told-me-he-has-candidates-in-ebonyi-state-umahi.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 34,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0c16da63eb9a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.537,
+        "gravity": 0.0,
+        "prominence": 0.688
+      },
+      "newest_published_at": "2026-09-27T08:59:59Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "eli.thegreenplace.net",
+        "summary": "",
+        "title": "Rusty thoughts on \"Parse, don't validate\"",
+        "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/"
+      },
+      "score": 0.19,
+      "source_class_rank": 34,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-77bb603ab679",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.655,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T14:09:22Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.195,
+      "source_class_rank": 35,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-71cec9a46bc8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.889,
+        "gravity": 0.0,
+        "prominence": 0.181
+      },
+      "newest_published_at": "2026-09-27T22:03:16Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reclaimthenet.org",
+        "summary": "",
+        "title": "Washington Challenges Brussels' Authority over X",
+        "url": "https://reclaimthenet.org/washington-challenges-brussels-authority-over-x"
+      },
+      "score": 0.179,
+      "source_class_rank": 35,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6b0b51a44e56",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "State chairmen of the Nigeria Democratic Congress (NDC) have insisted that support groups cannot set up parallel campaign structures or carry out activities without...The post Peter Obi Is Not Responding To Our Calls NDC Chairmen Cry Out Over Obidient Movement Crisis appeared first on Naija News.",
+        "title": "Peter Obi Is Not Responding To Our Calls NDC Chairmen Cry Out Over Obidient Movement Crisis",
+        "url": "https://www.latestnigeriannews.com/p/414089/peter-obi-is-not-responding-to-our-calls-ndc-chairmen-cry-out-over-obidient-move.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 35,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fa4355045fe8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Anambra State Government has challenged Nigeria Democratic Congress (NDC) presidential candidate, Peter Obi, to tender an unreserved apology to the people of the...The post You Have No Choice But Tender Unreserved Apology Anambra Govt Challenges Peter Obi appeared first on Naija News.",
+        "title": "You Have No Choice But Tender Unreserved Apology Anambra Govt Challenges Peter Obi",
+        "url": "https://www.latestnigeriannews.com/p/414105/you-have-no-choice-but-tender-unreserved-apology-anambra-govt-challenges-peter-o.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 36,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-175f98a6cf22",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.655,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T14:07:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The dispute over the controversial parade is a reminder that the peace process is not over.",
+        "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.195,
+      "source_class_rank": 36,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bab819c151c3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.469,
+        "gravity": 0.0,
+        "prominence": 0.761
+      },
+      "newest_published_at": "2026-09-27T05:26:15Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reasonable.io",
+        "summary": "",
+        "title": "The internet discovers TLA+. Now what?",
+        "url": "https://reasonable.io/blog/tla-tutorial/"
+      },
+      "score": 0.176,
+      "source_class_rank": 36,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8767f1ac4a32",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Delta State Government has constituted an eight-member Administrative Panel of Inquiry to investigate the circumstances surrounding the death of a Deputy Director in...The post Delta Govt Sets Up Panel To Probe Deputy Directors Death appeared first on Naija News.",
+        "title": "Delta Govt Sets Up Panel To Probe Deputy Directors Death",
+        "url": "https://www.latestnigeriannews.com/p/414063/delta-govt-sets-up-panel-to-probe-deputy-directors-death.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 37,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5cfd1f480372",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.421,
+        "gravity": 0.0,
+        "prominence": 0.855
+      },
+      "newest_published_at": "2026-09-27T02:40:26Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "theborys.substack.com",
+        "summary": "",
+        "title": "What is the size of Yemen? (2024)",
+        "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen"
+      },
+      "score": 0.17,
+      "source_class_rank": 37,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-33f2e576fb13",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.649,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:53:39Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia. Lab experiments suggest the popular joint supplement may intensify an abnormal sugar-tagging process in the Alzheimer\u2019s brain, although researchers say clinical trials are needed to determine whether it actually causes harm.",
+        "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer\u2019s progression",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm"
+      },
+      "score": 0.193,
+      "source_class_rank": 37,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f91f88bae057",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.647,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:48:05Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+        "title": "Burnham proposes NHS-style social care system for England",
+        "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.192,
+      "source_class_rank": 38,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5728e1345410",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.733,
+        "gravity": 0.0,
+        "prominence": 0.272
+      },
+      "newest_published_at": "2026-09-27T17:04:09Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "smarmelling.com",
+        "summary": "",
+        "title": "The accidental history of 3000, 8080, and other port numbers",
+        "url": "https://smarmelling.com/posts/the-accidental-history-of-3000-8080-and-other-port-numbers.html"
+      },
+      "score": 0.168,
+      "source_class_rank": 38,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-984f1615808c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Veteran Nollywood actor, Jide Kosoko, has recalled how the rise of social media sparked fears among older entertainment industry practitioners that they would be...The post We Were Afraid Social Media Would Completely Kick Us Out Of Business Jide Kosoko appeared first on Naija News.",
+        "title": "We Were Afraid Social Media Would Completely Kick Us Out Of Business Jide Kosoko",
+        "url": "https://www.latestnigeriannews.com/p/414092/we-were-afraid-social-media-would-completely-kick-us-out-of-business-jide-kosoko.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 38,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-103a4d5d2f74",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.644,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:41:36Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Direct oral anticoagulants cut the risk of serious clinical events by 69% in atrial fibrillation patients with an intermediate risk of stroke, according to the randomized SINGLE-AF trial. The benefit was driven mainly by fewer ischemic strokes, with no increase in major bleeding.",
+        "title": "Atrial fibrillation patients saw 69% lower risk with common blood thinners",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925005439.htm"
+      },
+      "score": 0.191,
+      "source_class_rank": 39,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-44a5e325d77d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The presidential candidate of the Peoples Redemption Party (PRP) for the 2027 election, Donald Duke, has explained why he is not supporting President Bola...The post I Disagree With The Direction Tinubu Is Taking Nigeria Donald Duke appeared first on Naija News.",
+        "title": "I Disagree With The Direction Tinubu Is Taking Nigeria Donald Duke",
+        "url": "https://www.latestnigeriannews.com/p/414095/i-disagree-with-the-direction-tinubu-is-taking-nigeria-donald-duke.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 39,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e4f0562b7529",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.797,
+        "gravity": 0.0,
+        "prominence": 0.202
+      },
+      "newest_published_at": "2026-09-27T19:12:57Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "arxiv.org",
+        "summary": "",
+        "title": "Quantized Reasoning Models Think They Need to Think Longer, but They Do Not",
+        "url": "https://arxiv.org/abs/2606.00206"
+      },
+      "score": 0.166,
+      "source_class_rank": 39,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d61c31425b8e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.637,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:25:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.189,
+      "source_class_rank": 40,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c77ad197d46b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.549,
+        "gravity": 0.0,
+        "prominence": 0.478
+      },
+      "newest_published_at": "2026-09-27T09:34:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "microsoft.github.io",
+        "summary": "",
+        "title": "Rust for C# and .NET developers guide by Microsoft",
+        "url": "https://microsoft.github.io/rust-for-dotnet-devs/latest/"
+      },
+      "score": 0.16,
+      "source_class_rank": 40,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-eaa175df4427",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Chief of Staff to President Bola Tinubu, Femi Gbajabiamila, has broken silence on the recent political fallout with Lagos State lawmaker Desmond Elliot, saying...The post What Is Done Is Done Gbajabiamila Breaks Silence On Fallout With Desmond Elliott appeared first on Naija News.",
+        "title": "What Is Done Is Done Gbajabiamila Breaks Silence On Fallout With Desmond Elliott",
+        "url": "https://www.latestnigeriannews.com/p/414078/what-is-done-is-done-gbajabiamila-breaks-silence-on-fallout-with-desmond-elliott.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 40,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-af4333ff3179",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.633,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:15:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders. The reductions were still present one year later, with the highest dose lowering LDL by 52.5% and triglycerides by 47.8%.",
+        "title": "One CRISPR treatment cut \u201cbad\u201d cholesterol in half for a full year",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm"
+      },
+      "score": 0.188,
+      "source_class_rank": 41,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-17d1616f0316",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Renowned Nollywood actress, Funke Akindele, has thrown her weight behind Kamo States debut cinema movie, Starlomo, days after her absence from the films Lagos...The post Iyami Da' Kamo State Reacts As Funke Akindele Clears Air On Alleged Rift appeared first on Naija News.",
+        "title": "Iyami Da' Kamo State Reacts As Funke Akindele Clears Air On Alleged Rift",
+        "url": "https://www.latestnigeriannews.com/p/414098/iyami-da-kamo-state-reacts-as-funke-akindele-clears-air-on-alleged-rift.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 41,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c8c64b63f052",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.424,
+        "gravity": 0.0,
+        "prominence": 0.372
+      },
+      "newest_published_at": "2026-09-27T02:51:26Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "casita.rs",
+        "summary": "",
+        "title": "Casita: A content-addressed store for source code and build artifact",
+        "url": "https://casita.rs/blog/introducing-casita-a-content-addressed-store-for-source-code-and-build-artifacts/"
+      },
+      "score": 0.11,
+      "source_class_rank": 41,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-13735e156b71",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.628,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T13:01:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+        "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week"
+      },
+      "score": 0.187,
+      "source_class_rank": 42,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b558f640de4d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Lawyer and human rights activist, Ifeanyi Ejiofor, has raised concerns about the safety of the Nigeria Democratic Congress (NDC) presidential candidate, Peter Obi. Naija...The post Nothing Must Happen To Peter Obi IPOB Lawyer Raises Alarm, Challenges Tinubu appeared first on Naija News.",
+        "title": "Nothing Must Happen To Peter Obi IPOB Lawyer Raises Alarm, Challenges Tinubu",
+        "url": "https://www.latestnigeriannews.com/p/414093/nothing-must-happen-to-peter-obi-ipob-lawyer-raises-alarm-challenges-tinubu.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 42,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-53d454e57e87",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Fresh questions have been raised over financial transactions involving Taraba State Emergency Management Agency (SEMA) Executive Secretary, Dr. Echuseh Audu, and a business associated...The post Taraba SEMA Boss Faces Fresh Questions Over 49.4 Million Transactions appeared first on Naija News.",
+        "title": "Taraba SEMA Boss Faces Fresh Questions Over 49.4 Million Transactions",
+        "url": "https://www.latestnigeriannews.com/p/414097/taraba-sema-boss-faces-fresh-questions-over-494-million-transactions.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 43,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3ddb65e095ee",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.61,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T12:17:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+        "title": "Trump wants to remove a question about race in the census. We look back at the history",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history"
+      },
+      "score": 0.181,
+      "source_class_rank": 43,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1e1d9c91381e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.607,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T12:10:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have streamlined a method for measuring DNA-bound phosphorus in soil, making it cheaper and easier while preserving its accuracy. The technique could reveal how soil microbes help recycle phosphorus and ultimately support more sustainable fertilizer and nutrient management.",
+        "title": "New soil test could reveal how soil microbes help feed plants",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925005441.htm"
+      },
+      "score": 0.181,
+      "source_class_rank": 44,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-be86933e00a2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "President Bola Tinubu has reportedly postponed his return to Nigeria. Sources who spoke to The Cable disclosed that there was a last-minute change to...The post Tinubu Postpones Return To Nigeria, New Date Emerges appeared first on Naija News.",
+        "title": "Tinubu Postpones Return To Nigeria, New Date Emerges",
+        "url": "https://www.latestnigeriannews.com/p/414104/tinubu-postpones-return-to-nigeria-new-date-emerges.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 44,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0684902220af",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The Delta State Police Command has arrested an aide to the Commissioner for Secondary Education, Dr Kingsley Ashibogwu, in connection with the death of...The post Police Arrest Commissioners Aide Over Delta Officials Death appeared first on Naija News.",
+        "title": "Police Arrest Commissioners Aide Over Delta Officials Death",
+        "url": "https://www.latestnigeriannews.com/p/414072/police-arrest-commissioners-aide-over-delta-officials-death.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 45,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-28d90f99bb81",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.606,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T12:06:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate.",
+        "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes"
+      },
+      "score": 0.18,
+      "source_class_rank": 45,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-79bd23f454bc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.606,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T12:06:23Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+        "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity"
+      },
+      "score": 0.18,
+      "source_class_rank": 46,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-550d5ba8308a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The wife of the Anambra State Governor, Mrs Nonye Soludo, has dismissed a claim that former governor of the state, Peter Obi, is the...The post Peter Obi Is Not A Godfather To Soludos Children Govs Wife appeared first on Naija News.",
+        "title": "Peter Obi Is Not A Godfather To Soludos Children Govs Wife",
+        "url": "https://www.latestnigeriannews.com/p/414068/peter-obi-is-not-a-godfather-to-soludos-children-govs-wife.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 46,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-09c08125b832",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "The National Chairman of the All Progressives Congress (APC), Nentawe Yilwatda, has criticised the African Democratic Congress (ADC) presidential candidate, Atiku Abubakar, over his...The post What Suffering Are You Bringing To Nigeria' Yilwatda Tackles Atiku Over Proposed Fuel Subsidy Return appeared first on Naija News.",
+        "title": "What Suffering Are You Bringing To Nigeria' Yilwatda Tackles Atiku Over Proposed Fuel Subsidy Return",
+        "url": "https://www.latestnigeriannews.com/p/414087/what-suffering-are-you-bringing-to-nigeria-yilwatda-tackles-atiku-over-proposed-.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 47,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-752030783682",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.603,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T12:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "A 300-year-old Mexican musical tradition is finding new life around the world \u2014 one sweaty, joyous, all-night fandango at a time.",
+        "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango"
+      },
+      "score": 0.179,
+      "source_class_rank": 47,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d3f97628048c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-09-27T13:05:52Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Latest Nigerian News",
+        "summary": "Super Eagles head coach Eric Chelle has praised Moses Usor and Moses Simon for their impact in Nigerias 2-1 comeback win over Madagascar in...The post Eric Chelle Praises Two Super Eagles Players After Nigerias Win Over Madagascar appeared first on Naija News.",
+        "title": "Eric Chelle Praises Two Super Eagles Players After Nigerias Win Over Madagascar",
+        "url": "https://www.latestnigeriannews.com/p/414066/eric-chelle-praises-two-super-eagles-players-after-nigerias-win-over-madagascar.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 48,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-73394828aa52",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.602,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:55:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists studying ancient Australian rocks uncovered more than 12,000 fossils from some of the oldest known eukaryotes on Earth. These early complex cells lived in settings ranging from coastal mudflats to the open sea, but only where oxygen was available. Oxygen-free environments contained simpler microbes instead. The findings strengthen the idea that oxygen played a crucial role in the emergence of complex life.",
+        "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm"
+      },
+      "score": 0.179,
+      "source_class_rank": 48,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7b912a5683e8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.601,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:53:42Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
+        "title": "Photos: This may be the most inspirational night school on Earth",
+        "url": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho"
+      },
+      "score": 0.179,
+      "source_class_rank": 49,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f31bd1b06c36",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.592,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "These speakers combine serious volume, big bass, portability, and the occasional karaoke session to bring the party anywhere.",
+        "title": "Best Party Speakers (2026): JBL, Sony, Marshall, and More",
+        "url": "https://www.wired.com/story/best-party-speaker/"
+      },
+      "score": 0.176,
+      "source_class_rank": 50,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-767ac95fbc9d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:02:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "I sent my cats\u2019 saliva to the lab to get health and genetic insights sent to my inbox\u2014with very different results.",
+        "title": "What\u2019s the Best Pet DNA Test? We Tested the Most Popular Ones",
+        "url": "https://www.wired.com/story/best-pet-dna-test-kits/"
+      },
+      "score": 0.173,
+      "source_class_rank": 51,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6ed132b6b1dc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:00:12Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
+        "title": "How the Smithsonian became the latest front in Trump\u2019s culture war",
+        "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+      },
+      "score": 0.173,
+      "source_class_rank": 52,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6d43e14d898e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.58,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:00:02Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Emigration has helped New Delhi manage its labour surplus, but the strategy has limits",
+        "title": "The India shock: exporting workers to the world",
+        "url": "https://www.ft.com/content/afb910e4-5425-4d3e-b0ef-c1d260f29945?syn-25a6b1a6=1"
+      },
+      "score": 0.173,
+      "source_class_rank": 53,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e681214c6753",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.58,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T11:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Lung cancer is still the top cancer killer, but new developments are shifting what the future might hold for patients.",
+        "title": "From professor to patient: One man's journey on the frontier of lung cancer treatment",
+        "url": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability"
+      },
+      "score": 0.173,
+      "source_class_rank": 54,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e2507a1debef",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.576,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T10:49:13Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms. Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment.",
+        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm"
+      },
+      "score": 0.171,
+      "source_class_rank": 55,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-50f467e0e736",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.564,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T10:15:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
+        "title": "You Don\u2019t Need to Pay for Distraction-Blocking Software",
+        "url": "https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/"
+      },
+      "score": 0.168,
+      "source_class_rank": 56,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7de6190772f9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.559,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T10:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities\u2019 impact on the atmosphere.",
+        "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn\u2019t Yet",
+        "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/"
+      },
+      "score": 0.166,
+      "source_class_rank": 57,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2171fa80dba9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.548,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T09:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Improving mood and increasing longevity are just some of the unfounded claims about this substance circling around the \u201cnatural\u201d medicine corners of the internet.",
+        "title": "Nicotine Is Mounting a Comeback in the Wellness Movement",
+        "url": "https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/"
+      },
+      "score": 0.163,
+      "source_class_rank": 58,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4f6cdfa793bb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.537,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "By deactivating a gene, researchers were able to cause cells in the pancreatic ducts to produce insulin to regulate blood sugar.",
+        "title": "Some Pancreatic Cells Are Just One Genetic Tweak Away From Treating Diabetes",
+        "url": "https://www.wired.com/story/pancreatic-cells-just-one-genetic-tweak-away-from-treating-diabetes/"
+      },
+      "score": 0.16,
+      "source_class_rank": 59,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-725e43caa84d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T04:05:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 September 27 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. BeforeAfter Andromeda Before [&#8230;]",
+        "title": "APOD: 2026 September 27 \u2013 Andromeda Before and After Photoshop",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/"
+      },
+      "score": 0.132,
+      "source_class_rank": 60,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1924059e83cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T04:00:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "\u2018Too early to call the bottom\u2019 but redemption requests from retail investors fall",
+        "title": "Private credit turmoil eases as investor withdrawals slow",
+        "url": "https://www.ft.com/content/f342efa7-96b0-4bb2-aa19-fae740d8c286?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 61,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bf186b8b19d1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T04:00:11Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Multinationals evaluating countries\u2019 approach to AI before making expansion plans, say executives",
+        "title": "Big companies warn lack of \u2018AI openness\u2019 could hit investment in Europe",
+        "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 62,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-383e1480ec11",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T04:00:11Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "FT analysis shows that institutional investors are being blamed for soaring costs",
+        "title": "US housing crunch puts private equity in midterm campaign crosshairs",
+        "url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 63,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a8b77b4bc75b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.424,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T02:49:07Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Ancient DNA shows that adults and children buried together in medieval Sweden were often not members of the same immediate family, suggesting that burial choices reflected more than biological kinship. The research also revealed early gender-based burial customs and uncovered the remarkable story of a young woman who may have completed a pilgrimage across Europe.",
+        "title": "These medieval graves looked like family burials. DNA told a different story",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260925005444.htm"
+      },
+      "score": 0.126,
+      "source_class_rank": 64,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ab8fa73e4ed3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.411,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T02:01:42Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have mapped the genetics of cat cancer on an unprecedented scale and found surprising similarities with tumors in humans. The findings could help bring precision cancer treatments to cats while also revealing new clues about how human cancers develop and respond to drugs.",
+        "title": "Scientists say house cats could help unlock better cancer treatments for humans",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260924231826.htm"
+      },
+      "score": 0.122,
+      "source_class_rank": 65,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f12f08d8e1c4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.41,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T02:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "U.S. President Donald Trump's meeting with Chinese President Xi Jinping is a good reason to examine the many rumors about the countries' relationship.",
+        "title": "14 rumors we've investigated about US-China relations",
+        "url": "https://www.snopes.com/collections/us-china-relationship-claims/"
+      },
+      "score": 0.122,
+      "source_class_rank": 66,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b8ebdbe46304",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.405,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T01:40:30Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "PNO\u0112, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO\u2082 max and other metabolic markers in eight minutes without a trained operator.",
+        "title": "PNOE\u2019s new face mask wants to make lab-grade breath testing a self-serve affair",
+        "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
+      },
+      "score": 0.12,
+      "source_class_rank": 67,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a12a0dd364b2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.403,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-09-27T01:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+      },
+      "score": 0.12,
+      "source_class_rank": 68,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    }
+  ],
+  "coverage": {
+    "completed_source_classes": [
+      "gdelt",
+      "hacker_news",
+      "newsdata",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": []
+  },
+  "generated_at": "2026-09-28T01:07:40.584529Z",
+  "metrics": {
+    "published_clusters": 157,
+    "retained_articles": 159
+  },
+  "report_date": "2026-09-27",
+  "status": "READY",
+  "version": 2
+}
