@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T11:46:30.932948+00:00",
+  "generated_at": "2026-09-28T13:27:09.597698+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Last Time (I Seen the Sun)",
+    "artist": "Alice Smith, Miles Caton, Sinners Movie",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
+    "url": "https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6",
+    "is_playing": false
+  },
   "recently_played": [
     {
-      "name": "This Little Light of Mine",
-      "artist": "Miles Caton, DC6 Singers Collective, Pleasant Valley Youth Choir of New Orleans, Lynette Williams, Sinners Movie",
+      "name": "Travelin'",
+      "artist": "Buddy Guy, Sinners Movie",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
-      "url": "https://open.spotify.com/track/2iUOOCc4btMIVDRhR5Peqs",
-      "played_at": "2026-09-27T08:05:29.515Z"
+      "url": "https://open.spotify.com/track/0DFc5GuX8VG95HBbzebVby",
+      "played_at": "2026-09-28T13:20:31.599Z"
     },
     {
-      "name": "Pick Poor Robin Clean",
-      "artist": "Lillie Mae \"Geetchie\" Wiley, Sinners Movie",
+      "name": "In Moonlight",
+      "artist": "Jerry Cantrell, Ludwig G\u00f6ransson, Sinners Movie",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
-      "url": "https://open.spotify.com/track/7l3i12wLd4Zq32D8LUvLx6",
-      "played_at": "2026-09-27T08:03:03.880Z"
+      "url": "https://open.spotify.com/track/5gaVFfAVePRWLqotvH1cb1",
+      "played_at": "2026-09-28T13:19:21.874Z"
     },
     {
-      "name": "I Lied to You (Radio Edit)",
-      "artist": "Miles Caton, Sinners Movie",
+      "name": "Rocky Road to Dublin",
+      "artist": "Jack O\u2019Connell, Brian Dunphy, Darren Holden, Sinners Movie",
       "album_art_url": "https://i.scdn.co/image/ab67616d0000b2731b1d170bc3184f511f8e38b7",
-      "url": "https://open.spotify.com/track/6cXuJmJcjV7aa0rRHtAkuK",
-      "played_at": "2026-09-27T07:59:51.204Z"
+      "url": "https://open.spotify.com/track/1esmJ8t2PRbYt2yMx2aSEW",
+      "played_at": "2026-09-28T13:14:58.429Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
