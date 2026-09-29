@@ -130,15 +130,15 @@
     ]
   },
   "portfolio_engagement_daily": {
-    "end_date": "2026-09-28T00:00:13.436330+00:00",
-    "generated_at": "2026-09-28T00:00:16.454683+00:00",
-    "logical_date": "2026-09-28T00:00:00+00:00",
+    "end_date": "2026-09-29T00:16:17.232047+00:00",
+    "generated_at": "2026-09-29T00:16:50.145869+00:00",
+    "logical_date": "2026-09-29T00:00:00+00:00",
     "tasks": [
       {
         "downstream": [],
         "duration_seconds": null,
         "operator": "_PythonDecoratedOperator",
-        "state": "success",
+        "state": "failed",
         "task_id": "pull_and_publish"
       }
     ]
