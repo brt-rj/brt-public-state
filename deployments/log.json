@@ -1,5 +1,17 @@
 [
   {
+    "release_id": "dev-20261005-116",
+    "environment": "dev",
+    "status": "succeeded",
+    "finished_at": "2026-10-05T05:44:48.150790+00:00",
+    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/37268353131",
+    "project": {
+      "repo": "brt-rj/no-flab-brief",
+      "sha": "4dd24e4d508b78483709de8e53adb3b6b98134a3",
+      "status": "succeeded"
+    }
+  },
+  {
     "release_id": "dev-20261005-115",
     "environment": "dev",
     "status": "succeeded",
@@ -581,18 +593,6 @@
     "status": "failed",
     "finished_at": "2026-07-24T08:11:00.249601+00:00",
     "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/30077978421",
-    "project": {
-      "repo": "brt-rj/no-flab-brief",
-      "sha": "c8a76f8a94e7b09539483aa8891e81b24c9f5f6c",
-      "status": "failed"
-    }
-  },
-  {
-    "release_id": "dev-20260724-066",
-    "environment": "dev",
-    "status": "failed",
-    "finished_at": "2026-07-24T07:49:35.453699+00:00",
-    "workflow_run_url": "https://github.com/brt-rj/brt-ork/actions/runs/30076724531",
     "project": {
       "repo": "brt-rj/no-flab-brief",
       "sha": "c8a76f8a94e7b09539483aa8891e81b24c9f5f6c",
