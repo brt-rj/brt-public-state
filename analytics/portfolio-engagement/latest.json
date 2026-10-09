@@ -18,7 +18,7 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-10-08T00:00:03.448776Z",
+    "last_attempt_at": "2026-10-09T00:00:03.365853Z",
     "last_success_at": "2026-10-08T00:00:03.448776Z"
   },
   "kpis": {
@@ -29,7 +29,7 @@
     "sessions": 3
   },
   "ok": true,
-  "status": "fresh",
+  "status": "stale",
   "table": [],
   "updated_at": "2026-10-08T00:00:03.448776Z",
   "window": {
