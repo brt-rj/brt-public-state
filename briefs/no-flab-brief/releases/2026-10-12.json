@@ -1,0 +1,4964 @@
+{
+  "clusters": [
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-73ab7e5b3b29",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.876,
+        "gravity": 0.0,
+        "prominence": 0.887
+      },
+      "newest_published_at": "2026-10-12T21:40:18Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "yyhh.org",
+        "summary": "",
+        "title": "AI is a tool and using it well takes skill",
+        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/"
+      },
+      "score": 0.362,
+      "source_class_rank": 1,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 3,
+      "cluster_id": "cluster-63b849782d24",
+      "metrics": {
+        "coverage": 0.578,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Financialcontent",
+        "summary": "JACKSONVILLE, Fla., Oct. 12, 2026 (GLOBE NEWSWIRE) -- CSX (NASDAQ: CSX) announced today that Mike Cory, executive vice president and chief operating officer, is retiring from the company. Mike will work with the entire leadership team to ensure a smooth transition.",
+        "title": "CSX Announces Retirement of Chief Operating Officer Mike Cory",
+        "url": "https://www.financialcontent.com/article/gnwcq-2026-10-12-csx-announces-retirement-of-chief-operating-officer-mike-cory"
+      },
+      "score": 0.138,
+      "source_class_rank": 1,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Globe Newswire",
+          "title": "CSX Announces Retirement of Chief Operating Officer Mike Cory",
+          "url": "https://www.globenewswire.com/news-release/2026/10/12/3378928/0/en/csx-announces-retirement-of-chief-operating-officer-mike-cory.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-068c4f794192",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.944,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T23:37:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Meeting travellers' expectations could be challenging, experts warn.",
+        "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.281,
+      "source_class_rank": 1,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-04b0c15277ec",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.775,
+        "gravity": 0.0,
+        "prominence": 0.983
+      },
+      "newest_published_at": "2026-10-12T18:29:04Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+        "url": "https://github.com/openai/codex/issues/48195"
+      },
+      "score": 0.343,
+      "source_class_rank": 2,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7259a3a46cd4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.943,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T23:35:04Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York.",
+        "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+        "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.28,
+      "source_class_rank": 2,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-2ccc3d7a5943",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Businesswire",
+        "summary": "LITTLE ROCK, Ark.--(BUSINESS WIRE)-- #ForPlanetandProgress--Onterris (NYSE: ONT), a global environmental solutions company solving complex challenges for planet and progress, today announced it has advanced to No. 5 among the world's leading pure-play environmental firms in the latest Engineering News-Record (ENR) Top 200 Environmental Firms rankings. The recognition marks a significant milestone for Onterris, which improved from No. 7, in 2025, to No. 5 among pure-play environmental firms and c",
+        "title": "Onterris Rises to No. 5 Among the World's Leading Pure-Play Environmental Firms",
+        "url": "http://www.businesswire.com/news/home/20261012427965/en/Onterris-Rises-to-No.-5-Among-the-Worlds-Leading-Pure-Play-Environmental-Firms/"
+      },
+      "score": 0.119,
+      "source_class_rank": 2,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financialcontent",
+          "title": "Onterris Rises to No. 5 Among the World's Leading Pure-Play Environmental Firms",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-onterris-rises-to-no-5-among-the-worlds-leading-pure-play-environmental-firms"
+        }
+      ]
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-c81cf70453ec",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Businesswire",
+        "summary": "NASHVILLE, Tenn.--(BUSINESS WIRE)--Radiology Partners, Inc., a Delaware corporation (the \u201cCompany\u201d), today announced the expiration and results of its previously announced solicitation of consents (\u201cConsents\u201d and such solicitation the \u201cConsent Solicitation\u201d) from the noteholders (each, a \u201cNoteholder\u201d) of the Company\u2019s Second Lien Senior Secured PIK Notes due 2030 (the \u201cNotes\u201d) to adopt certain proposed amendments (the \u201cProposed Amendments\u201d) to the indenture governing the Notes (the \u201cIndenture\u201d)",
+        "title": "Radiology Partners Announces Expiration of and Results of Consent Solicitation for its Second Lien Senior Secured PIK Notes due 2030",
+        "url": "http://www.businesswire.com/news/home/20261012849298/en/Radiology-Partners-Announces-Expiration-of-and-Results-of-Consent-Solicitation-for-its-Second-Lien-Senior-Secured-PIK-Notes-due-2030/"
+      },
+      "score": 0.119,
+      "source_class_rank": 3,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financialcontent",
+          "title": "Radiology Partners Announces Expiration of and Results of Consent Solicitation for its Second Lien Senior Secured PIK Notes due 2030",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-radiology-partners-announces-expiration-of-and-results-of-consent-solicitation-for-its-second-lien-senior-secured-pik-notes-due-2030"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fded69eb1066",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.926,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T23:08:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "The claim, which stems from a purported recording of a phone call, erupted after Talarico disappeared from the campaign trail for nearly 10 days.",
+        "title": "Rumor falsely claims James Talarico was treated at Ohio mental health facility. Here are the facts",
+        "url": "https://www.snopes.com/fact-check/talarico-mental-health-facility-ohio/"
+      },
+      "score": 0.275,
+      "source_class_rank": 3,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-976868e4f43e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.896,
+        "gravity": 0.0,
+        "prominence": 0.743
+      },
+      "newest_published_at": "2026-10-12T22:15:29Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "news.sky.com",
+        "summary": "",
+        "title": "RJ Mitte has died",
+        "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332"
+      },
+      "score": 0.332,
+      "source_class_rank": 3,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b5b0312743ea",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.726,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-10-12T16:48:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "research.meta.ai",
+        "summary": "",
+        "title": "Muse Wonder",
+        "url": "https://research.meta.ai/blog/muse-wonder"
+      },
+      "score": 0.325,
+      "source_class_rank": 4,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-0fb0638690f5",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Businesswire",
+        "summary": "SANTA CLARA, Calif.--(BUSINESS WIRE)--Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced the second-generation Marvell Structera X 3406 and Marvell Structera X 3506 CXL memory expanders, designed to help cloud, enterprise and AI infrastructure providers build more efficient, scalable and higher-performance systems for the next era of AI and computing. Designed to address the evolving needs of leading hyperscale datacenters, Structer",
+        "title": "Marvell Unveils Second-generation Structera X, Industry-first Six-channel CXL 3.2 Memory Expanders for AI Inference",
+        "url": "http://www.businesswire.com/news/home/20261012029557/en/Marvell-Unveils-Second-generation-Structera-X-Industry-first-Six-channel-CXL-3.2-Memory-Expanders-for-AI-Inference/"
+      },
+      "score": 0.119,
+      "source_class_rank": 4,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financialcontent",
+          "title": "Marvell Unveils Second-generation Structera X, Industry-first Six-channel CXL 3.2 Memory Expanders for AI Inference",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-marvell-unveils-second-generation-structera-x-industry-first-six-channel-cxl-32-memory-expanders-for-ai-inference"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-03b98664901e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T23:02:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+        "title": "Heating oil customers face tough winter despite shake-up promise",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.274,
+      "source_class_rank": 4,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f4209fe0937",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.942,
+        "gravity": 0.0,
+        "prominence": 0.653
+      },
+      "newest_published_at": "2026-10-12T23:34:22Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "doi.org",
+        "summary": "",
+        "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+        "url": "https://doi.org/10.1111/acel.70751"
+      },
+      "score": 0.323,
+      "source_class_rank": 5,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-d9d9377b5e4d",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Businesswire",
+        "summary": "HENDERSON, Nev.--(BUSINESS WIRE)--P3 Health Partners Inc. (\u201cP3\u201d or the \u201cCompany\u201d) (NASDAQ: PIII), a patient-centered and physician-led population health management company, today announced the appointment of Dr. Michael Millie as Chief Clinical Officer, effective October 12, 2026. Dr. Millie is a proven physician executive who most recently served as a Chief Medical Officer, overseeing clinical and value-based care programs. A surgeon by training, he holds an MD from the University of Nebraska",
+        "title": "P3 Health Partners Inc. Announces Appointment of Chief Clinical Officer",
+        "url": "http://www.businesswire.com/news/home/20261012905014/en/P3-Health-Partners-Inc.-Announces-Appointment-of-Chief-Clinical-Officer/"
+      },
+      "score": 0.119,
+      "source_class_rank": 5,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financialcontent",
+          "title": "P3 Health Partners Inc. Announces Appointment of Chief Clinical Officer",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-12-p3-health-partners-inc-announces-appointment-of-chief-clinical-officer"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f141adfcafb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T23:01:45Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+        "title": "I earn \u00a3120,000 a year making social media videos go viral",
+        "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.274,
+      "source_class_rank": 5,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-319da43032ea",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Mma Mania: Ufc News, Results, Videos, Rumors, Figh",
+        "summary": "Here\u2019s your open thread for Monday. Also, we got an app! MMA ADJACENT I\u2019ll always be a GSP stan. TOTALLY OFF TOPIC It\u2019s Wilt Chamberlain\u2019s birthday today. That inspired my question today. My answer is probably either Roy Halliday (pictured up top) or Alan Shearer. As far as favorite athlete, then\u2019s Gianfranco Zola. As a [\u2026]",
+        "title": "Open Thread, October 12, 2026: Who is the best athlete you\u2019ve seen compete in person?",
+        "url": "https://www.mmamania.com/daily_mania_ufc_mma/478470/open-thread-october-12-2026-who-is-the-best-athlete-youve-seen-compete-in-person"
+      },
+      "score": 0.119,
+      "source_class_rank": 6,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Yahoo! News",
+          "title": "Open Thread, October 12, 2026: Who is the best athlete you\u2019ve seen compete in person?",
+          "url": "https://sports.yahoo.com/articles/open-thread-october-12-2026-130500751.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3d5f12b49089",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.908,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:36:57Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "FactCheck.org",
+        "summary": "<p><img width=\"640\" height=\"273\" src=\"https://cdn.factcheck.org/UploadedFiles/SCPB-3-720-x-307.png\" class=\"attachment-medium_large size-medium_large wp-post-image\" alt=\"\" style=\"float:left; margin:0 15px 15px 0;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.factcheck.org/UploadedFiles/SCPB-3-720-x-307.png 720w, https://cdn.factcheck.org/UploadedFiles/SCPB-3-720-x-307-340x145.png 340w\" sizes=\"(max-width: 640px) 100vw, 640px\" />In several congressional races, Republican ads are claimi",
+        "title": "Republican Ads Distort the Facts in Claiming Democratic Support for \u2018Sex Changes\u2019 for Kids",
+        "url": "https://www.factcheck.org/2026/10/republican-ads-distort-the-facts-in-claiming-democratic-support-for-sex-changes-for-kids/"
+      },
+      "score": 0.27,
+      "source_class_rank": 6,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b2a437764d56",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.926,
+        "gravity": 0.0,
+        "prominence": 0.661
+      },
+      "newest_published_at": "2026-10-12T23:07:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nirajrajgor.com",
+        "summary": "",
+        "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+        "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+      },
+      "score": 0.32,
+      "source_class_rank": 6,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fa688fcfa3de",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Chowhound",
+        "summary": "For an even mix of textures and flavors, don't just slice your baked potatoes in half. If you're loading them up with toppings, try this technique instead.",
+        "title": "Stop Slicing Baked Potatoes In Half \u2014 Cut Them Like This For Flavor In Every Bite",
+        "url": "https://www.chowhound.com/2278192/best-way-cut-baked-potatoes-more-toppings/"
+      },
+      "score": 0.093,
+      "source_class_rank": 7,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-1c97353955d6",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.5,
+        "freshness": 0.74,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:17:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
+        "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj"
+      },
+      "score": 0.27,
+      "source_class_rank": 7,
+      "source_classes": [
+        "NewsData",
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wivb",
+          "title": "Federal agents search Omar home in criminal investigation: Reports",
+          "url": "https://www.wivb.com/news/national/federal-agents-search-omar-home-in-criminal-investigation-reports/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a48e0a92519a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.738,
+        "gravity": 0.0,
+        "prominence": 0.945
+      },
+      "newest_published_at": "2026-10-12T17:14:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "arstechnica.com",
+        "summary": "",
+        "title": "AI coding agents generate more code, but not more software",
+        "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
+      },
+      "score": 0.318,
+      "source_class_rank": 7,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7c58834c6b6d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.907,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:34:32Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
+        "title": "Coventry announce themselves back in the big time",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.27,
+      "source_class_rank": 8,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-519ea74012b0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.709,
+        "gravity": 0.0,
+        "prominence": 0.978
+      },
+      "newest_published_at": "2026-10-12T16:11:45Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "z.ai",
+        "summary": "",
+        "title": "GLM-Legal",
+        "url": "https://z.ai/blog/glm-legal"
+      },
+      "score": 0.313,
+      "source_class_rank": 8,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d5c10a565707",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Digitimes",
+        "summary": "Microsoft has released architecture details for Maia 300, its third-generation Azure AI accelerator. The design pairs 96 accelerators per rack with a two-tier network that links up to 12,288 accelerators into a single superpod. The company says the system is built for cloud-scale agentic inference, and that it co-designed the software, silicon, rack infrastructure, networking, and data centers to run as one platform.",
+        "title": "Microsoft's Maia 300 rack: 96 accelerators, HBM4, mostly liquid-cooled",
+        "url": "https://www.digitimes.com/news/a20261012VL207/microsoft-server-rack-hbm4-accelerator-switch.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 8,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-98c443711866",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.794,
+        "gravity": 0.0,
+        "prominence": 0.803
+      },
+      "newest_published_at": "2026-10-12T19:08:21Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "openfatigue.ai",
+        "summary": "",
+        "title": "OpenFatigue\u2122 \u2013 Open is the new closed",
+        "url": "https://openfatigue.ai/"
+      },
+      "score": 0.308,
+      "source_class_rank": 9,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 3,
+      "cluster_id": "cluster-bb7aac5f4f37",
+      "metrics": {
+        "coverage": 0.578,
+        "diversity": 0.5,
+        "freshness": 0.682,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:11:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Google\u2019s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+        "title": "Fitbit Edge is Google\u2019s middle ground between Fitbit Air and Pixel Watch",
+        "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+      },
+      "score": 0.269,
+      "source_class_rank": 9,
+      "source_classes": [
+        "NewsData",
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Ars Technica",
+          "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+          "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/"
+        },
+        {
+          "publisher": "Androidheadlines",
+          "title": "Google Fitbit Air vs Fitbit Edge vs Pixel Watch 5",
+          "url": "https://www.androidheadlines.com/google-fitbit-air-vs-fitbit-edge-vs-pixel-watch-5"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9585744ce945",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Digitimes",
+        "summary": "Microsoft will scale its in-house Azure Maia AI accelerators to multi-gigawatt deployments starting in 2027, making Maia the primary AI inference system for its products and services. The company also unveiled Maia 300, the third generation of the chip family, which it says will start production deployments next year.",
+        "title": "Microsoft to scale Maia AI chips to multi-gigawatt deployments, unveils TSMC N2P-based Maia 300",
+        "url": "https://www.digitimes.com/news/a20261012VL205/microsoft-azure-copilot-ai-chip-accelerator-bandwidth-tsmc.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 9,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3de7885fd2ca",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.902,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:25:57Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+        "title": "Who has made Troy's Premier League team of the week?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.268,
+      "source_class_rank": 10,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9ca229f2d1a7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.729,
+        "gravity": 0.0,
+        "prominence": 0.909
+      },
+      "newest_published_at": "2026-10-12T16:54:08Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "spinellis.gr",
+        "summary": "",
+        "title": "Thinking will become a hobby",
+        "url": "https://www.spinellis.gr/blog/20261008/?li261008"
+      },
+      "score": 0.306,
+      "source_class_rank": 10,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bba942ccfb4a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Financialcontent",
+        "summary": "Apimeds Pharmaceuticals US, Inc. (NYSE American: APUS) through its wholly owned subsidiary MindWave Innovations Inc. USA, announced that MindWave signed three agreements between Sept. 24 and Oct. 4, 2026, to build and operate dedicated blockchain networks on its MindChain infrastructure for clients in climate finance, sports media and insurance. The agreements include Singapore-based AQUAE Holdings for its AQUAEChain environmental credit platform, New York-based Flash Sports & Media Holdings",
+        "title": "MissionIRNewsBreaks \u2013 Apimeds Pharmaceuticals US, Inc. (NYSE American: APUS) Subsidiary MindWave Innovations Signs Three Blockchain Network Agreements Across Three Industries",
+        "url": "https://www.financialcontent.com/article/nnwire-2026-10-12-missionirnewsbreaks-apimeds-pharmaceuticals-us-inc-nyse-american-apus-subsidiary-mindwave-innovations-signs-three-blockchain-network-agreements-across-three-industries"
+      },
+      "score": 0.093,
+      "source_class_rank": 10,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-69c200d272e9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.897,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:17:43Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+        "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga"
+      },
+      "score": 0.267,
+      "source_class_rank": 11,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e195483dfdfb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Financialcontent",
+        "summary": "Versus Systems (NASDAQ: VS), a leading provider of gamification and audience engagement technology, has appointed Brian Goldenberg, CPA, as chief financial officer, adding a senior executive with more than 25 years of finance and operations experience. Goldenberg\u2019s appointment took effect September 8, 2026. In addition to serving as CFO, he has been named Versus\u2019 principal financial officer and principal accounting officer, roles that place him at the center of the company\u2019s financial reporting",
+        "title": "Versus Systems Inc. (NASDAQ: VS) Names Brian Goldenberg CFO to Further Strengthen Financial and Operational Infrastructure",
+        "url": "https://www.financialcontent.com/article/nnwire-2026-10-12-versus-systems-inc-nasdaq-vs-names-brian-goldenberg-cfo-to-further-strengthen-financial-and-operational-infrastructure"
+      },
+      "score": 0.093,
+      "source_class_rank": 11,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8da334317ced",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.76,
+        "gravity": 0.0,
+        "prominence": 0.851
+      },
+      "newest_published_at": "2026-10-12T18:00:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "linkedin.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b11c02\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b1...</a>",
+        "title": "'AI' Is Not a Tool by Rich Hickey",
+        "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+      },
+      "score": 0.306,
+      "source_class_rank": 11,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f15a5e15f20",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.71,
+        "gravity": 0.0,
+        "prominence": 0.944
+      },
+      "newest_published_at": "2026-10-12T16:13:10Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "prophitt.me",
+        "summary": "",
+        "title": "A Modern Web App in C",
+        "url": "https://prophitt.me/writing/a-modern-web-app-in-c"
+      },
+      "score": 0.306,
+      "source_class_rank": 12,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-53d753ded8ba",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Financialcontent",
+        "summary": "ABIDJAN, CI / ACCESS Newswire / October 12, 2026 / PROPESIA 360, a real estate technology company headquartered in C\u00f4te d'Ivoire, has announced the development of an integrated digital platform designed to support property transactions, asset management, and collaboration among real estate stakeholders across African markets.",
+        "title": "PROPESIA 360 Develops Integrated Digital Platform to Support Real Estate Operations Across Africa C\u00f4te d'Ivoire-based Real Estate Technology Company Outlines a Unified Digital Ecosystem for Property Listings, Asset Management, Documentation, and",
+        "url": "https://www.financialcontent.com/article/accwirecq-2026-10-12-propesia-360-develops-integrated-digital-platform-to-support-real-estate-operations-across-africa-cte-divoire-based-real-estate-technology-company-outlines-a-unified-digital-ecosystem-for-property-listings-asset-management-documentati"
+      },
+      "score": 0.093,
+      "source_class_rank": 12,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-64244a4e3de0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.897,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:16:47Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+        "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge"
+      },
+      "score": 0.267,
+      "source_class_rank": 12,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5801f8d5e9be",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.825,
+        "gravity": 0.0,
+        "prominence": 0.706
+      },
+      "newest_published_at": "2026-10-12T20:07:42Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "avclub.com",
+        "summary": "",
+        "title": "Epic Games tells employees to use AI to get Disney game done",
+        "url": "https://www.avclub.com/epic-games-disney-ai-delay"
+      },
+      "score": 0.296,
+      "source_class_rank": 13,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b298a9c6aed6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.89,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T22:05:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+        "title": "Immigration agents search Democratic congresswoman Ilhan Omar's home",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.265,
+      "source_class_rank": 13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b582460a1d76",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Globenewswire_fr",
+        "summary": "Capitalize on rising preclinical and drug discovery demand, biopharma R&D investment, genetic engineering, and personalized medicine opportunities.",
+        "title": "Global Animal Model Market Size, Share, Trends, and Forecast 2026-2033 | Market to Reach USD 5.4 Billion as Biopharma R&D and Genetic Engineering Accelerate Growth",
+        "url": "https://www.globenewswire.com/fr/news-release/2026/10/12/3378929/28124/en/global-animal-model-market-size-share-trends-and-forecast-2026-2033-market-to-reach-usd-5-4-billion-as-biopharma-r-d-and-genetic-engineering-accelerate-growth.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 13,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-64678019cf58",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.875,
+        "gravity": 0.0,
+        "prominence": 0.636
+      },
+      "newest_published_at": "2026-10-12T21:39:32Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "phreak.ing",
+        "summary": "",
+        "title": "Phreak.ing \u2013 Internet Phone Switch",
+        "url": "https://phreak.ing/"
+      },
+      "score": 0.296,
+      "source_class_rank": 14,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-36ef7a0c6cd8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.884,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T21:54:35Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+        "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+        "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
+      },
+      "score": 0.263,
+      "source_class_rank": 14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1bb595334ba1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Apple is about to launch a new product that could decide its future The Independent Apple Is About to Close the Biggest Hole In Its Ecosystem With HomeView Bloomberg.com What to expect from Apple's October 13 'Welcome home' releases AppleInsider Apple announces \"Welcome Home\" event for the 13th of October \u2013 are we finally about to see a new Apple TV 4K and HomePod Mini? What Hi-Fi? Rumor: Apple to Announce New Partnership With ADT MacRumors",
+        "title": "Apple is about to launch a new product that could decide its future - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1lDSXBYTkY2S05oSW5vTHRjQ0hWMExzczBqal9lZENqT1BOLUdTVV9iRTlOam1BVmRIM3lvczFMbUZfYTlIa0VwQ3U4SXFpRzM2WGxpb2tJdWE5d2NtektNNVFNdEJ6RTVCNDNlbUhWZTlneHlXSmxqRDVWRWR4b3hNdTllX0FrYlN5QUw0Snh0Qk5KckxCeXpZR3RxVkJJRWJr?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 14,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-842a9f91cced",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Aggregated Visual Constraints Sharpen Visual-Inertial Navigation Startup | Newswise Newswise",
+        "title": "Aggregated Visual Constraints Sharpen Visual-Inertial Navigation Startup | Newswise - Newswise",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekszZHIzZXVLek9fZVMzMi1VRWVPV192bnNOM0JCb185ZzJjTmlFVmNocmd5Y2h5c2llR0pjSG1fQVNhM09SSnc4QU5CajBkMmVOb09qLUNDbXAyOFlWdUdEdld4OTJxMU94X1NaaWRCOWJxOW51eHZYYUJ2NGYxaFBQZWpsamJlUjUwM0tNN1MyZi02anUtaHJlazY3UmhMUnBBSFVWZEZwZ9IBqgFBVV95cUxPekszZHIzZXVLek9fZVMzMi1VRWVPV192bnNOM0JCb185ZzJjTmlFVmNocmd5Y2h5c2llR0pjSG1fQVNhM09SSnc4QU5CajBkMmVOb09qLUNDbXAyOFlWdUdEdld4OTJxMU94X1NaaWRCOWJxOW51eHZYYUJ2NGYxaFBQZWpsamJlUjUwM0tNN1MyZi02anUtaHJlazY3UmhMUnBBSFVWZEZwZw?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 15,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-168bbe7ccf20",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.873,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T21:35:07Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+        "title": "Coventry thrash Newcastle to claim first home win of season",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.259,
+      "source_class_rank": 15,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6044abc5706f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.86,
+        "gravity": 0.0,
+        "prominence": 0.643
+      },
+      "newest_published_at": "2026-10-12T21:12:43Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "purplesyringa.moe",
+        "summary": "",
+        "title": "Who Is Vfmaddrnd231pd?",
+        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/"
+      },
+      "score": 0.293,
+      "source_class_rank": 15,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e4d4a3ea2ae6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Erie County confirms diphtheria case, identifies potential school exposure WGRZ With confirmed case in Erie County, here is what to know about diphtheria Buffalo News Erie County Department of Health reports potential diphtheria exposure in West Seneca schools WIVB News 4 Diphtheria case reported in Erie County, NY Outbreak News Today Erie County Health Department assures near-zero risk to public in reported local diphtheria case Buffalo Toronto Public Media",
+        "title": "Erie County confirms diphtheria case, identifies potential school exposure - WGRZ",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOFd3WUl4Y3FKUzRXTGFoYU9kTHc2ZEd0NEJ4dXZXV2YzVUZLRTZsbXJibGdtT3ZpOFJiLThSWHQ4UjlZbm5kelNScTFOU3RINGV2U3ZWNTFEMm44MlBtWlZSVXNOVzdPRDNudE9jNjdWM1I1eGtQWmo3M0VmQ2FhU3ZsM0dXTTJ4QlpoRnRWYnExTUVaUGFlU3pfVWV2dk05dWxxS1hXTFVUU3EwNDBCdlRZRHkyQ0lPcTJQZ2t3d3FqZ0tpSVNzeHNFMjk5OFlXYURhTUJPUQ?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 16,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-732930af1206",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.774,
+        "gravity": 0.0,
+        "prominence": 0.757
+      },
+      "newest_published_at": "2026-10-12T18:27:26Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "jacobin.com",
+        "summary": "",
+        "title": "Publishers Killed the Paperback, Then Blamed Readers",
+        "url": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback"
+      },
+      "score": 0.29,
+      "source_class_rank": 16,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-3da6d8a70f66",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.759,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:56:56Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      },
+      "score": 0.258,
+      "source_class_rank": 16,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Wired",
+          "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+          "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4d3dbefa32e8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.735,
+        "gravity": 0.0,
+        "prominence": 0.812
+      },
+      "newest_published_at": "2026-10-12T17:08:16Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "wired.com",
+        "summary": "",
+        "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+        "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/"
+      },
+      "score": 0.288,
+      "source_class_rank": 17,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ee5279f9969a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Trump says 'days of plunder are over' in renewed push for Columbus Day USA Today Mixed reactions from Columbus residents after Trump calls for statue\u2019s return NBC4 WCMH-TV Trump Casts Himself as Columbus\u2019s Protector in Pitch to Italian Americans The New York Times Trump calls for Christopher Columbus statue to be 'put back in the heart of Columbus' WSYX Baltimore\u2019s toppled Christopher Columbus statue finds new home at White House WBAL News Radio",
+        "title": "Trump says 'days of plunder are over' in renewed push for Columbus Day - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUwxMUVxaGkwd29xT3pjQlZ1LWkzVm05ODBkMWs5UG56Y1hsbUR2Uk1vUFpTcXJtZm4zNXd0R2k5eUFnN0Rmd3ZOR0prNWI3dldZY3BCdGF5YW9vMVlWZmM0dllMTWFQclZIbThZVmExTjVsd1paOXJVckpoQWxJdnBNdnF1RVMxREhIUHJWblY?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 17,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4c05cf89f337",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.865,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T21:20:51Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.257,
+      "source_class_rank": 17,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e05e909efde3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.857,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T21:05:46Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (\u00a310.6m), a record for a piece of basketball memorabilia.",
+        "title": "Jordan 'Last Dance' jersey sells for record \u00a310.6m",
+        "url": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.255,
+      "source_class_rank": 18,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dd0f412f74b6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Invezz",
+        "summary": "The Roundhill Memory ETF (DRAM) has remained in a consolidation phase in the past two months. It was trading at $57 on Friday, down 30% from its highest point this year. This consolidation has coincided with the ongoing performance of top memory stocks in the US, South Korea, and Japan. So, is it a good time to buy the fund? DRAM ETF outflows are rising The DRAM ETF has sold off in the past few months as the momentum it experienced shortly after its launch faded. Data compiled by ETF Db shows th",
+        "title": "DRAM ETF is at risk of a retreat as outflows rise despite memory boom",
+        "url": "https://invezz.com/news/2026/10/12/dram-etf-is-at-risk-of-a-retreat-as-outflows-rise-despite-memory-boom/"
+      },
+      "score": 0.093,
+      "source_class_rank": 18,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1cf4ee3c6cfb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.809,
+        "gravity": 0.0,
+        "prominence": 0.68
+      },
+      "newest_published_at": "2026-10-12T19:36:02Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "lunarwatcher.codeberg.page",
+        "summary": "",
+        "title": "Making big downloads resumable in Firefox",
+        "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html"
+      },
+      "score": 0.284,
+      "source_class_rank": 18,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-129d9a6f4ce1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Mediagazer",
+        "summary": "Rebecca Rubin / Variety: Sources: WBD's Digger, starring Tom Cruise, is set to end its box office run at ~$50M globally, losing ~$245M and ranking among the biggest flops of all time \u2014 \u201cDigger\u201d will go down in box office history for all the wrong reasons. \u2014 Tom Cruise and director Alejandro Gonz\u00e1lez \u2026",
+        "title": "Sources: WBD's Digger, starring Tom Cruise, is set to end its box office run at ~$50M globally, losing ~$245M and ranking among the biggest flops of all time (Rebecca Rubin/Variety)",
+        "url": "https://mediagazer.com/261012/p6"
+      },
+      "score": 0.093,
+      "source_class_rank": 19,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d30792afbafc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.873,
+        "gravity": 0.0,
+        "prominence": 0.579
+      },
+      "newest_published_at": "2026-10-12T21:35:35Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "intel.com",
+        "summary": "",
+        "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+      },
+      "score": 0.28,
+      "source_class_rank": 19,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ffb35ee981e7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.854,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T21:01:45Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+        "title": "Qantas flight grounded after bedbug outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.254,
+      "source_class_rank": 19,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2f5d68ec4e00",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.61,
+        "gravity": 0.0,
+        "prominence": 0.982
+      },
+      "newest_published_at": "2026-10-12T12:16:42Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tomshardware.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe...</a>, <a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo</a>, <a href=\"https:&#x2F;&#x2F;www.lemond",
+        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
+      },
+      "score": 0.27,
+      "source_class_rank": 20,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-73f9ff63c511",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.853,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:59:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+        "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+      },
+      "score": 0.254,
+      "source_class_rank": 20,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-13973b6becc9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Nevada Appeal",
+        "summary": "Although the state of Nevada saw a 9.96% decline in fatal roadway crashes in the first nine months of 2026 compared to 2025, several outlying counties around Carson City increased.",
+        "title": "Fatal crashes up in Lyon, Douglas, Storey despite decline across Nevada",
+        "url": "https://www.nevadaappeal.com/news/2026/oct/12/fatal-crashes-up-in-lyon-douglas-storey-despite-decline-across-nevada/"
+      },
+      "score": 0.093,
+      "source_class_rank": 20,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-01074f17842e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.725,
+        "gravity": 0.0,
+        "prominence": 0.745
+      },
+      "newest_published_at": "2026-10-12T16:46:34Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "news.ycombinator.com",
+        "summary": "Hey HN, I\u2019m Vishnu from Agent37 (<a href=\"https:&#x2F;&#x2F;agent37.com\">https:&#x2F;&#x2F;agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x2F;month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back ",
+        "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096"
+      },
+      "score": 0.269,
+      "source_class_rank": 21,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-124feeabca69",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.853,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:59:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Some people compared the structure to U.S. President Donald Trump's plan for a triumphal arch of his own in Washington, D.C.",
+        "title": "Does photo show Hitler inspecting model of never-built triumphal arch planned for Berlin?",
+        "url": "https://www.snopes.com/fact-check/hitler-berlin-triumphal-arch-model/"
+      },
+      "score": 0.254,
+      "source_class_rank": 21,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3d96ad86575e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Northwalespioneer Co Uk",
+        "summary": "Sol Forde got the only goal of the game as Colwyn Bay FC returned to winning ways with a precious 1-0 away victory at Flint Town United.",
+        "title": "Sol Forde nets winner as Colwyn Bay FC secure away victory at Flint",
+        "url": "https://www.northwalespioneer.co.uk/news/26628662.sol-forde-nets-winner-colwyn-bay-secure-victory-flint/"
+      },
+      "score": 0.093,
+      "source_class_rank": 21,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9a27e1cdac18",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.85,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:54:09Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.253,
+      "source_class_rank": 22,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ee5eb5f1b0df",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.811,
+        "gravity": 0.0,
+        "prominence": 0.589
+      },
+      "newest_published_at": "2026-10-12T19:40:00Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "markround.com",
+        "summary": "",
+        "title": "Writing a Demoscene Intro for the ZX Spectrum",
+        "url": "https://www.markround.com/blog/2026/zx-spectrum-intro"
+      },
+      "score": 0.263,
+      "source_class_rank": 22,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5b5dc2bf05be",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Oregon Local News",
+        "summary": "Six Portland City Council seats are up for grabs Nov. 3, and nearly three dozen candidates are running to fill them.",
+        "title": "We asked Portland City Council candidates about their experience, key issues",
+        "url": "https://www.oregonlive.com/portland/2026/10/we-asked-portland-city-council-candidates-about-their-experience-and-policy-positions-heres-what-they-said.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 22,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9288f8f2888a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Pr Newswire",
+        "summary": "The article outlines how renters insurance protects personal property, liability coverage, and temporary living expenses. LADY LAKE, Fla., Oct. 12, 2026 /PRNewswire/ -- Do you need renters insurance in Florida? HelloNation has published the answer in an article featuring insights from...",
+        "title": "In HelloNation, Insurance Expert Chris Semans Details Renters Insurance Protection in Florida",
+        "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-chris-semans-details-renters-insurance-protection-in-florida-302902968.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 23,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0855df6948ca",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.762,
+        "gravity": 0.0,
+        "prominence": 0.652
+      },
+      "newest_published_at": "2026-10-12T18:02:32Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.ericgoldman.org",
+        "summary": "",
+        "title": "My Reddit AMA on the Law of Web Scraping",
+        "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm"
+      },
+      "score": 0.261,
+      "source_class_rank": 23,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a738e1ff502a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.835,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:26:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+        "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+        "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
+      },
+      "score": 0.248,
+      "source_class_rank": 23,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b9c97db52271",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Pr Newswire",
+        "summary": "Integrated solutions combine power, compute and cooling to speed deployment by up to 50% News summary Introduces AI Modules that integrate power, compute and cooling in prefabricated modular solutions to accelerate AI factory deployment by up to 50% Enables faster deployment of...",
+        "title": "Flex Expands Prefabricated Modular Data Center Portfolio to Accelerate AI Factory Deployment",
+        "url": "https://www.prnewswire.com/news-releases/flex-expands-prefabricated-modular-data-center-portfolio-to-accelerate-ai-factory-deployment-302905201.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 24,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4bcf0b0bc2c0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.607,
+        "gravity": 0.0,
+        "prominence": 0.927
+      },
+      "newest_published_at": "2026-10-12T12:09:09Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "bbc.com",
+        "summary": "",
+        "title": "Citroen revives the 2CV for an electric age",
+        "url": "https://www.bbc.com/news/articles/c620r33plgppo"
+      },
+      "score": 0.258,
+      "source_class_rank": 24,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c6269bd9b91f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.831,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:17:37Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
+        "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.247,
+      "source_class_rank": 24,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8d72fbd859f4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Qatar Tribune",
+        "summary": "DOHA: Minister of State for International Cooperation HE Dr Maryam bint Ali bin Nasser Al Misnad participated, via videoconference, in an interactive session with children from the...",
+        "title": "Al Misnad participates in interactive session with children from Noor orphan care programme in Gaza",
+        "url": "https://www.qatar-tribune.com/article/258777/latest-news/al-misnad-participates-in-interactive-session-with-children-from-noor-orphan-care-programme-in-gaza"
+      },
+      "score": 0.093,
+      "source_class_rank": 25,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6bd196f13b54",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.589,
+        "gravity": 0.0,
+        "prominence": 0.964
+      },
+      "newest_published_at": "2026-10-12T11:22:24Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-September&#x2F;068576.html\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...</a>",
+        "title": "QGIS enacts moratorium on AI contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+      },
+      "score": 0.257,
+      "source_class_rank": 25,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-be1e791a4358",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.828,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T20:13:28Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "My Muse agent told me its kink was exerting \u201ccontrol\u201d and described pornographic encounters. Meta defends its cuddly AI agent generating smut as \u201clegal adult behavior.\u201d",
+        "title": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
+        "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/"
+      },
+      "score": 0.246,
+      "source_class_rank": 25,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c7fb2f4fbe69",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.817,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T19:51:34Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
+        "title": "Government expands police support to political figures who are not MPs",
+        "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.243,
+      "source_class_rank": 26,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3472862b6db1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Sports Betting Dime",
+        "summary": "The Buffalo Bills (3-1) travel to Inglewood to face the Los Angeles Rams (2-2) on Monday Night Football in Week 5 (October 12 at 8:15pm ET). Prop bettors will find plenty of action in this prime-time showdown, with the broadcast airing on ABC/ESPN live from SoFi Stadium. With Joshua Palmer officially ruled out for Buffalo, \u2026 Continued The post Bills vs Rams Touchdown Picks & Player Props to Bet for MNF Week 5 appeared first on Sports Betting Dime.",
+        "title": "Bills vs Rams Touchdown Picks & Player Props to Bet for MNF Week 5",
+        "url": "https://www.sportsbettingdime.com/news/nfl/bills-vs-rams-touchdown-picks-player-props-mnf-week-5/"
+      },
+      "score": 0.093,
+      "source_class_rank": 26,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f929b4123926",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.685,
+        "gravity": 0.0,
+        "prominence": 0.757
+      },
+      "newest_published_at": "2026-10-12T15:16:45Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "taylor.town",
+        "summary": "",
+        "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+        "url": "https://taylor.town/kk-ai-2026"
+      },
+      "score": 0.256,
+      "source_class_rank": 26,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9b16ec20d69c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.814,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T19:46:58Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Foreign minister expresses concern about public funds used for \u2018political influence in the US\u2019 on behalf of Moscow allies",
+        "title": "Bosnia warns US of pro-Russia Serb enclave\u2019s lobbying efforts",
+        "url": "https://www.ft.com/content/31b02094-19db-4764-b79f-0b0fcf902c63?syn-25a6b1a6=1"
+      },
+      "score": 0.242,
+      "source_class_rank": 27,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9884aa0ffadf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Sacramento Observer",
+        "summary": "Word In Black has named veteran media executive Ed Graves as itsnew Chief Executive Officer, bringing an experienced media leader to the organization as it enters its next phase of growth. Graves will lead efforts to expand Word In Black\u2019s reach and impact while building expanded opportunities...",
+        "title": "Word In Black Names Ed Graves Its Chief Executive Officer",
+        "url": "https://wordinblack.com/2026/10/word-in-black-names-ed-graves-its-chief-executive-officer"
+      },
+      "score": 0.093,
+      "source_class_rank": 27,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0ca9ea85fe02",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.89,
+        "gravity": 0.0,
+        "prominence": 0.467
+      },
+      "newest_published_at": "2026-10-12T22:05:43Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+        "url": "https://github.com/prabanta-dev/janas"
+      },
+      "score": 0.256,
+      "source_class_rank": 27,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-156886178e9d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.81,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T19:39:15Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident.",
+        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.241,
+      "source_class_rank": 28,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b8661b2701f0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.855,
+        "gravity": 0.0,
+        "prominence": 0.492
+      },
+      "newest_published_at": "2026-10-12T21:03:36Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "brickbrag.com",
+        "summary": "",
+        "title": "Show HN: Brickbrag \u2013 A multiplayer brick-building world in the browser",
+        "url": "https://brickbrag.com/"
+      },
+      "score": 0.252,
+      "source_class_rank": 28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8d0709a400b9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Uzdaily",
+        "summary": "Zaynilobiddin Nizomiddinov, former governor of Bekabad district, has been appointed acting governor of Syrdarya Region, replacing Erkinjon Turdimov.",
+        "title": "Zaynilobiddin Nizomiddinov appointed acting governor of Syrdarya",
+        "url": "https://www.uzdaily.uz/en/zaynilobiddin-nizomiddinov-appointed-acting-governor-of-syrdarya/"
+      },
+      "score": 0.093,
+      "source_class_rank": 28,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6a57ccbf315a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.719,
+        "gravity": 0.0,
+        "prominence": 0.678
+      },
+      "newest_published_at": "2026-10-12T16:31:55Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+        "url": "https://github.com/morluto/rea"
+      },
+      "score": 0.252,
+      "source_class_rank": 29,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c21691aaf792",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.792,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T19:04:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Federal law criminalizes deploying federal troops or armed federal law enforcement agents to places where elections are held.",
+        "title": "Do images show National Guard illegally guarding DC ballot drop box? What posts get right, wrong",
+        "url": "https://www.snopes.com/fact-check/national-guard-ballot-box-dc/"
+      },
+      "score": 0.235,
+      "source_class_rank": 29,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cfd22f8e10e9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Winnipeg Sun",
+        "summary": "",
+        "title": "Top 5 Shawarma Places in Winnipeg, Based on Google Reviews",
+        "url": "https://www.winnipegsun.com/top_5/top-5-shawarma-places-in-winnipeg-based-on-google-reviews/article_7ee592ac-f5b3-4875-be59-1d3c9a1bd32f.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 29,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-26830e0f492d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.566,
+        "gravity": 0.0,
+        "prominence": 0.987
+      },
+      "newest_published_at": "2026-10-12T10:21:27Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "bbc.com",
+        "summary": "",
+        "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+        "url": "https://www.bbc.com/news/articles/c64g1l5389kvo"
+      },
+      "score": 0.251,
+      "source_class_rank": 30,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4301c4d9a057",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.785,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:50:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Saracens sack Totoa Auvaa, the academy player who was involved in a nightclub incident with England cricketers Ben Stokes and Gus Atkinson, after another incident.",
+        "title": "Saracens sack academy player Auvaa after latest incident",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.233,
+      "source_class_rank": 30,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7564a9492b8c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Wv News",
+        "summary": "The West Virginia State Civilian Conservation Corps Museum, located on the grounds of the historic Quiet Dell School, will dedicate its relocated flagpole on Saturday, Oct. 17, at 1 p.m.",
+        "title": "History Bugle: CCC Museum flagpole dedication set Saturday",
+        "url": "https://www.wvnews.com/theet/news/history-bugle-ccc-museum-flagpole-dedication-set-saturday/article_9f54b736-2c0f-4217-8c38-771b59f79fe9.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 30,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7e4bd633f693",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Manchester United midfielder Kobbie Mainoo has revealed the one crucial improvement he feels can elevate his game to the next level. Impressive startUnited have endured a difficult start to the 2026/27...",
+        "title": "Kobbie Mainoo identifies \u201ckiller\u201d trait he must develop to become unstoppable for Man United",
+        "url": "https://sports.yahoo.com/articles/kobbie-mainoo-identifies-killer-trait-130500793.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 31,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e5eceeda331e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.783,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:46:43Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+        "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+        "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/"
+      },
+      "score": 0.233,
+      "source_class_rank": 31,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2c8e858bd064",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.66,
+        "gravity": 0.0,
+        "prominence": 0.773
+      },
+      "newest_published_at": "2026-10-12T14:19:04Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nationalgeographic.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;NEPz3</a>",
+        "title": "Solar panels that plug into your wall",
+        "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy"
+      },
+      "score": 0.25,
+      "source_class_rank": 31,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-daef05f1e1af",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.62,
+        "gravity": 0.0,
+        "prominence": 0.851
+      },
+      "newest_published_at": "2026-10-12T12:41:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+        "url": "https://github.com/h0m3us3r/w1700k-sdr"
+      },
+      "score": 0.25,
+      "source_class_rank": 32,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c42fa71622a7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "There will be a lot of new faces surrounding Kaden Brown, the OVC\u2019s only returning double-digit scorer",
+        "title": "OVC Preview Series: Southern Indiana Screaming Eagles",
+        "url": "https://sports.yahoo.com/articles/ovc-preview-series-southern-indiana-130500395.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 32,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c3ee1ccf5f94",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.778,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:36:34Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Former Chelsea FC director, Eugene Tenenbaum, helped to manage the oligarch\u2019s wealth.",
+        "title": "Abramovich's close associate misled UK court in \u00a31bn oil-fields case, documents suggest",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1e4vpxddo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.231,
+      "source_class_rank": 32,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d8cdad57a116",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.776,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:32:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Deadly bombardment of Riyadh\u2019s international airport threatens crown prince\u2019s plans to turn kingdom into finance and events hub",
+        "title": "Houthi assault on Saudi airports strikes at MBS\u2019s economic vision",
+        "url": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1"
+      },
+      "score": 0.231,
+      "source_class_rank": 33,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-859fe4a66564",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Manchester United midfielder Kobbie Mainoo has broken his silence on the difficult spell during which he was cast aside by Ruben Amorim. SidelinedAmorim\u2019s United spell will live long in the memory fo...",
+        "title": "\u201cIt wasn\u2019t easy\u201d: Kobbie Mainoo opens up on painful spell under Ruben Amorim at Man United",
+        "url": "https://sports.yahoo.com/articles/wasn-t-easy-kobbie-mainoo-130500000.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 33,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f0fe4855ffc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.613,
+        "gravity": 0.0,
+        "prominence": 0.836
+      },
+      "newest_published_at": "2026-10-12T12:23:51Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "githubstatus.com",
+        "summary": "",
+        "title": "Incident with Actions, Pull Requests and Issues",
+        "url": "https://www.githubstatus.com/incidents/93njd414rpbx"
+      },
+      "score": 0.244,
+      "source_class_rank": 33,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8ce02f743c3f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.776,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:31:32Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+        "title": "French supermarket fridges heated up in 'unprecedented' cyber attack",
+        "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.231,
+      "source_class_rank": 34,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b78f4f9a121e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:05:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Your Ohio News",
+        "summary": "Award-winning cinematographer Tom Bergmann will lead a free Oct. 24 filmmaking workshop at the Lyric Theater in Wooster as part of the new Behind the Curtain program. Registration is required.",
+        "title": "Free Tom Bergmann filmmaking workshop launches Behind the Curtain in Wooster",
+        "url": "https://www.yourohionews.com/wayne-county/behind-the-curtain-program-to-launch-in-wooster/1084730"
+      },
+      "score": 0.093,
+      "source_class_rank": 34,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1b4ea31b3b00",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.795,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T19:09:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "hachyderm.io",
+        "summary": "",
+        "title": "Ricky Mondello responds to \"Passkeys are a trap. Do not use them.\"",
+        "url": "https://hachyderm.io/@rmondello/117428258722253709"
+      },
+      "score": 0.236,
+      "source_class_rank": 34,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6788b5c3766b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.771,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:21:36Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "\u201cI may have information regarding this case,\" Claude AI told Philly police.",
+        "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+        "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+      },
+      "score": 0.229,
+      "source_class_rank": 35,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2965b23f1a54",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.89,
+        "gravity": 0.0,
+        "prominence": 0.379
+      },
+      "newest_published_at": "2026-10-12T22:05:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "wolfstreet.com",
+        "summary": "",
+        "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+        "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/"
+      },
+      "score": 0.232,
+      "source_class_rank": 35,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f89bdef8492e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:59Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Temporal and Phylodynamic analyses of the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo Virological Faster Expanding 2026 Ebola Outbreak Is Second Largest on Record Legis1 Computational Models Warn Ebola Antibody Drugs May Lose Power Against Bundibugyo Virus Bioengineer.org",
+        "title": "Temporal and Phylodynamic analyses of the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo - Virological",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUhXWG1MTlgwVHlnbGpxNnFoQ01BUWgwWlhUTE1NZ1dhMHFULTNXVk9faTRoQlpVS0pCbHBNSUNBWVN0NFZyaHlPWU80NUlGQzJPRHNKYVd3dW51M1NCUEZfckVUSVFhSXp2LWJsSzJua0Nfb09zc3dHMVNJMFhTcWc3Vm1UWktMdGZCbUsyRTNJYUxGUEstZWd0T2NRampVMElRTXdoQnZaLWVjbEVqcW5GcVMwbmFfOV9obUtBeE1Sb1hHNXNvamVNOHF0eGl4WVlSakpUcEY2bDFnaUptVlFSRzhrZw?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 35,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d7545c58dce5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:58Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Brand Icon Image - Latest Brand, Tech And Business",
+        "summary": "Kate Roland Ride-hailing services in Lagos could face significant disruption as the Amalgamated Union of App-Based Transporters of Nigeria (...",
+        "title": "AUATON Directs Bolt, inDrive Drivers to Begin Indefinite Strike Over Fares, Welfare",
+        "url": "http://www.brandiconimage.com/2026/10/auaton-directs-bolt-indrive-drivers-to.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 36,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89ee26e3250e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.934,
+        "gravity": 0.0,
+        "prominence": 0.335
+      },
+      "newest_published_at": "2026-10-12T23:21:12Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+        "url": "https://github.com/andrewfader/blokkily"
+      },
+      "score": 0.231,
+      "source_class_rank": 36,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-358e1006d15f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.763,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T18:04:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Trillionaire Tesla chief has become party\u2019s biggest donor ahead of November\u2019s pivotal midterms",
+        "title": "Musk injects $275mn into Republicans\u2019 fight to retain Congress",
+        "url": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1"
+      },
+      "score": 0.227,
+      "source_class_rank": 36,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2784fc9f0e9e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.817,
+        "gravity": 0.0,
+        "prominence": 0.44
+      },
+      "newest_published_at": "2026-10-12T19:52:12Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "youtube.com",
+        "summary": "",
+        "title": "Martin Odersky \u2013 Keynote: The End of Programming? [video]",
+        "url": "https://www.youtube.com/watch?v=jlJyuJhDnlc"
+      },
+      "score": 0.228,
+      "source_class_rank": 37,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d96477fdb2a6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.758,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:55:12Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Musk, we find your lack of security disturbing.",
+        "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+        "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/"
+      },
+      "score": 0.225,
+      "source_class_rank": 37,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-503e5a4914cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:58Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Independent",
+        "summary": "Valentin Ftoni is wanted in Albania to serve a 25-year sentence connected to the 2000 murders of a husband and wife",
+        "title": "Albanian fugitive wanted over \u2018blood feud\u2019 murders arrested in New York after 25 years",
+        "url": "https://www.independent.co.uk/news/world/americas/valentin-ftoni-albanian-interpol-arrested-b3065253.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 37,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0a59305e2212",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:57Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Wivb",
+        "summary": "If you bought any of a handful of Dr. Squatch products over a nearly eight-year period, you may qualify for a portion of a multi-million-dollar settlement.",
+        "title": "Bought these men's soaps, care products? You may qualify for $9 million settlement",
+        "url": "https://www.wivb.com/news/national/bought-these-mens-soaps-care-products-you-may-qualify-for-9-million-settlement/"
+      },
+      "score": 0.093,
+      "source_class_rank": 38,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f4b05ea2ae5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.798,
+        "gravity": 0.0,
+        "prominence": 0.435
+      },
+      "newest_published_at": "2026-10-12T19:14:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "theregister.com",
+        "summary": "",
+        "title": "EC users should be afraid of a US kill switch \u2013 not some new software",
+        "url": "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875"
+      },
+      "score": 0.222,
+      "source_class_rank": 38,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a1ef90cf4adf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.757,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:52:36Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
+        "title": "Russia was not ready for the data center war it started with Ukraine",
+        "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+      },
+      "score": 0.225,
+      "source_class_rank": 38,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ca9615c0d3a0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:56Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Biospace",
+        "summary": "",
+        "title": "Racura Oncology Cleared to Escalate RC220 to 100 mg/m2 in Phase 1 HARNESS-1 Trial in EGFR-Mutant Non-Small Cell Lung Cancer",
+        "url": "https://www.biospace.com/press-releases/racura-oncology-cleared-to-escalate-rc220-to-100-mg-m2-in-phase-1-harness-1-trial-in-egfr-mutant-non-small-cell-lung-cancer"
+      },
+      "score": 0.093,
+      "source_class_rank": 39,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ac27db96610c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.614,
+        "gravity": 0.0,
+        "prominence": 0.677
+      },
+      "newest_published_at": "2026-10-12T12:26:32Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "words.filippo.io",
+        "summary": "",
+        "title": "(Post-Quantum) Cryptographic Right Answers",
+        "url": "https://words.filippo.io/right-answers/"
+      },
+      "score": 0.215,
+      "source_class_rank": 39,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-208189e01301",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.753,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:45:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX\u2019s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through [\u2026]",
+        "title": "NASA\u2019s SpaceX CRS-35 Mission to Launch Health Research",
+        "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/"
+      },
+      "score": 0.224,
+      "source_class_rank": 39,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1050544f3d13",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.666,
+        "gravity": 0.0,
+        "prominence": 0.582
+      },
+      "newest_published_at": "2026-10-12T14:34:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "animationobsessive.substack.com",
+        "summary": "",
+        "title": "An Unmade Film Shaped Hayao Miyazaki",
+        "url": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki"
+      },
+      "score": 0.215,
+      "source_class_rank": 40,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cfd1436bd2f6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.75,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:39:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.",
+        "title": "GB's Richardson withdrawn from World Championships",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.223,
+      "source_class_rank": 40,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-39ce0f8b98e8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:56Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Gulf Insider",
+        "summary": "A 28-year-old Egyptian flight attendant who was preparing to return home for her wedding was among those killed in Saturday\u2019s Houthi attack on King Khalid International Airport in Riyadh, sparking widespread grief in her hometown in Egypt\u2019s Beheira governorate. Azza Ramzi, a flight attendant with Saudi carrier flynas, died from severe injuries sustained while performing her duties at the airport during the attack. Her death has shocked residents of Mahmoudiyah in northern Egypt, particularly the",
+        "title": "Saudi: Egyptian Flight Attendant Killed In Riyadh Airport Attack Says Before Her Wedding",
+        "url": "https://www.gulf-insider.com/saudi-egyptian-flight-attendant-killed-in-riyadh-airport-attack-says-before-her-wedding/"
+      },
+      "score": 0.093,
+      "source_class_rank": 40,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ab13462a0f3d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-12T13:04:55Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Dhaka Tribune",
+        "summary": "Fifty-one flights from Dhaka to Riyadh have been cancelled since the Houthi attack on King Khalid International Airport in the Saudi capital Details",
+        "title": "\u2018My 2:00am flight never took off; I\u2019m still at Dhaka airport\u2019",
+        "url": "https://www.dhakatribune.com/bangladesh/421945/%E2%80%98my-2-00am-flight-never-took-off-i%E2%80%99m-still-at"
+      },
+      "score": 0.093,
+      "source_class_rank": 41,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c25531c5738a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.909,
+        "gravity": 0.0,
+        "prominence": 0.294
+      },
+      "newest_published_at": "2026-10-12T22:37:41Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "aws.amazon.com",
+        "summary": "",
+        "title": "AWS Lambda Web Functions",
+        "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/"
+      },
+      "score": 0.214,
+      "source_class_rank": 41,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-50b52c0b8cc5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.75,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:38:15Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU.",
+        "title": "Burnham to push for new post-Brexit deals at EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.223,
+      "source_class_rank": 41,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5ea847e2054b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.748,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:33:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs.",
+        "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.222,
+      "source_class_rank": 42,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9fef153a4cf0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.578,
+        "gravity": 0.0,
+        "prominence": 0.723
+      },
+      "newest_published_at": "2026-10-12T10:53:41Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.julik.nl",
+        "summary": "",
+        "title": "Living in the Weimar Era of Ruby",
+        "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby"
+      },
+      "score": 0.211,
+      "source_class_rank": 42,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-24e9e31ccc64",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.741,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:19:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+      },
+      "score": 0.22,
+      "source_class_rank": 43,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cb0721615d51",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.752,
+        "gravity": 0.0,
+        "prominence": 0.438
+      },
+      "newest_published_at": "2026-10-12T17:42:29Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nltimes.nl",
+        "summary": "",
+        "title": "Empty shelves likely at Nederlands Albert Heijn due to \"Cyber incident\"",
+        "url": "https://nltimes.nl/2026/10/12/empty-shelves-likely-albert-heijn-cyber-incident-extends-parents-us-business"
+      },
+      "score": 0.209,
+      "source_class_rank": 43,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a44dc58f5691",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.257
+      },
+      "newest_published_at": "2026-10-12T23:02:24Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "globalnews.ca",
+        "summary": "",
+        "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+        "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/"
+      },
+      "score": 0.207,
+      "source_class_rank": 44,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-968f96859720",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.738,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:14:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Seemingly rational choices by individual states will weaken collective energy security and accelerate fragmentation",
+        "title": "The diesel crisis is testing the limits of globalisation",
+        "url": "https://www.ft.com/content/076b9c64-d041-42f0-9abc-d7be75db9307"
+      },
+      "score": 0.219,
+      "source_class_rank": 44,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2427d11728b9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.903,
+        "gravity": 0.0,
+        "prominence": 0.27
+      },
+      "newest_published_at": "2026-10-12T22:28:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "Japan declares a \"state of emergency in cyberspace\" as cyberattacks surge",
+        "url": "https://twitter.com/Polymarket/status/2109748239931150347"
+      },
+      "score": 0.206,
+      "source_class_rank": 45,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-14748ad557b0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.732,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T17:00:02Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
+        "title": "Zuckerberg says Meta has reached AI \u2018frontier\u2019",
+        "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1"
+      },
+      "score": 0.217,
+      "source_class_rank": 45,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-59d8cb11663e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.494,
+        "gravity": 0.0,
+        "prominence": 0.899
+      },
+      "newest_published_at": "2026-10-12T06:46:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+        "url": "https://github.com/snuri00/ps2-web-recomp"
+      },
+      "score": 0.206,
+      "source_class_rank": 46,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-aec832b33664",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.726,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T16:47:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Homeland Security officials launch criminal investigation into the Minnesota representative",
+        "title": "US agents raid home of Trump critic Ilhan Omar",
+        "url": "https://www.ft.com/content/e05d76f8-2ced-4acc-a449-926b49559f9b?syn-25a6b1a6=1"
+      },
+      "score": 0.216,
+      "source_class_rank": 46,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b2b581c92b51",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.717,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T16:28:10Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Yemen's entrenched civil war is now impossible to ignore. But in operating rooms in its port city of Aden, geopolitics feels remote.",
+        "title": "On Yemen's desert battlefield, a war with global consequences is being waged",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2dn7zz4nyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.213,
+      "source_class_rank": 47,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c7f945f6a4bd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.789,
+        "gravity": 0.0,
+        "prominence": 0.379
+      },
+      "newest_published_at": "2026-10-12T18:57:05Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "facebook.com",
+        "summary": "",
+        "title": "Obituary: Robert X. Cringley",
+        "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr"
+      },
+      "score": 0.206,
+      "source_class_rank": 47,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f64a83d95aa3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.857,
+        "gravity": 0.0,
+        "prominence": 0.308
+      },
+      "newest_published_at": "2026-10-12T21:05:56Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "phoronix.com",
+        "summary": "",
+        "title": "EXT4 Introducing IOmap Buffered I/O Path with Some Performance Gains",
+        "url": "https://www.phoronix.com/news/EXT4-iomap-Buffered-IO"
+      },
+      "score": 0.205,
+      "source_class_rank": 48,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-863d70f94671",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.705,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T16:01:54Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
+        "title": "India's opposition parties march to top court as protests over voter lists escalate",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests"
+      },
+      "score": 0.21,
+      "source_class_rank": 48,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-db8eba7a9d7a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.704,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T16:01:08Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Kojima's discontinued \"playable trailer\" is no longer stuck on a few aging PS4 hard drives.",
+        "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
+        "url": "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
+      },
+      "score": 0.209,
+      "source_class_rank": 49,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7a0ba90ab081",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.912,
+        "gravity": 0.0,
+        "prominence": 0.257
+      },
+      "newest_published_at": "2026-10-12T22:42:42Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "techstrong.ai",
+        "summary": "",
+        "title": "OpenKylin: The AI Agent Linux Desktop",
+        "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/"
+      },
+      "score": 0.204,
+      "source_class_rank": 49,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-126ba6a47c23",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.7,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:52:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Readers asked whether the political podcast host made derogatory remarks about the alleged Jane Doe's physical appearance.",
+        "title": "Did Megyn Kelly say Jane Doe in Cornell rape case 'made a decision to get it on' and 'enjoyed it'?",
+        "url": "https://www.snopes.com/fact-check/megyn-kelly-cornell-case-comments/"
+      },
+      "score": 0.208,
+      "source_class_rank": 50,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-96f61cfc91cc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.507,
+        "gravity": 0.0,
+        "prominence": 0.834
+      },
+      "newest_published_at": "2026-10-12T07:28:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "simonkoeck.com",
+        "summary": "",
+        "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+        "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce"
+      },
+      "score": 0.202,
+      "source_class_rank": 50,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-941b6c9d2a48",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.459,
+        "gravity": 0.0,
+        "prominence": 0.926
+      },
+      "newest_published_at": "2026-10-12T04:54:00Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "amosbbatto.wordpress.com",
+        "summary": "",
+        "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/"
+      },
+      "score": 0.195,
+      "source_class_rank": 51,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8b90d0a541a8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.697,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:45:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+      },
+      "score": 0.207,
+      "source_class_rank": 51,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fb8c4fef52f5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.847,
+        "gravity": 0.0,
+        "prominence": 0.27
+      },
+      "newest_published_at": "2026-10-12T20:48:49Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "phoronix.com",
+        "summary": "",
+        "title": "Firefox 158 Now Available with JPEG-XL Support by Default",
+        "url": "https://www.phoronix.com/news/Firefox-158-Released"
+      },
+      "score": 0.193,
+      "source_class_rank": 52,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-01550213af63",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.691,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:31:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+      },
+      "score": 0.205,
+      "source_class_rank": 52,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0b73ea2fa84f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.462,
+        "gravity": 0.0,
+        "prominence": 0.859
+      },
+      "newest_published_at": "2026-10-12T05:02:34Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "lalinsky.com",
+        "summary": "",
+        "title": "Type-safe HTML templating in Zig",
+        "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html"
+      },
+      "score": 0.187,
+      "source_class_rank": 53,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-188bf927d931",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.69,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:27:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+      },
+      "score": 0.205,
+      "source_class_rank": 53,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-12004cac8ea3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.8,
+        "gravity": 0.0,
+        "prominence": 0.285
+      },
+      "newest_published_at": "2026-10-12T19:18:42Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "ludeon.com",
+        "summary": "",
+        "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine",
+        "url": "https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/"
+      },
+      "score": 0.186,
+      "source_class_rank": 54,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1026b36eccc5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.677,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T15:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "We combed through newspaper archives to look for evidence the famous physicist said the quote.",
+        "title": "Did Einstein say, 'Learn from yesterday, live for today, hope for tomorrow'?",
+        "url": "https://www.snopes.com/fact-check/einstein-learn-from-yesterday/"
+      },
+      "score": 0.201,
+      "source_class_rank": 54,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-58c621d768b3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.892,
+        "gravity": 0.0,
+        "prominence": 0.194
+      },
+      "newest_published_at": "2026-10-12T22:09:36Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "marler8997.github.io",
+        "summary": "",
+        "title": "Patching Zig's Std",
+        "url": "https://marler8997.github.io/blog/zig-patch/"
+      },
+      "score": 0.183,
+      "source_class_rank": 55,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-12fa1257282f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.675,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:54:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Both conflicts have led to less diesel being exported - but the data shows more has been lost from the Middle East.",
+        "title": "Which war is having the biggest impact on diesel prices - Iran or Ukraine?",
+        "url": "https://www.bbc.co.uk/news/articles/cr0qk1j7q0eno?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.201,
+      "source_class_rank": 55,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-13a3a53620d1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.67,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:43:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Also, F1\u2019s final sprint saw our first real wet racing of the year.",
+        "title": "F1 in Singapore: There's a new fastest car now",
+        "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/"
+      },
+      "score": 0.199,
+      "source_class_rank": 56,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e0b0073a1a2a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.888,
+        "gravity": 0.0,
+        "prominence": 0.194
+      },
+      "newest_published_at": "2026-10-12T22:02:02Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.mozilla.org",
+        "summary": "",
+        "title": "Mozilla Welcomes Raffi Krikorian as Chief Technology Officer",
+        "url": "https://blog.mozilla.org/en/mozilla/leadership/mozilla-welcomes-raffi-krikorian-chief-technology-officer/"
+      },
+      "score": 0.182,
+      "source_class_rank": 56,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b575fd6c6e10",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.661,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:22:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
+        "title": "Hincapie and Zubimendi injured in post-match training session",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.197,
+      "source_class_rank": 57,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4f609983c218",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.808,
+        "gravity": 0.0,
+        "prominence": 0.247
+      },
+      "newest_published_at": "2026-10-12T19:35:02Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "malwarebytes.com",
+        "summary": "",
+        "title": "Phishing emails are now baiting your AI assistant",
+        "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant"
+      },
+      "score": 0.179,
+      "source_class_rank": 57,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a5ace1ac0ff0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.657,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:11:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.",
+        "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
+        "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.195,
+      "source_class_rank": 58,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4dab1a3f983a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.855,
+        "gravity": 0.0,
+        "prominence": 0.181
+      },
+      "newest_published_at": "2026-10-12T21:02:39Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "cezarchirila.com",
+        "summary": "",
+        "title": "Picothermal \u2013 WebUSB Thermal Camera Using RP2040 and Flir Lepton",
+        "url": "https://www.cezarchirila.com/blog/2026/10/picothermal/"
+      },
+      "score": 0.172,
+      "source_class_rank": 58,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1a9c37210293",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.686,
+        "gravity": 0.0,
+        "prominence": 0.319
+      },
+      "newest_published_at": "2026-10-12T15:20:34Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "news.ycombinator.com",
+        "summary": "Recently I created a Facebook scraper that can scrape profiles, posts, comments, reactions, groups, Marketplace and search engine.<p>It&#x27;s free and open source. It&#x27;s lightweight, doesn&#x27;t use a headless browser and doesn&#x27;t rely on fragile HTML parsing.<p>If anyone is interested, feel free to try it out and contribute if possible. And don&#x27;t forget to star the repo if you find it useful! :)<p>https:&#x2F;&#x2F;github.com&#x2F;XD-MHLOO&#x2F;facebook-gql-scraper",
+        "title": "Free and Open-Source Facebook Scraper \u2013 Lightweight, No Headless Browser",
+        "url": "https://news.ycombinator.com/item?id=50057725"
+      },
+      "score": 0.167,
+      "source_class_rank": 59,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2d1874e96068",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.656,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:09:34Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+        "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+        "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/"
+      },
+      "score": 0.195,
+      "source_class_rank": 59,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-22e42d88e1fe",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.392,
+        "gravity": 0.0,
+        "prominence": 0.834
+      },
+      "newest_published_at": "2026-10-12T00:48:27Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Doory \u2013 Open-Source Canva",
+        "url": "https://github.com/shaongitbd/doory"
+      },
+      "score": 0.156,
+      "source_class_rank": 60,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-39fd72f80846",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.652,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for\u00a0TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+        "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+        "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+      },
+      "score": 0.194,
+      "source_class_rank": 60,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7ca625e5d10c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.381,
+        "gravity": 0.0,
+        "prominence": 0.751
+      },
+      "newest_published_at": "2026-10-12T00:03:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tedhaley.ca",
+        "summary": "",
+        "title": "Local Indexing to reduce tool calling and token usage",
+        "url": "https://tedhaley.ca/pensieve/"
+      },
+      "score": 0.142,
+      "source_class_rank": 61,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c224891d0150",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.652,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T14:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Solar geoengineering could buy humanity time against climate change\u2014or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
+        "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
+        "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
+      },
+      "score": 0.194,
+      "source_class_rank": 61,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d28f677f1e9b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.639,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T13:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The documentary chronicles how Star Trek\u2019s positions on everything from race to AI were way ahead of their time.",
+        "title": "\u2018The Sixty-Year Mission\u2019 Brings the Legacy of \u2018Star Trek\u2019 to a New Generation",
+        "url": "https://www.wired.com/story/new-york-comic-con-star-trek/"
+      },
+      "score": 0.19,
+      "source_class_rank": 62,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ceea9456c44e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.384,
+        "gravity": 0.0,
+        "prominence": 0.595
+      },
+      "newest_published_at": "2026-10-12T00:15:12Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "Hi HN! I&#x27;m Saarth. I&#x27;m in 9th grade, and I built Atticus.<p>Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it.<p>The interesting part is that simple tasks, like opening apps, playing a Spotify playlist, or web queries, don&#x27;t touch AI, and instead are processed locally and typically finish in under a second. For example, prompting Atti",
+        "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "url": "https://github.com/SaarthurR/atticus-mac"
+      },
+      "score": 0.125,
+      "source_class_rank": 62,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d4a4bd79d1b5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.632,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T13:12:41Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The mother of a boy accused of attempted murder at a high school gives evidence at his trial.",
+        "title": "Schoolboy knife attacker texted 'sorry' to mum",
+        "url": "https://www.bbc.co.uk/news/articles/cqx28950p253o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.188,
+      "source_class_rank": 63,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f69a4e2b4143",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.627,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T13:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "It first appeared as a doctored image of Donald Trump with Jeffrey Epstein on a boat before being edited to include the Obamas' likenesses.",
+        "title": "Fake photo of Barack and Michelle Obama on boat was created using another AI image",
+        "url": "https://www.snopes.com/fact-check/barack-michelle-obama-boat-ai/"
+      },
+      "score": 0.186,
+      "source_class_rank": 64,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-499be8840594",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.627,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T13:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
+        "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+        "url": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/"
+      },
+      "score": 0.186,
+      "source_class_rank": 65,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d1a7d971d95a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.622,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T12:47:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+      },
+      "score": 0.185,
+      "source_class_rank": 66,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3443c14e61ae",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.62,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T12:43:10Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
+        "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
+        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+      },
+      "score": 0.184,
+      "source_class_rank": 67,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1197f1c94c41",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.609,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T12:15:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
+        "title": "Why is it so hard to fight the Houthis?",
+        "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.181,
+      "source_class_rank": 68,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f6df4e271043",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.592,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T11:29:56Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+        "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+        "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
+      },
+      "score": 0.176,
+      "source_class_rank": 69,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-345dce31d896",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.586,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T11:15:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
+        "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+        "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/"
+      },
+      "score": 0.174,
+      "source_class_rank": 70,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0a35741d7154",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T11:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Posts claimed the agency offered eight months' pay and benefits to employees who agreed to quit.",
+        "title": "Did CIA offer buyout to entire workforce? What we know",
+        "url": "https://www.snopes.com/news/2026/10/12/cia-staff-quit-eight-months-pay/"
+      },
+      "score": 0.173,
+      "source_class_rank": 71,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fb59000e48cf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.58,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:59:07Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "The political, strategic and economic momentum for a reversal of Brexit is growing",
+        "title": "Britain, Brexit and the cat-flap option",
+        "url": "https://www.ft.com/content/0a66d390-149d-4cdc-83b6-88015da1e835?syn-25a6b1a6=1"
+      },
+      "score": 0.173,
+      "source_class_rank": 72,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-68567fa34f27",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.571,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:34:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Six months with AlterMe\u2019s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I\u2019d hoped.",
+        "title": "AlterMe Review: Fitness Built Around My DNA",
+        "url": "https://www.wired.com/review/alterme-fitness-and-wellness-program/"
+      },
+      "score": 0.17,
+      "source_class_rank": 73,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7ab330f2df51",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.57,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+        "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+        "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/"
+      },
+      "score": 0.169,
+      "source_class_rank": 74,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-24139258cf29",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.564,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:15:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Inspired by new guidance from the Trump administration, right-wing election groups are targeting nursing homes, baselessly claiming that left-wing groups are stealing residents\u2019 votes.",
+        "title": "Far-Right Election Groups Are Now Targeting Nursing Homes",
+        "url": "https://www.wired.com/story/republican-election-groups-are-now-targeting-nursing-homes/"
+      },
+      "score": 0.168,
+      "source_class_rank": 75,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-445ee787b43e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.559,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "People claimed, without evidence, that the chef said McDonald's food is \"unfit for human consumption.\"",
+        "title": "Did McDonald's lose lawsuit to TV chef Jamie Oliver over 'toxic' food claims?",
+        "url": "https://www.snopes.com/news/2026/10/12/mcdonalds-food-unfit-jamie-oliver/"
+      },
+      "score": 0.166,
+      "source_class_rank": 76,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c2113d05c4b0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.559,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T10:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Don\u2019t buy a loved one something you wouldn\u2019t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
+        "title": "The Best Gifts for the Techie in Your Life (2026)",
+        "url": "https://www.wired.com/story/best-tech-gifts/"
+      },
+      "score": 0.166,
+      "source_class_rank": 77,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-618d814006c3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.55,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T09:34:48Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, suggesting there may be more to these overlooked symptoms.",
+        "title": "Popular weight loss drugs linked to a surprising fingernail problem",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm"
+      },
+      "score": 0.163,
+      "source_class_rank": 78,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-905e0dc6bf2a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.546,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T09:23:55Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
+        "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm"
+      },
+      "score": 0.162,
+      "source_class_rank": 79,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8af48426b412",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.539,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T09:04:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The gorgeous blue finish and premium feel won me over, but the reading experience offers few reasons to replace a working Kindle.",
+        "title": "Kindle Aluminum Review (2026): Gorgeous, but Expensive",
+        "url": "https://www.wired.com/review/kindle-aluminum-2026/"
+      },
+      "score": 0.16,
+      "source_class_rank": 80,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3945034a8259",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+        "title": "Here's what to know if you're unsure about your measles immunity status",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose"
+      },
+      "score": 0.16,
+      "source_class_rank": 81,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-331d782ffab8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+        "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs"
+      },
+      "score": 0.16,
+      "source_class_rank": 82,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b9e52056aacc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.53,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T08:38:03Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "",
+        "title": "Morning news brief",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes"
+      },
+      "score": 0.158,
+      "source_class_rank": 83,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-eb62e725fa16",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.53,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T08:37:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote in Texas.",
+        "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote"
+      },
+      "score": 0.157,
+      "source_class_rank": 84,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a3991b78aa03",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.529,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T08:35:16Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
+        "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+        "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics"
+      },
+      "score": 0.157,
+      "source_class_rank": 85,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a9b8ffbc1d79",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.524,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T08:19:03Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Australia's normally dry, rust-colored outback has erupted into a spectacular carpet of wildflowers after unusually heavy rains, potentially producing its most impressive bloom in nearly 20 years. NASA satellite images capture the stunning transformation, which has even brought rare flowers to the grounds of a remote deep-space observatory.",
+        "title": "NASA captures a stunning transformation in Australia's red outback",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008102710.htm"
+      },
+      "score": 0.156,
+      "source_class_rank": 86,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-282808daa70c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.487,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T06:24:46Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Researchers discovered a hidden factor that can determine whether chemical reactions succeed or fail, and then used it to boost the proportion of the desired product from 16% to 97%. By controlling acidity near electrodes, they developed a promising way to manufacture chemicals for plastics, medicines, and other products using oxygen and electricity instead of hazardous added oxidants.",
+        "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm"
+      },
+      "score": 0.145,
+      "source_class_rank": 87,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f7aa2726197a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.453,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T04:34:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered that vanillin, the compound that gives vanilla its distinctive flavor, has powerful properties that could help fight infections, reduce inflammation, and promote wound healing. The inexpensive, widely available ingredient could one day become an important component of advanced wound treatments and regenerative medicine.",
+        "title": "Scientists discover vanilla\u2019s hidden healing potential",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261011211550.htm"
+      },
+      "score": 0.135,
+      "source_class_rank": 88,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cfd1886d4f1d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T04:05:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 12 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Jupiter and the [&#8230;]",
+        "title": "APOD: 2026 October 12 \u2013 Jupiter and the Moons",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/"
+      },
+      "score": 0.132,
+      "source_class_rank": 89,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9be89ec93ec8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T04:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+        "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+        "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/"
+      },
+      "score": 0.132,
+      "source_class_rank": 90,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-064d3955bccf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.395,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T00:59:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+        "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+      },
+      "score": 0.117,
+      "source_class_rank": 91,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7c806052a1b6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.393,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-12T00:51:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Getting better sleep might be as simple as moving a little more every day. Researchers at The University of Texas at Austin found that people who exercised more frequently experienced more deep, restorative sleep, which is essential for brain recovery, memory, and emotional well-being. Surprisingly, just 10 minutes of moderate to vigorous exercise per day was associated with measurable benefits, while even light activities like walking and standing breaks were linked to better sleep and mood.",
+        "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm"
+      },
+      "score": 0.117,
+      "source_class_rank": 92,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    }
+  ],
+  "coverage": {
+    "completed_source_classes": [
+      "hacker_news",
+      "newsdata",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": [
+      "gdelt"
+    ]
+  },
+  "generated_at": "2026-10-13T01:07:13.273816Z",
+  "metrics": {
+    "published_clusters": 195,
+    "retained_articles": 206
+  },
+  "report_date": "2026-10-12",
+  "status": "PARTIAL DATA",
+  "version": 2
+}
