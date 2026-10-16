@@ -3,7 +3,7 @@
     "dimension": "referrer_utm",
     "series": [
       {
-        "count": 3,
+        "count": 1,
         "label": "(direct)",
         "source_type": "direct"
       }
@@ -18,23 +18,23 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-10-16T00:07:09.348329Z",
-    "last_success_at": "2026-10-15T00:00:03.385723Z"
+    "last_attempt_at": "2026-10-16T00:14:13.277099Z",
+    "last_success_at": "2026-10-16T00:14:13.277099Z"
   },
   "kpis": {
     "avg_observed_session_seconds": 0.0,
     "demo_launches_total": 0,
     "outbound_clicks": 0,
-    "pageviews": 3,
-    "sessions": 3
+    "pageviews": 1,
+    "sessions": 1
   },
   "ok": true,
-  "status": "stale",
+  "status": "fresh",
   "table": [],
-  "updated_at": "2026-10-15T00:00:03.385723Z",
+  "updated_at": "2026-10-16T00:14:13.277099Z",
   "window": {
     "days": 30,
-    "end_at": "2026-10-15T00:00:00Z",
-    "start_at": "2026-09-15T00:00:00Z"
+    "end_at": "2026-10-16T00:00:00Z",
+    "start_at": "2026-09-16T00:00:00Z"
   }
 }
