@@ -1,0 +1,3200 @@
+{
+  "clusters": [
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7fc83934cb5f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.762,
+        "gravity": 0.0,
+        "prominence": 0.963
+      },
+      "newest_published_at": "2026-10-17T18:01:41Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "OpenCode Hacked: User credentials leaked",
+        "url": "https://twitter.com/opencode/status/2111516673953935833"
+      },
+      "score": 0.332,
+      "source_class_rank": 1,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-24ee2f84afda",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.954,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T23:52:38Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.324,
+      "source_class_rank": 1,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Financial Times",
+          "title": "Israeli settlers attack European diplomats in the West Bank",
+          "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0"
+        }
+      ]
+    },
+    {
+      "article_count": 33,
+      "cluster_id": "cluster-75c1195ba31c",
+      "metrics": {
+        "coverage": 1.0,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:34Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Lethbridge Herald",
+        "summary": "The head of the Bank of Canada says the global economy has held up well through a series of recent shocks but that resilience is being tested. Bank of Canada governor Tiff Macklem spoke to reporters today from the sidelines of the International Monetary Fund meetings in Bangkok. He says the global economy has been The post Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019 appeared first on The Lethbridge Herald - News and Sports from around Lethbridge.",
+        "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+        "url": "https://lethbridgeherald.com/news/national-news/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+      },
+      "score": 0.204,
+      "source_class_rank": 1,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Medicine Hat News",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://medicinehatnews.com/news/national-news/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Citynews Edmonton",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://edmonton.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Citynews Montreal",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://montreal.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Citynews Winnipeg",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://winnipeg.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Lethbridge News Now",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://lethbridgenewsnow.com/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Panow",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://panow.com/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Aurora Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.auroratoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Barrie Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.barrietoday.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Cambridge Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.cambridgetoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Citynews Calgary",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://calgary.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Citynews Vancouver",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://vancouver.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        },
+        {
+          "publisher": "Coast Reporter",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.coastreporter.net/the-mix/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905426"
+        },
+        {
+          "publisher": "Collingwood Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.collingwoodtoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Guelph Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.guelphtoday.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Halton Hills Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.haltonhillstoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Midland Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.midlandtoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Niagara-on-the-lake Local",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.notllocal.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Ns News",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.nsnews.com/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905428"
+        },
+        {
+          "publisher": "Richmond News",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.richmond-news.com/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905428"
+        },
+        {
+          "publisher": "Sootoday",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.sootoday.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Squamish Chief",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.squamishchief.com/the-mix/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905426"
+        },
+        {
+          "publisher": "St. Albert News",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.stalbertgazette.com/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905425"
+        },
+        {
+          "publisher": "Stratford Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.stratfordtoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Sudbury.com",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.sudbury.com/national/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "The Hamilton Spectator",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.thespec.com/business/bank-of-canada-s-macklem-warns-global-resilience-under-strain/article_efff5f8d-1ecf-5b67-9590-9dfb1c72b63d.html"
+        },
+        {
+          "publisher": "Thorold Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.thoroldtoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Timmins Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.timminstoday.com/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Toronto Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.torontotoday.ca/national-news/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905439"
+        },
+        {
+          "publisher": "Town And Country Today",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.townandcountrytoday.com/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905425"
+        },
+        {
+          "publisher": "Vancouver Is Awesome",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.vancouverisawesome.com/the-mix/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905426"
+        },
+        {
+          "publisher": "Western Wheel",
+          "title": "Bank of Canada's Macklem warns global resilience 'under strain'",
+          "url": "https://www.westernwheel.ca/national-business/bank-of-canadas-macklem-warns-global-resilience-under-strain-12905425"
+        },
+        {
+          "publisher": "Citynews Everywhere",
+          "title": "Bank of Canada\u2019s Macklem warns global resilience \u2018under strain\u2019",
+          "url": "https://toronto.citynews.ca/2026/10/17/bank-of-canadas-macklem-warns-global-resilience-under-strain/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ea6b390bf740",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.826,
+        "gravity": 0.0,
+        "prominence": 0.732
+      },
+      "newest_published_at": "2026-10-17T20:07:33Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "doctor-seo.net",
+        "summary": "",
+        "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+        "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/"
+      },
+      "score": 0.303,
+      "source_class_rank": 2,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-becaf207bae4",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.864,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T21:18:26Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
+        "title": "Villa's Manzambi shows Newcastle what they missed out on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.293,
+      "source_class_rank": 2,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-4d99bf2ef62b",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:53Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "New Straits Times",
+        "summary": "KUALA LUMPUR: Pearly Tan\u2013M Thinaah arrived at the Denmark Open without a specific target. Now, they are only one win away from the women\u2019s doubles title.",
+        "title": "Pearly\u2013Thinaah stand one win away from Denmark Open title",
+        "url": "https://www.nst.com.my/sports/badminton/2026/10/1557655/pearly%E2%80%93thinaah-stand-one-win-away-denmark-open-title"
+      },
+      "score": 0.119,
+      "source_class_rank": 2,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-223191ae460d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.735,
+        "gravity": 0.0,
+        "prominence": 0.867
+      },
+      "newest_published_at": "2026-10-17T17:06:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "numismaticnews.net",
+        "summary": "",
+        "title": "Gold is now the top U.S. export",
+        "url": "https://www.numismaticnews.net/gold-now-top-u-s-export"
+      },
+      "score": 0.299,
+      "source_class_rank": 3,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4e0d16677642",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.947,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T23:40:34Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Times reports soldiers accused of murder were sent into war zones while still under police investigation.",
+        "title": "The Papers: 'French protests become violent' and SAS men 'arrested for murder'",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.281,
+      "source_class_rank": 3,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8be01fa82a51",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Baltimore Chronicle",
+        "summary": "Billy Ray Cyrus and Elizabeth Hurley are reportedly engaged. Discover the diamond ring clues, proposal reports and what the couple has revealed.",
+        "title": "Billy Ray Cyrus and Elizabeth Hurley reportedly engaged after diamond ring sparks speculation",
+        "url": "https://baltimorechronicle.com/usa/billy-ray-cyrus-and-elizabeth-hurley-reportedly-engaged-after-diamond-ring-sparks-speculation/"
+      },
+      "score": 0.093,
+      "source_class_rank": 3,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-79b923a436c4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.927,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T23:07:57Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert.",
+        "title": "Manifest: From reality TV to Wembley Arena in one turbulent year",
+        "url": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.276,
+      "source_class_rank": 4,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-645b7f295766",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Falmouthpacket Co Uk",
+        "summary": "Just over two weeks of events will be taking place across the town.",
+        "title": "Helston\u2019s Wordplay festival to bring two weeks of authors, poetry and workshops",
+        "url": "https://www.falmouthpacket.co.uk/news/26645977.helston-wordplay-winter-festival-november-events-progamme/"
+      },
+      "score": 0.093,
+      "source_class_rank": 4,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c075e8255625",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.653,
+        "gravity": 0.0,
+        "prominence": 0.993
+      },
+      "newest_published_at": "2026-10-17T14:01:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "pv-magazine.com",
+        "summary": "",
+        "title": "Solar surpasses nuclear power globally for first time",
+        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+      },
+      "score": 0.29,
+      "source_class_rank": 4,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-acd2831d00fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.875,
+        "gravity": 0.0,
+        "prominence": 0.61
+      },
+      "newest_published_at": "2026-10-17T21:37:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "openjdk.org",
+        "summary": "",
+        "title": "JDK 28",
+        "url": "https://openjdk.org/projects/jdk/28/"
+      },
+      "score": 0.289,
+      "source_class_rank": 5,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-45772ecfd15f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Otv News",
+        "summary": "Live | \u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b26\u0b3f\u0b28 | Pratidin | 7PM Bulletin | 17th October 2026 | Odisha News | Odia News | OTV For latest news updates follow us on WhatsApp: https://whatsapp.com/channel/0029VaYNIW78qIzrtKKZiD3M OdishaTV is Odisha's no 1 News Channel. OTV being the first private satellite TV channel in Odisha carries the onus of charting a course that behoves its pioneering efforts. Accordingly its charter objectives are FREE, FAIR and UNBIASED. OTV delivers reliable information across all platforms: TV, Interne",
+        "title": "\ud83d\udd34Live | \u0b2a\u0b4d\u0b30\u0b24\u0b3f\u0b26\u0b3f\u0b28 | Pratidin | 7PM Bulletin | 17th October 2026 | Odisha News | Odia News | OTV",
+        "url": "https://otvkhabar.in/videosodisha/television/live-%E0%AC%AA%E0%AC%B0%E0%AC%A4%E0%AC%A6%E0%AC%A8-pratidin-7pm-bulletin-17th-october-2026-odisha-news-odia-news-otv-12685341"
+      },
+      "score": 0.093,
+      "source_class_rank": 5,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-db71d4efba88",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.925,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T23:04:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy.",
+        "title": "The playground murder: Trauma, loss and a love that endured",
+        "url": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.275,
+      "source_class_rank": 5,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-986f4534d585",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.922,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T23:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "We combed through the internet archives in search of vintage advertisements and uncovered a wild history about two once-popular retail chains.",
+        "title": "Kmart used to sell pet monkeys in the 1960s. It wasn't alone",
+        "url": "https://www.snopes.com/fact-check/kmart-sell-monkeys-1960s/"
+      },
+      "score": 0.274,
+      "source_class_rank": 6,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8521a6449f98",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Times Of Malta",
+        "summary": "John Cassar arrives at court on Saturday afternoon for his arraignment. Photo: Jonathan Borg",
+        "title": "John Cassar arraigned over his mother's murder in Mqabba",
+        "url": "https://timesofmalta.com/article/john-cassar-arraigned-mother-murder-mqabba.1135749"
+      },
+      "score": 0.093,
+      "source_class_rank": 6,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fbc1a538025b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.749,
+        "gravity": 0.0,
+        "prominence": 0.784
+      },
+      "newest_published_at": "2026-10-17T17:36:17Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "derekwessman.com",
+        "summary": "",
+        "title": "I Became a Citizen of Japan",
+        "url": "https://www.derekwessman.com/blog-1/natural"
+      },
+      "score": 0.287,
+      "source_class_rank": 6,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-406ba8451ca5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.709,
+        "gravity": 0.0,
+        "prominence": 0.849
+      },
+      "newest_published_at": "2026-10-17T16:10:21Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "universityofcalifornia.edu",
+        "summary": "",
+        "title": "GLP-1 may slow biological aging",
+        "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging"
+      },
+      "score": 0.285,
+      "source_class_rank": 7,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-679c02cad05a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.916,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T22:49:57Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Violence erupts in several cities after mass demonstrations over high living costs and dissatisfaction with the education system",
+        "title": "Protests across France spiral into riots and looting",
+        "url": "https://www.ft.com/content/bcb6c27a-f082-4867-ade4-ae6eb757b780?syn-25a6b1a6=1"
+      },
+      "score": 0.272,
+      "source_class_rank": 7,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f1b84d694a9b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Lil' Skip says that trust and his relationship with a coach will matter most when choosing a college.",
+        "title": "'I'm done with visits': Five-star Houston prospect nears a major decision",
+        "url": "https://sports.yahoo.com/articles/im-done-visits-five-star-130400254.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 7,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e3ced810d7e0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.914,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T22:45:25Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "NPR's Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon.",
+        "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting"
+      },
+      "score": 0.272,
+      "source_class_rank": 8,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ce7905acfbe2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.739,
+        "gravity": 0.0,
+        "prominence": 0.795
+      },
+      "newest_published_at": "2026-10-17T17:14:12Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "lwn.net",
+        "summary": "",
+        "title": "Development statistics for the 7.2 kernel",
+        "url": "https://lwn.net/Articles/1088776/"
+      },
+      "score": 0.285,
+      "source_class_rank": 8,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-975a76698172",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:58Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Shields Gazette",
+        "summary": "\u201cWe plan to run mini food festivals and in the run up Halloween we will have storytellers, a spooky stall, and a bubble ologist as well as festive activities in the run-up to Christmas\u201d",
+        "title": "Traders give this verdict on measures to increase footfall to South Shields market",
+        "url": "https://www.shieldsgazette.com/business/traders-give-this-verdict-on-measures-to-increase-footfall-to-south-shields-market-9293801"
+      },
+      "score": 0.093,
+      "source_class_rank": 8,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b676d3caf156",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:57Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Kcra",
+        "summary": "Sunshine and highs in the upper 80s again for Saturday, but slightly cooler temperatures arrive Sunday and there is potential for during the workweek.",
+        "title": "NorCal forecast: Pleasant weekend, changes ahead",
+        "url": "https://www.kcra.com/article/northern-california-evening-forecast-oct-12-north-breeze-1791893759-1792209202-1792242138/74166590"
+      },
+      "score": 0.093,
+      "source_class_rank": 9,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-23c6d84e892c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.904,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T22:27:49Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+        "title": "Dubois destroys Wardley in two rounds to retain title",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.269,
+      "source_class_rank": 9,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-30fda61fbefa",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.783,
+        "gravity": 0.0,
+        "prominence": 0.69
+      },
+      "newest_published_at": "2026-10-17T18:45:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "cs.cmu.edu",
+        "summary": "",
+        "title": "Microsoft and CMU team up to train early career software engineers",
+        "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise"
+      },
+      "score": 0.277,
+      "source_class_rank": 9,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bf6685b3219a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.706,
+        "gravity": 0.0,
+        "prominence": 0.782
+      },
+      "newest_published_at": "2026-10-17T16:04:23Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "opendemocracy.net",
+        "summary": "",
+        "title": "Amazon uses AI to monitor union risk in UK warehouses",
+        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/"
+      },
+      "score": 0.27,
+      "source_class_rank": 10,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1cfa7bc20b33",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.893,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T22:09:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.265,
+      "source_class_rank": 10,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b1a2b6c787b0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:55Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Economic Times",
+        "summary": "US President Donald Trump took another jab at Michigan Democratic Senate candidate Abdul El-Sayed, mocking his name during remarks and insisting that he had been right about the candidate\u2019s middle name.",
+        "title": "'He's a jihadist\u2026': Trump takes another jab at Michigan Democrat Abdul El-Sayed | Midterm elections",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/hes-a-jihadist-trump-takes-another-jab-at-michigan-democrat-abdul-el-sayed-midterm-elections/videoshow/135014876.cms"
+      },
+      "score": 0.093,
+      "source_class_rank": 10,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f9c8a84fcbb1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.702,
+        "gravity": 0.0,
+        "prominence": 0.788
+      },
+      "newest_published_at": "2026-10-17T15:55:09Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "pele.run",
+        "summary": "",
+        "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+        "url": "https://pele.run/"
+      },
+      "score": 0.269,
+      "source_class_rank": 11,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ff554f732007",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.872,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T21:33:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+        "title": "How day of protests unfolded as disorder breaks out across France",
+        "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.259,
+      "source_class_rank": 11,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f4619d80d6d5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:49Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Uk Defence Journal",
+        "summary": "Sanctioned vessels sailing in and out of the Russian Arctic now account for nearly a third of all cargo traffic along the Northern Sea Route, and pose what the government describes as a potentially serious threat to British interests. The post Shadow fleet now a third of Northern Sea Route traffic first appeared on UK Defence Journal.",
+        "title": "Shadow fleet now a third of Northern Sea Route traffic",
+        "url": "https://ukdefencejournal.org.uk/shadow-fleet-now-a-third-of-northern-sea-route-traffic/"
+      },
+      "score": 0.093,
+      "source_class_rank": 11,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-13e42bda5adc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:48Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Indian Express",
+        "summary": "",
+        "title": "Pakistan cricketers under pressure to deliver ICC trophy, Fakhar Zaman admits",
+        "url": "https://indianexpress.com/article/sports/cricket/pakistan-cricketers-pressure-deliver-icc-trophy-fakhar-zaman-10925998/"
+      },
+      "score": 0.093,
+      "source_class_rank": 12,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2fe14ed98438",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.871,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T21:31:32Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      },
+      "score": 0.259,
+      "source_class_rank": 12,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-07d56dc8fb7d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.65,
+        "gravity": 0.0,
+        "prominence": 0.85
+      },
+      "newest_published_at": "2026-10-17T13:55:28Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "chillphysicsenjoyer.substack.com",
+        "summary": "",
+        "title": "Making chicken transparent using Dorito dust",
+        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using"
+      },
+      "score": 0.262,
+      "source_class_rank": 12,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1f843d4294e2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:47Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Cherry Creek News",
+        "summary": "Meta just fired a shot across the bow of the open-source AI world. The company quietly released Muse Spark Open, an 816-billion-parameter model that its own supporters are calling the most capable open-weight AI to come out of a U.S.\u2026 Continue Reading \u2192",
+        "title": "Meta Just Dropped Its Most Powerful Open-Weight AI Yet \u2014 and It Changes the Playing Field",
+        "url": "https://thecherrycreeknews.com/meta-just-dropped-its-most-powerful-open-weight-ai-yet-and-it-changes-the-playing-field/"
+      },
+      "score": 0.093,
+      "source_class_rank": 13,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dcdd25f40dca",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.852,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:55:52Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+        "title": "TikTok permanently bans \u2018Musk\u2019 documentary advertising account",
+        "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+      },
+      "score": 0.253,
+      "source_class_rank": 13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ac6ee54edf1a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.754,
+        "gravity": 0.0,
+        "prominence": 0.651
+      },
+      "newest_published_at": "2026-10-17T17:45:08Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Codex Desktop continuously generates Crashpad pending dumps",
+        "url": "https://github.com/openai/codex/issues/25921"
+      },
+      "score": 0.258,
+      "source_class_rank": 13,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-39491c049b14",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.778,
+        "gravity": 0.0,
+        "prominence": 0.599
+      },
+      "newest_published_at": "2026-10-17T18:34:13Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.scottstevenson.net",
+        "summary": "",
+        "title": "Pattern matching beats narrative reasoning",
+        "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative"
+      },
+      "score": 0.254,
+      "source_class_rank": 14,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-815d246dfdf9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.85,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:53:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "title": "Anti-government protesters battle with police in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.253,
+      "source_class_rank": 14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-eb7bd7f4540c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:45Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Columbian",
+        "summary": "Ballots for the Nov. 3 general election have been mailed to registered voters in Clark County, triggering the process for electing a member of Congress, state representatives and county officials \u2014 along with deciding various state and local ballot measures. That warrants some reminders from The Columbian\u2019s Editorial Board.",
+        "title": "In Our View: The Columbian\u2019s recommendations recapped",
+        "url": "https://www.columbian.com/news/2026/oct/17/in-our-view-the-columbians-recommendations-recapped/"
+      },
+      "score": 0.093,
+      "source_class_rank": 14,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-30b1b4a92f50",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:38Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Columbian",
+        "summary": "Washington\u2019s 3rd Congressional District is an anomaly in the realm of national politics. It is one of the only districts nationwide that simultaneously voted for a Republican president and Democratic representative in 2022 and 2024. And, according to a recent Cook Political Report analysis, it is one of 18 districts that have shifted from \u201ctoss-up\u201d to \u201cleans Democrat\u201d in the weeks leading up to the midterm election.",
+        "title": "3rd Congressional District candidates John Braun and Marie Gluesenkamp Perez appeal to middle",
+        "url": "https://www.columbian.com/news/2026/oct/17/3rd-congressional-district-candidates-john-braun-and-marie-gluesenkamp-perez-appeal-to-middle/"
+      },
+      "score": 0.093,
+      "source_class_rank": 15,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-feaf1c5fb3ec",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.85,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:52:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.253,
+      "source_class_rank": 15,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c046d3c15245",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.737,
+        "gravity": 0.0,
+        "prominence": 0.637
+      },
+      "newest_published_at": "2026-10-17T17:10:27Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Tsc-ts: TypeScript written in TypeScript",
+        "url": "https://github.com/vercel-labs/tsc-ts"
+      },
+      "score": 0.249,
+      "source_class_rank": 15,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-64c4587af78b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.848,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:49:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The alleged comments were filmed by an undercover reporter for an ITV broadcast: Undercover a Year in Reform",
+        "title": "Reform activist suspended after reportedly saying Muslims cannot be British",
+        "url": "https://www.bbc.co.uk/news/articles/cr3elnevylywo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.252,
+      "source_class_rank": 16,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b4b73f64d9cf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:37Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Mirror",
+        "summary": "Kelly Clarkson publicly criticised a New York novelty store over a singing bird item, and Vogue Williams has weighed in with her own thoughts and slammed the American Idol winner",
+        "title": "Kelly Clarkson bird row continues as Vogue Williams weighs in to slam star",
+        "url": "https://www.mirror.co.uk/3am/celebrity-news/kelly-clarkson-bird-row-continues-37782636"
+      },
+      "score": 0.093,
+      "source_class_rank": 16,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-10050daa84d6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.779,
+        "gravity": 0.0,
+        "prominence": 0.535
+      },
+      "newest_published_at": "2026-10-17T18:35:56Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "eff.org",
+        "summary": "",
+        "title": "When No ID Means No Internet",
+        "url": "https://www.eff.org/deeplinks/2026/10/when-no-id-means-no-internet-age-verification-and-right-access-information"
+      },
+      "score": 0.24,
+      "source_class_rank": 16,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-097d07c0b107",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-17T13:03:34Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Op India",
+        "summary": "India has rejected the rapporteur\u2019s report, declaring, \"It is hearsay, dressed up as a UN report, and my delegation rejects it outright.\"",
+        "title": "\u2018This is why the UN lost credibility\u2019: India tears into rapporteur\u2019s report on alleged youth protests, calls out the charges based on \u201canonymous, unverified claims\u201d as \u201chearsay\u201d",
+        "url": "https://www.opindia.com/news-updates/this-is-why-the-un-lost-credibility-india-tears-into-rapporteurs-report-on-alleged-youth-protests-calls-out-the-charges-based-on-anonymous-unverified-claims-as-hearsay/"
+      },
+      "score": 0.093,
+      "source_class_rank": 17,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-24b359ce69ee",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.835,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:24:32Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.248,
+      "source_class_rank": 17,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-de4af7f396c6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.525,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-10-17T08:21:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "huggingface.co",
+        "summary": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017\" rel=\"nofollow\">https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017</a>",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      },
+      "score": 0.235,
+      "source_class_rank": 17,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1928b64f32f4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.841
+      },
+      "newest_published_at": "2026-10-17T10:59:31Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "engadget.com",
+        "summary": "",
+        "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+        "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/"
+      },
+      "score": 0.232,
+      "source_class_rank": 18,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-02d37e677b59",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.833,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:21:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+      },
+      "score": 0.248,
+      "source_class_rank": 18,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d5029e8c3784",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.766,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T18:11:23Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "cbc.ca",
+        "summary": "",
+        "title": "800k involved in nationwide protests in France over rising cost of living",
+        "url": "https://www.cbc.ca/news/world/livestory/france-protests-9.7385148"
+      },
+      "score": 0.228,
+      "source_class_rank": 19,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-94cc4eb585db",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.826,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T20:07:40Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+        "title": "Wirtz delivers but remains Liverpool's conundrum",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.245,
+      "source_class_rank": 19,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b8185c0459a7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.937,
+        "gravity": 0.0,
+        "prominence": 0.309
+      },
+      "newest_published_at": "2026-10-17T23:23:46Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "abolish-ai.net",
+        "summary": "",
+        "title": "Abolish AI Manifesto",
+        "url": "https://abolish-ai.net/abolish-ai-a-manifesto/"
+      },
+      "score": 0.225,
+      "source_class_rank": 20,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0dc51852d301",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.801,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:19:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.238,
+      "source_class_rank": 20,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ba26821a8455",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.868,
+        "gravity": 0.0,
+        "prominence": 0.367
+      },
+      "newest_published_at": "2026-10-17T21:25:57Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nytimes.com",
+        "summary": "",
+        "title": "Weak Links Start to Show in A.I. Borrowing",
+        "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
+      },
+      "score": 0.224,
+      "source_class_rank": 21,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d548e64c5ea9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.795,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:08:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+        "title": "Tributes to Andrews before Champions Cup matches",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.236,
+      "source_class_rank": 21,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ad458527e803",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.639,
+        "gravity": 0.0,
+        "prominence": 0.669
+      },
+      "newest_published_at": "2026-10-17T13:28:46Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "celphase.github.io",
+        "summary": "",
+        "title": "Show HN: High-quality duck audio synthesizer",
+        "url": "https://celphase.github.io/duck-pond/"
+      },
+      "score": 0.222,
+      "source_class_rank": 22,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-91ec225a09f5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.791,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:00:13Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and  Vitaly Janelt.",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.235,
+      "source_class_rank": 22,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cd4bfbdfaf78",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.791,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:00:09Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.235,
+      "source_class_rank": 23,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6eada72ef4e1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.957,
+        "gravity": 0.0,
+        "prominence": 0.27
+      },
+      "newest_published_at": "2026-10-17T23:56:51Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "axios.com",
+        "summary": "",
+        "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+        "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump"
+      },
+      "score": 0.218,
+      "source_class_rank": 23,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c2c6199ee17e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.791,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:00:06Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+        "title": "Iwobi delivers Fulham's first win of season",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.235,
+      "source_class_rank": 24,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9e0dfae5ee24",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.802,
+        "gravity": 0.0,
+        "prominence": 0.394
+      },
+      "newest_published_at": "2026-10-17T19:22:52Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "newsletter.danielpaleka.com",
+        "summary": "",
+        "title": "The math that OpenAI keeps for itself",
+        "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself"
+      },
+      "score": 0.213,
+      "source_class_rank": 24,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-667b548bc839",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.91,
+        "gravity": 0.0,
+        "prominence": 0.279
+      },
+      "newest_published_at": "2026-10-17T22:38:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "jsdev.space",
+        "summary": "",
+        "title": "What's New in React 19.3 and How It Changes UI Development",
+        "url": "https://jsdev.space/react-19-3/"
+      },
+      "score": 0.21,
+      "source_class_rank": 25,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3046e733cc1c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.791,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T19:00:03Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+        "title": "Neto scores twice as Chelsea win at Everton",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.235,
+      "source_class_rank": 25,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e870f2f15292",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.785,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T18:48:08Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      },
+      "score": 0.233,
+      "source_class_rank": 26,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4a112688879a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.781,
+        "gravity": 0.0,
+        "prominence": 0.375
+      },
+      "newest_published_at": "2026-10-17T18:40:34Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reddit.com",
+        "summary": "",
+        "title": "University of Leicester to make redundant all pure math professors (2021)",
+        "url": "https://www.reddit.com/r/math/comments/l7yyir/not_joking_university_of_leicester_to_make/"
+      },
+      "score": 0.203,
+      "source_class_rank": 26,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-059ddfb7d9a9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.599,
+        "gravity": 0.0,
+        "prominence": 0.61
+      },
+      "newest_published_at": "2026-10-17T11:47:01Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.raed.dev",
+        "summary": "",
+        "title": "Microsoft Teams is a red flag",
+        "url": "https://blog.raed.dev/posts/microsoft-teams-red-flag/"
+      },
+      "score": 0.198,
+      "source_class_rank": 27,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-edd8e5acef34",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.682,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T15:10:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.",
+        "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
+      },
+      "score": 0.232,
+      "source_class_rank": 27,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "BBC News",
+          "title": "Pope discharged from hospital days after lung cancer surgery",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e0c0b02b1618",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.541,
+        "gravity": 0.0,
+        "prominence": 0.693
+      },
+      "newest_published_at": "2026-10-17T09:08:16Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "nos.nl",
+        "summary": "",
+        "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+        "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf"
+      },
+      "score": 0.192,
+      "source_class_rank": 28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-557dd632292e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.767,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T18:11:42Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "BBC Scotland's political editor Glenn Campbell reflects on John Swinney's SNP conference speech.",
+        "title": "Swinney's emotional explanation for his commitment to independence",
+        "url": "https://www.bbc.co.uk/news/articles/cx5yn9n7v5zeo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.228,
+      "source_class_rank": 28,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b26342b90b70",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.762,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T18:02:39Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+        "title": "Boos and bananas on day of defiance at Man City",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.227,
+      "source_class_rank": 29,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4b630e90dd09",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.589,
+        "gravity": 0.0,
+        "prominence": 0.592
+      },
+      "newest_published_at": "2026-10-17T11:20:52Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "dl.acm.org",
+        "summary": "",
+        "title": "The future of programming (1982)",
+        "url": "https://dl.acm.org/doi/10.1145/358453.358459"
+      },
+      "score": 0.191,
+      "source_class_rank": 29,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1ed93e3ed3e2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.761,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T18:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "We took a look back in our archives after Trump falsely claimed the Oscar-winning actor endorsed him.",
+        "title": "Denzel Washington: 19 rumors we've fact-checked",
+        "url": "https://www.snopes.com/collections/denzel-washington-rumors/"
+      },
+      "score": 0.226,
+      "source_class_rank": 30,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0dc1b8136977",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.454,
+        "gravity": 0.0,
+        "prominence": 0.858
+      },
+      "newest_published_at": "2026-10-17T04:36:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "llmspeed.dev",
+        "summary": "",
+        "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/"
+      },
+      "score": 0.184,
+      "source_class_rank": 30,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-12b9defb75c9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.72,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T16:34:39Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+        "title": "More NHS staff sacked over attacks victims' records",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.214,
+      "source_class_rank": 31,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-458ab2c68168",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.769,
+        "gravity": 0.0,
+        "prominence": 0.261
+      },
+      "newest_published_at": "2026-10-17T18:16:03Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "forgemesh.io",
+        "summary": "",
+        "title": "Show HN: Pay-per-Crawl \u2013 make AI crawlers pay per page in USDC, for 10 stacks",
+        "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack"
+      },
+      "score": 0.173,
+      "source_class_rank": 31,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3ec71f186028",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.432,
+        "gravity": 0.0,
+        "prominence": 0.837
+      },
+      "newest_published_at": "2026-10-17T03:18:39Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Source code of the Estonian online voting system",
+        "url": "https://github.com/valimised/ivxv"
+      },
+      "score": 0.172,
+      "source_class_rank": 32,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c0b163b401c8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.706,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T16:02:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+        "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.21,
+      "source_class_rank": 32,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-08dc92c13df7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.432,
+        "gravity": 0.0,
+        "prominence": 0.701
+      },
+      "newest_published_at": "2026-10-17T03:16:25Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "blog.davidv.dev",
+        "summary": "",
+        "title": "A skeptic's first contact with Kubernetes (2024)",
+        "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/"
+      },
+      "score": 0.154,
+      "source_class_rank": 33,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cd46d47961f7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.703,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T15:57:40Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+        "title": "Scuffles and fires break out as protesters rally across France, joining students",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france"
+      },
+      "score": 0.209,
+      "source_class_rank": 33,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4a4d8fa0e7d2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.691,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T15:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink\u2019s temperature.",
+        "title": "Ember\u2019s new temperature-controlled mug makes my nightly tea ritual even better",
+        "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
+      },
+      "score": 0.205,
+      "source_class_rank": 34,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4051f19f78ea",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.663,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T14:25:10Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+      },
+      "score": 0.197,
+      "source_class_rank": 35,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e6f4ec212daa",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.646,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T13:45:06Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardiovascular disease.",
+        "title": "New drug reverses severe fatty liver disease by repairing the gut",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm"
+      },
+      "score": 0.192,
+      "source_class_rank": 36,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b6b6623eb83b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.639,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T13:28:13Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "NASA\u2019s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman\u2019s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys.",
+        "title": "NASA\u2019s Roman Space Telescope exceeds expectations by nearly 30%",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm"
+      },
+      "score": 0.19,
+      "source_class_rank": 37,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f1fe42747b7c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.63,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T13:05:02Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility. Even more surprisingly, it generates thrust on the upward wingbeat, a technique that could inspire new flying technologies.",
+        "title": "This bird flies thousands of miles, but its wings have a catch",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm"
+      },
+      "score": 0.187,
+      "source_class_rank": 38,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f286b819e444",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.625,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T12:53:53Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+        "title": "Zelenskyy says Starlink speed limits in Ukraine are a \u2018planned operation\u2019",
+        "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1"
+      },
+      "score": 0.186,
+      "source_class_rank": 39,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5675a7347ad2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.621,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T12:44:22Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial. As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory and thinking skills.",
+        "title": "Brain cells meant to protect us may be fueling cognitive decline",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm"
+      },
+      "score": 0.185,
+      "source_class_rank": 40,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-834b9b1c1cbe",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.614,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T12:26:49Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "NASA\u2019s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather patterns on distant worlds and understanding the conditions that shape their atmospheres.",
+        "title": "NASA\u2019s Webb reveals the wild weather of a mysterious world 20 light-years away",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm"
+      },
+      "score": 0.183,
+      "source_class_rank": 41,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fa26b1778765",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.604,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T12:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+        "title": "Perspective: Midterm money madness",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness"
+      },
+      "score": 0.18,
+      "source_class_rank": 42,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-142e69dafc32",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.604,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T12:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Canada\u2019s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+        "title": "Encryption Is Getting Squeezed From All Sides",
+        "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/"
+      },
+      "score": 0.18,
+      "source_class_rank": 43,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2a98a65ad439",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.597,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:43:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+        "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race"
+      },
+      "score": 0.178,
+      "source_class_rank": 44,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a898417d0280",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.597,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:43:13Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season.",
+        "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires"
+      },
+      "score": 0.178,
+      "source_class_rank": 45,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1c12b037dd98",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.594,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:33:48Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered that some forest soils are becoming surprisingly better at removing methane from the atmosphere as temperatures rise and rainfall declines. A study spanning up to 24 years found methane absorption increasing by an average of 3% annually, challenging previous predictions about climate change's effects on forests.",
+        "title": "A 24-year study uncovers a surprising climate benefit beneath forests",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261014015525.htm"
+      },
+      "score": 0.177,
+      "source_class_rank": 46,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a0c42aae1fa4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.592,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Shorter days don\u2019t have to spell trouble for your houseplants. These are the lights we\u2019ve used and loved in our own homes.",
+        "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+        "url": "https://www.wired.com/story/best-led-grow-lights/"
+      },
+      "score": 0.176,
+      "source_class_rank": 47,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8e472b8c0da4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.587,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:15:11Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+        "title": "Science says your boss should talk less in meetings",
+        "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+      },
+      "score": 0.174,
+      "source_class_rank": 48,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c894e3912d46",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.582,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:02:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+        "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+        "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/"
+      },
+      "score": 0.173,
+      "source_class_rank": 49,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7406a521a086",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:00:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+        "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+        "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
+      },
+      "score": 0.173,
+      "source_class_rank": 50,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-84c0f7bda984",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T11:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past<br>are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
+        "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid"
+      },
+      "score": 0.173,
+      "source_class_rank": 51,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89a0b700272d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.578,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T10:52:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The long-running programme will be replaced by a \"more cost-effective\" spin-off show revisiting past projects.",
+        "title": "DIY SOS to be 'rested' next year to save money, BBC says",
+        "url": "https://www.bbc.co.uk/news/articles/cr15jw22v50qo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.172,
+      "source_class_rank": 52,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5c4d1373b9fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.57,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T10:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+        "title": "HTC Made Smart Glasses That Are Way More Private",
+        "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
+      },
+      "score": 0.169,
+      "source_class_rank": 53,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6578e6813aad",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.57,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T10:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn\u2019t have to be.",
+        "title": "Don\u2019t Let a Crypto Inheritance Get Stuck on the Blockchain",
+        "url": "https://www.wired.com/story/crypto-inheritance-how-to/"
+      },
+      "score": 0.169,
+      "source_class_rank": 54,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89e9da7e3c58",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.559,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T10:00:02Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Officials tasked with enforcing state laws have emerged as a formidable check on the Trump administration\u2019s policies",
+        "title": "Corporate donations flood US attorneys-general election races",
+        "url": "https://www.ft.com/content/f1ea9968-4f26-4f1c-a3c2-66ec090e3dcd?syn-25a6b1a6=1"
+      },
+      "score": 0.166,
+      "source_class_rank": 55,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89b6fcc888fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.557,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T09:53:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+        "title": "Trump exempts Russia from further sanctions mandated by new law",
+        "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1"
+      },
+      "score": 0.166,
+      "source_class_rank": 56,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e72ccd676fd7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "President Trump's midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans.",
+        "title": "Trump promised a swing district blitz. He's going to a lot of very red states",
+        "url": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms"
+      },
+      "score": 0.16,
+      "source_class_rank": 57,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-520d76b5647e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own \u2014 and on the street.",
+        "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+        "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk"
+      },
+      "score": 0.16,
+      "source_class_rank": 58,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4757fb8657aa",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The DNA inside our cells isn\u2019t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+        "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
+        "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/"
+      },
+      "score": 0.16,
+      "source_class_rank": 59,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dcd5ea3719cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+        "title": "Microplastics React With Water, a New Study Says. That\u2019s a Problem for Biology",
+        "url": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/"
+      },
+      "score": 0.16,
+      "source_class_rank": 60,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-88c7b97e1ed5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.466,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T05:14:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
+        "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
+      },
+      "score": 0.138,
+      "source_class_rank": 61,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b2f4e8285442",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:05:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 17\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put [&#8230;]",
+        "title": "APOD: 2026 October 17 \u2013 3D 67P",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/"
+      },
+      "score": 0.132,
+      "source_class_rank": 62,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-53fc3277fe37",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:00:30Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Iran-backed rebels surround Taiz, one of Yemen\u2019s largest cities, as conflict with Riyadh and its local allies escalates",
+        "title": "Houthis encircle new target in conflict with Saudi-backed forces",
+        "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 63,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-46e3fd96b0b5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:00:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
+        "title": "The dress rehearsal for an AI reckoning",
+        "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 64,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c499b2c8277f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:00:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "The economics of why we increasingly avoid the company of both other humans and books",
+        "title": "Why have screens replaced socialising?",
+        "url": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 65,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6040390c7f6c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:00:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "The tribalism of football fans parallels modern politics like nothing else",
+        "title": "The Man City theory of politics",
+        "url": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 66,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-47f7fc2bea69",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T04:00:11Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
+        "title": "Are we sleepwalking into World War III?",
+        "url": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 67,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-05d4974dd825",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.421,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T02:36:18Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you\u2019ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+        "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+      },
+      "score": 0.125,
+      "source_class_rank": 68,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2ca5a38c86e2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.409,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T01:52:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades. But as birth rates declined and population growth slowed, the terrifying prediction unraveled, revealing how even convincing scientific models can fail when human behavior changes.",
+        "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm"
+      },
+      "score": 0.122,
+      "source_class_rank": 69,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4bc031f66cbf",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.397,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-17T01:06:05Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Stanford scientists have developed a revolutionary microscope that reveals the hidden inner workings of living cells in real time, without the fluorescent labels that can interfere with observations. The breakthrough could provide new insights into cancer, infectious diseases, and how drugs interact with cells.",
+        "title": "Stanford\u2019s new microscope reveals living cells like never before",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm"
+      },
+      "score": 0.118,
+      "source_class_rank": 70,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    }
+  ],
+  "coverage": {
+    "completed_source_classes": [
+      "gdelt",
+      "hacker_news",
+      "newsdata",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": []
+  },
+  "generated_at": "2026-10-18T01:06:08.326818Z",
+  "metrics": {
+    "published_clusters": 120,
+    "retained_articles": 156
+  },
+  "report_date": "2026-10-17",
+  "status": "READY",
+  "version": 2
+}
