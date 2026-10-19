@@ -1,0 +1,4043 @@
+{
+  "clusters": [
+    {
+      "article_count": 5,
+      "cluster_id": "cluster-9e93eccd3e8d",
+      "metrics": {
+        "coverage": 0.747,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:41Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Eagletribune",
+        "summary": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+        "title": "AP Business SummaryBrief at 9:03 a.m. EDT",
+        "url": "https://www.eagletribune.com/region/ap-business-summarybrief-at-9-03-a-m-edt/article_8f8cf444-ebfd-5b77-9c3c-96327d2f02d7.html"
+      },
+      "score": 0.165,
+      "source_class_rank": 1,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Mankato Free Press",
+          "title": "AP Business SummaryBrief at 9:03 a.m. EDT",
+          "url": "https://www.mankatofreepress.com/news/business/ap-business-summarybrief-at-9-03-a-m-edt/article_b0e8c5da-b7c1-5bbc-b9c7-817fe7991705.html"
+        },
+        {
+          "publisher": "Mcalesternews",
+          "title": "AP Business SummaryBrief at 9:03 a.m. EDT",
+          "url": "https://www.mcalesternews.com/region/ap-business-summarybrief-at-9-03-a-m-edt/article_f1966d5e-6a84-5b45-902a-5ee52c6ce670.html"
+        },
+        {
+          "publisher": "Postregister",
+          "title": "AP Business SummaryBrief at 9:03 a.m. EDT",
+          "url": "https://www.postregister.com/businessreport/business/ap-business-summarybrief-at-9-03-a-m-edt/article_f8341a6f-1baf-553d-9596-7ab8453fe7be.html"
+        },
+        {
+          "publisher": "Register-herald",
+          "title": "AP Business SummaryBrief at 9:03 a.m. EDT",
+          "url": "https://www.register-herald.com/region/ap-business-summarybrief-at-9-03-a-m-edt/article_9e8d4a42-bdd5-5ac6-a08c-ecbedccca032.html"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5ef8a81fac7e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.848,
+        "gravity": 0.0,
+        "prominence": 0.849
+      },
+      "newest_published_at": "2026-10-18T20:48:14Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "arxiv.org",
+        "summary": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861"
+      },
+      "score": 0.341,
+      "source_class_rank": 1,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-d63417ffd5b1",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.5,
+        "freshness": 0.793,
+        "gravity": 0.0,
+        "prominence": 0.964
+      },
+      "newest_published_at": "2026-10-18T19:03:38Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+        "title": "Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019",
+        "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"
+      },
+      "score": 0.399,
+      "source_class_rank": 1,
+      "source_classes": [
+        "Hacker News",
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "readtheprofile.com",
+          "title": "The Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything"
+        }
+      ]
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-5577609141d1",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:28Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Newsday",
+        "summary": "Indigenous leaders from the Amazon are taking their fight against illegal mining, drug trafficking, and deforestation to a United Nations conference in Vienna next week.",
+        "title": "Criminal networks threaten the Amazon. Indigenous leaders want the UN to act",
+        "url": "https://www.newsday.com/business/amazon-united-nations-organized-crime-vienna-indigenous-y91414"
+      },
+      "score": 0.119,
+      "source_class_rank": 2,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "The Seattle Times",
+          "title": "Criminal networks threaten the Amazon. Indigenous leaders want the UN to act",
+          "url": "https://www.seattletimes.com/business/criminal-networks-threaten-the-amazon-indigenous-leaders-want-the-un-to-act/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5e3b70ba8e8e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.954,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:52:38Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "PM brands Neets \"crisis\" a \"moral failure\" and cereal prices could rise in healthy food crackdown lead Monday's papers.",
+        "title": "'Neets crisis is moral failure' and 'Credit crunch'",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56p9elwd1o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.284,
+      "source_class_rank": 2,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b4042e2aa8fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.731,
+        "gravity": 0.0,
+        "prominence": 0.966
+      },
+      "newest_published_at": "2026-10-18T16:56:56Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reddit.com",
+        "summary": "",
+        "title": "Namecheap just seized and disabled all my domains",
+        "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"
+      },
+      "score": 0.319,
+      "source_class_rank": 2,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-37d32b582a87",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.781,
+        "gravity": 0.0,
+        "prominence": 0.873
+      },
+      "newest_published_at": "2026-10-18T18:40:16Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "hoaspy.com",
+        "summary": "",
+        "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+        "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html"
+      },
+      "score": 0.319,
+      "source_class_rank": 3,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-055adcfdc085",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.94,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:28:45Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+        "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+        "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.279,
+      "source_class_rank": 3,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a5e82e74a7ed",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Headtopics",
+        "summary": "Edgar-Jones, a self-proclaimed longtime Austen fan, tells TODAY.com\u2019s \u201cCut for Time\u201d what she learned while bringing a beloved character to life.",
+        "title": "Our 1 Question for Daisy Edgar-Jones During Commercial: Which Sarah J. Maas Character Would She Want to Play?",
+        "url": "https://us.headtopics.com/news/our-1-question-for-daisy-edgar-jones-during-commercial-88937338"
+      },
+      "score": 0.093,
+      "source_class_rank": 3,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-107825250e8c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.937,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:24:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+        "title": "Don't fall for this - how to protect yourself from AI scams",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.279,
+      "source_class_rank": 4,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e902326a6241",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Headtopics",
+        "summary": "'Aman' was honored in the short film competition, while LFF special mentions went to 'Queer Edward II,' 'MASC' and 'Daughters of the Late Colonel'",
+        "title": "\u2018Imperium,\u2019 \u2018Concrete Land\u2019 and \u20189 Temples to Heaven\u2019 Win BFI London Film Festival Awards",
+        "url": "https://us.headtopics.com/news/imperium-concrete-land-and-9-temples-to-heaven-win-88937351"
+      },
+      "score": 0.093,
+      "source_class_rank": 4,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ad4511f75c16",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.719,
+        "gravity": 0.0,
+        "prominence": 0.906
+      },
+      "newest_published_at": "2026-10-18T16:32:00Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "karrisaarinen.com",
+        "summary": "",
+        "title": "Someone behind the software",
+        "url": "https://karrisaarinen.com/posts/someone-behind-the-software/"
+      },
+      "score": 0.301,
+      "source_class_rank": 4,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-211192157b15",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.934,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:20:15Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.278,
+      "source_class_rank": 5,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bc05bd2a935c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.689,
+        "gravity": 0.0,
+        "prominence": 0.914
+      },
+      "newest_published_at": "2026-10-18T15:26:06Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "developer.apple.com",
+        "summary": "",
+        "title": "macOS 15.8.2 Breaks OpenGL",
+        "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550"
+      },
+      "score": 0.29,
+      "source_class_rank": 5,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-0cfa0f2e44ba",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Headtopics",
+        "summary": "In Guildford's Park Barn and Westborough areas, a severe subsidence crisis has left families fearing that their homes could collapse at any time. The issue is caused by shifting clay soil, leading to cracks, structural failure, and a looming threat of demolition for up to 1,000 houses. Council officials are balancing demolition plans with support for affected residents, as community meetings are scheduled to address the future of these homes.",
+        "title": "Surrey Residents Live in Terror as Clay\u2011Soil Subsidence Threatens 1930s Homes",
+        "url": "https://us.headtopics.com/news/surrey-residents-live-in-terror-as-clay-soil-subsidence-88937350"
+      },
+      "score": 0.093,
+      "source_class_rank": 5,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ede8a56c2e4b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Headtopics",
+        "summary": "Actor Johnny Flynn speaks with ComingSoon about his new Western film A Prayer for the Dying, releasing October 9, 2026. He discusses playing Jacob Hansen, a Civil War veteran serving as sheriff, pastor, and undertaker in a town ravaged by epidemic and wildfire. Flynn relates to the pressure of juggling multiple responsibilities and highlights the film's provocative, visually psychedelic narrative based on a novel that challenges the audience's perception of truth.",
+        "title": "Johnny Flynn Discusses Character's Triple Role and Divisive Ending in Western A Prayer for the Dying",
+        "url": "https://us.headtopics.com/news/johnny-flynn-discusses-character-s-triple-role-and-divisive-88937357"
+      },
+      "score": 0.093,
+      "source_class_rank": 6,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-037d4cf092f1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.874,
+        "gravity": 0.0,
+        "prominence": 0.57
+      },
+      "newest_published_at": "2026-10-18T21:36:10Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn&#x27;t work properly.<p>This",
+        "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "url": "https://github.com/finereli/whatsapp-mcp"
+      },
+      "score": 0.278,
+      "source_class_rank": 6,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bab97f17051d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.926,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:06:09Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.275,
+      "source_class_rank": 6,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c1a314a9f135",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.923,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:00:45Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+        "title": "Home sellers cut asking prices on 3,000 properties a day",
+        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.274,
+      "source_class_rank": 7,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-707e87b773cb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:04:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u041f\u0440\u0430\u0432\u0434\u0430",
+        "summary": "Two separate Russian drone attacks on vehicles in Kharkiv Oblast left four people injured on 18 October.",
+        "title": "Four injured in Russian drone attack on cars in Kharkiv Oblast",
+        "url": "https://www.pravda.com.ua/eng/news/2026/10/18/8058616/"
+      },
+      "score": 0.093,
+      "source_class_rank": 7,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-586b2582871c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.785,
+        "gravity": 0.0,
+        "prominence": 0.689
+      },
+      "newest_published_at": "2026-10-18T18:48:04Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "getlazarus.org",
+        "summary": "",
+        "title": "Free Pascal compiler now supports dynamic packages",
+        "url": "https://www.getlazarus.org/dynamic/"
+      },
+      "score": 0.278,
+      "source_class_rank": 7,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-00c797ad4e7c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:59Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "South Bend Tribune",
+        "summary": "",
+        "title": "Red-zone forays guaranteed little for Notre Dame on odd night | Analysis",
+        "url": "https://www.southbendtribune.com/story/sports/college/football/2026/10/18/sorting-through-notre-dame-footballs-red-zone-miscues-analysis/92172141007/"
+      },
+      "score": 0.093,
+      "source_class_rank": 8,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3557b570c360",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.922,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T23:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "The president suggested \"Trump Ocean\" and \"Ocean of the Americas\" as potential new names.",
+        "title": "Trump can rename an ocean. But can he force people to use the new name?",
+        "url": "https://www.snopes.com/news/2026/10/18/trump-rename-ocean/"
+      },
+      "score": 0.274,
+      "source_class_rank": 8,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-56cf4a47e2b8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.678,
+        "gravity": 0.0,
+        "prominence": 0.821
+      },
+      "newest_published_at": "2026-10-18T15:00:40Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "terrytao.wordpress.com",
+        "summary": "",
+        "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+        "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/"
+      },
+      "score": 0.267,
+      "source_class_rank": 8,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9c63f9dbfb77",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:57Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Cherry Creek News",
+        "summary": "For years, the fight over open-source AI had a clean, comfortable framing: either you believed open models were the best defense against the concentration of power in a handful of Silicon Valley labs, or you believed they were too dangerous\u2026 Continue Reading \u2192",
+        "title": "The Open-Closed AI Debate Isn\u2019t Black and White \u2014 and the Stakes Just Got Real",
+        "url": "https://thecherrycreeknews.com/the-open-closed-ai-debate-isnt-black-and-white-and-the-stakes-just-got-real/"
+      },
+      "score": 0.093,
+      "source_class_rank": 9,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ec9b54853a41",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.665,
+        "gravity": 0.0,
+        "prominence": 0.846
+      },
+      "newest_published_at": "2026-10-18T14:30:27Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tomshardware.com",
+        "summary": "",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+      },
+      "score": 0.267,
+      "source_class_rank": 9,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cc31b3671b60",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.899,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T22:20:17Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Renovation of century-old East Potomac course is part of president\u2019s effort to remodel Washington in his own image",
+        "title": "Trump to begin transforming historic golf course despite court order",
+        "url": "https://www.ft.com/content/39a1f29b-1248-4785-8aa3-0e7c29b5bf35?syn-25a6b1a6=1"
+      },
+      "score": 0.267,
+      "source_class_rank": 9,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-85dfb4aabf02",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.854,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T21:00:22Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.254,
+      "source_class_rank": 10,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8439db072643",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:56Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Film Daily",
+        "summary": "Find out what fans are saying about Connor Storrie's personal life and the latest speculation about his sexuality with our comprehensive analysis. The post Is Connor Storrie gay? Fans demand answers now appeared first on Film Daily.",
+        "title": "Is Connor Storrie gay? Fans demand answers now",
+        "url": "https://filmdaily.co/news/is-connor-storrie-gay-fans-demand-answers-now/"
+      },
+      "score": 0.093,
+      "source_class_rank": 10,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-586e3f87fc95",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.759,
+        "gravity": 0.0,
+        "prominence": 0.677
+      },
+      "newest_published_at": "2026-10-18T17:56:59Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "PalmOS Lemmings",
+        "url": "https://github.com/ardiri/palmos-lemmings"
+      },
+      "score": 0.266,
+      "source_class_rank": 10,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-029ca4e02a78",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.854,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T21:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley\u2019s most storied firms",
+        "title": "No agenda, no rush, no leaving San Francisco: Benchmark\u2019s partners on investing in a frenzied market",
+        "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+      },
+      "score": 0.254,
+      "source_class_rank": 11,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-749d010d37a1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:51Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Newser",
+        "summary": "An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service temporarily disrupted. The shooting happened around 12:20pm at the station at 7th Avenue and 53rd Street, a short walk from several Broadway theaters and Carnegie Hall, per the AP...",
+        "title": "Man Fatally Shot on NYC Subway Platform",
+        "url": "https://www.newser.com/story/398342/man-fatally-shot-on-nyc-subway-platform.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 11,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e1c1791133d0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.648,
+        "gravity": 0.0,
+        "prominence": 0.87
+      },
+      "newest_published_at": "2026-10-18T13:48:48Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "RepRapMicron",
+        "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+      },
+      "score": 0.264,
+      "source_class_rank": 11,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-df68e221f7fb",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.672,
+        "gravity": 0.0,
+        "prominence": 0.803
+      },
+      "newest_published_at": "2026-10-18T14:47:37Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "neilmadden.blog",
+        "summary": "",
+        "title": "Java sealed classes and exhaustive pattern matching",
+        "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/"
+      },
+      "score": 0.261,
+      "source_class_rank": 12,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-235c4b6d929d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.842,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T20:37:40Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+        "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+      },
+      "score": 0.25,
+      "source_class_rank": 12,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-46f2c3bbee6b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:46Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Morungexpress",
+        "summary": "Kohima, October 17 (MExN): Model Christian College (MCC) Kohima hosted its Literary Day 2026 on Saturday, with the day-long event structured around the theme of storytelling and performance. The morning began with a formal inaugural ceremony hosted by Senjabeni Ngullie, Member of MCC Literary Club, with opening prayer led by Jangneichoi Kipgen, President of Model Christian College Students\u2019 Union (MCCSU).A highlight of the opening was a performance of \u2018Rise O Youth\u2019 by Kilini Zhimo (BA 1st Semes",
+        "title": "MCC Kohima hosts Literary Day 2026",
+        "url": "https://morungexpress.com/mcc-kohima-hosts-literary-day-2026"
+      },
+      "score": 0.093,
+      "source_class_rank": 12,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cc8098a704b3",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:45Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "It was a night of firsts, as Santiago Castro and Emanuele Lulli bagged their debut goals for Roma.",
+        "title": "Sinners & Saints: Roma 2, Genoa 0",
+        "url": "https://sports.yahoo.com/articles/sinners-saints-roma-2-genoa-130345707.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 13,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-95e854f61d45",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.84,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T20:33:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "title": "Macron calls for 'calm and order' after riots across France",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.25,
+      "source_class_rank": 13,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ff02312b9b88",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.741,
+        "gravity": 0.0,
+        "prominence": 0.679
+      },
+      "newest_published_at": "2026-10-18T17:19:34Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "mitos.computer",
+        "summary": "",
+        "title": "Mitos editor is a fork of Helix",
+        "url": "https://mitos.computer/"
+      },
+      "score": 0.26,
+      "source_class_rank": 13,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-86a1c32e1899",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.823,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T20:01:48Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Nigel Dawn and Naveen Nataraj are elevated while John Weinberg will remain chief executive for at least three years",
+        "title": "Evercore appoints co-presidents for the first time in leadership reshuffle",
+        "url": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1"
+      },
+      "score": 0.245,
+      "source_class_rank": 14,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9b4122937abc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.79,
+        "gravity": 0.0,
+        "prominence": 0.591
+      },
+      "newest_published_at": "2026-10-18T18:59:09Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "store.steampowered.com",
+        "summary": "",
+        "title": "Tiny Brutalism \u2013 Thanks to HN it's on Steam",
+        "url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/"
+      },
+      "score": 0.257,
+      "source_class_rank": 14,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c4c9a766a547",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:40Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Economic Times",
+        "summary": "'The entire country knows that CEC Gyanesh Kumar implements \u2018vote chori\u2019 and Amit Shah and PM Modi back him,' he said while addressing a public meeting in Goa. He said the Congress is a protector of the Constitution, adding that Mr. Modi, Mr. Shah and Gyanesh Kumar know they can\u2019t escape from us. 'PM Modi, Amit Shah and CEC Gyanesh Kumar will face justice and pay the price for what they have done,' he added. Mr. Gandhi said India used to have a world-class education system earlier, but now pelle",
+        "title": "Modi, Amit Shah and CEC Gyanesh Kumar will pay price for 'vote chori': Rahul Gandhi in Goa",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/modi-amit-shah-and-cec-gyanesh-kumar-will-pay-price-for-vote-chori-rahul-gandhi-in-goa/videoshow/135029266.cms"
+      },
+      "score": 0.093,
+      "source_class_rank": 14,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-82fb9aa897b2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:39Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Duke safety DaShawn Stone went down with 6:52 left in the third quarter of Saturday\u2019s game against North Carolina at Wallace Wade Stadium, and the Blue Devils\u2019 medical staff hurried onto the field with a stretcher not far behind. Stone eventually walked off under his own power. A few seconds of video from that stoppage [\u2026] The post Robert Griffin III calls out Duke CB after on-field moment with athletic trainer appeared first on Gridiron Heroics.",
+        "title": "Robert Griffin III calls out Duke CB after on-field moment with athletic trainer",
+        "url": "https://sports.yahoo.com/articles/robert-griffin-iii-calls-duke-130339217.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 15,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7f4c7731b0bd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.82,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:55:48Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Worst street violence in years comes six months before one of Europe\u2019s most closely watched elections",
+        "title": "Macron faces political firestorm after riots",
+        "url": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1"
+      },
+      "score": 0.244,
+      "source_class_rank": 15,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1515e28e8ed8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.831,
+        "gravity": 0.0,
+        "prominence": 0.529
+      },
+      "newest_published_at": "2026-10-18T20:16:59Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "ft.com",
+        "summary": "",
+        "title": "Are we sleepwalking into World War III?",
+        "url": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729"
+      },
+      "score": 0.254,
+      "source_class_rank": 15,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2a23f8014cea",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.819,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:55:41Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+        "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.244,
+      "source_class_rank": 16,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6dacafc7a3a7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.714,
+        "gravity": 0.0,
+        "prominence": 0.694
+      },
+      "newest_published_at": "2026-10-18T16:20:27Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "righto.com",
+        "summary": "",
+        "title": "The Intel 8087 chip: floating-point addition and subtraction",
+        "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html"
+      },
+      "score": 0.254,
+      "source_class_rank": 16,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-73cce8ecb696",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:38Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Hoodline",
+        "summary": "WP Land Co. is reducing Arabella's final phase near Blue Ash's Summit Park after homes sold well above projected prices.",
+        "title": "Blue Ash Builder Shrinks Arabella's Final Phase After $1.35M Homes Fly Off Market",
+        "url": "https://hoodline.com/2026/10/blue-ash-builder-shrinks-arabella-s-final-phase-after-1-35m-homes-fly-off-market/"
+      },
+      "score": 0.093,
+      "source_class_rank": 16,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7786dbdba82b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.818,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:53:27Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+        "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.243,
+      "source_class_rank": 17,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-43b674dd5107",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:35Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Fox 7 Austin",
+        "summary": "President Donald Trump's decision to waive new sanctions on Russia is drawing sharp criticism from Republicans and Democrats alike.",
+        "title": "Republicans break ranks with Trump over Russia sanctions waiver: 'Terrible misjudgment'",
+        "url": "https://www.fox7austin.com/news/republicans-break-ranks-trump-over-russia-sanctions-waiver-terrible-misjudgment"
+      },
+      "score": 0.093,
+      "source_class_rank": 17,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f1460defa114",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.945,
+        "gravity": 0.0,
+        "prominence": 0.387
+      },
+      "newest_published_at": "2026-10-18T23:37:57Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "colo.to",
+        "summary": "",
+        "title": "William Gibson and the trademarking of cyberspace",
+        "url": "https://colo.to/cyberspace.html"
+      },
+      "score": 0.249,
+      "source_class_rank": 17,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d273e417b013",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.818,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:52:26Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Government under pressure after struggle to contain attacks on stores and official buildings",
+        "title": "France reels after \u2018unprecedented\u2019 violence from protesters",
+        "url": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1"
+      },
+      "score": 0.243,
+      "source_class_rank": 18,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5c981cf0378c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:33Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Punch",
+        "summary": "Ekiti State Governor, Biodun Oyebanji, has pledged shared prosperity for the state following his inauguration for a second term in office.",
+        "title": "Second term: Oyebanji pledges shared prosperity for Ekiti",
+        "url": "https://punchng.com/second-term-oyebanji-pledges-shared-prosperity-for-ekiti/"
+      },
+      "score": 0.093,
+      "source_class_rank": 18,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8688e891f138",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.63,
+        "gravity": 0.0,
+        "prominence": 0.822
+      },
+      "newest_published_at": "2026-10-18T13:06:54Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "legendofhyrule.com",
+        "summary": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn\u2019t kept up with the story so I built a timeline to catch up before the Door of Time reopens.<p>Nintendo\u2019s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth.",
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "url": "https://legendofhyrule.com/"
+      },
+      "score": 0.248,
+      "source_class_rank": 18,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-aca9b4d247d2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:32Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Columbian",
+        "summary": "HAZEL DELL \u2014 Even as growth and development have raced ahead all around their family farm, the only racing brothers Dan and Joe Cherington ever did was lapping tracks and winning championships at Portland International Raceway and River City Speedway in St. Helens, Ore.",
+        "title": "Hazel Dell barn covered in advertising a prized sign of past times",
+        "url": "https://www.columbian.com/news/2026/oct/18/hazel-dell-barn-covered-in-advertising-a-prized-signs-of-times-past/"
+      },
+      "score": 0.093,
+      "source_class_rank": 19,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d5935237cc78",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.774,
+        "gravity": 0.0,
+        "prominence": 0.533
+      },
+      "newest_published_at": "2026-10-18T18:26:40Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "forbes.com",
+        "summary": "",
+        "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+        "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/"
+      },
+      "score": 0.238,
+      "source_class_rank": 19,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5449b6e2a8fd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.817,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:51:22Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+        "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.243,
+      "source_class_rank": 19,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-349f52dbc4dc",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:31Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Free Press Journal",
+        "summary": "Zimbabwe captain Josephine Nkomo won the toss and chose to bat first in the IND vs ZIM 2nd T20I in Raipur. The Women in Blue survived a scare in the first game but have a 1-0 lead heading into the contest. Both teams have made no changes to their XIs from the first game.",
+        "title": "IND-W Vs ZIM-W 2nd T20I: Zimbabwe Wins Toss And Opt To Bat First In Raipur",
+        "url": "https://www.freepressjournal.in/sports/ind-w-vs-zim-w-2nd-t20i-zimbabwe-wins-toss-and-opt-to-bat-first-in-raipur"
+      },
+      "score": 0.093,
+      "source_class_rank": 20,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-cc87735c0b26",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.845,
+        "gravity": 0.0,
+        "prominence": 0.432
+      },
+      "newest_published_at": "2026-10-18T20:43:40Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+        "url": "https://github.com/Netflix/vmaf"
+      },
+      "score": 0.234,
+      "source_class_rank": 20,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2abe159ad511",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.791,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T19:00:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "General Ronald Clark looks to build up deterrence in region amid concerns about China\u2019s ambitions",
+        "title": "US army chief in Asia calls for show of enhanced military muscle",
+        "url": "https://www.ft.com/content/4ed89331-df18-4f2d-817b-9a7b304fd4e4?syn-25a6b1a6=1"
+      },
+      "score": 0.235,
+      "source_class_rank": 20,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d13ab15cdd11",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.613,
+        "gravity": 0.0,
+        "prominence": 0.741
+      },
+      "newest_published_at": "2026-10-18T12:22:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "vals.ai",
+        "summary": "",
+        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "url": "https://www.vals.ai/blogs/impossible-refund"
+      },
+      "score": 0.226,
+      "source_class_rank": 21,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-77b9d1c0ae17",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:31Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Leader",
+        "summary": "The 31st edition, held under the theme Terra Regnum, will include extraordinary performances of the Misteri d\u2019Elx and the return of the popular Medieval Market Elche\u2019s historic centre will travel back in time when the city\u2019s Medieval Festival returns from 23 October to 8 November with music, theatre, street entertainment and traditional celebrations. The 31st [\u2026] The post Elche Medieval Festival Returns from 23 October to 8 November appeared first on The Leader - The No. 1 Spanish Newspaper - Sp",
+        "title": "Elche Medieval Festival Returns from 23 October to 8 November",
+        "url": "https://theleader.info/2026/10/18/elche-medieval-festival-returns-from-23-october-to-8-november/"
+      },
+      "score": 0.093,
+      "source_class_rank": 21,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-75e2c38e076b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.78,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:38:49Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+        "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
+      },
+      "score": 0.232,
+      "source_class_rank": 21,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ceccda3cccad",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.859,
+        "gravity": 0.0,
+        "prominence": 0.386
+      },
+      "newest_published_at": "2026-10-18T21:09:12Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "jrdsgl.com",
+        "summary": "",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/"
+      },
+      "score": 0.226,
+      "source_class_rank": 22,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1d4feb7dbb3e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:28Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Ndtv",
+        "summary": "Accenture has hired JPMorgan to review options for its Greater China business, which could be valued at up to $1.5 billion. The process follows unsolicited buyer interest, although a transaction is...",
+        "title": "Accenture Hires JPMorgan To Explore $1.5 Billion China Business Sale: Report",
+        "url": "https://www.ndtvprofit.com/business/accenture-explores-1-5-billion-china-business-sale-hires-jpmorgan-for-strategic-review-report-12202921"
+      },
+      "score": 0.093,
+      "source_class_rank": 22,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-780dd55a42dd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.777,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:33:29Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+        "title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.231,
+      "source_class_rank": 22,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7695daf6c236",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.776,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:30:14Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+        "title": "St Petersburg endures biggest Ukrainian drone attack",
+        "url": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1"
+      },
+      "score": 0.231,
+      "source_class_rank": 23,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-59c97486cd98",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:27Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Openpr.com",
+        "summary": "Searching for the best crypto to invest in? Explore Solana, Ethereum, XRP, Cardano, TRON, Avalanche, and Apeing's live presale opportunity. Crypto markets can change direction in a single session. On October 16, Solana was rebounding above $105, Ethereum was climbing toward",
+        "title": "Which Is the Best Crypto to Invest In? These 7 Top 100x Coins Could Surprise in 2026",
+        "url": "https://www.openpr.com/news/4665225/which-is-the-best-crypto-to-invest-in-these-7-top-100x-coins-could"
+      },
+      "score": 0.093,
+      "source_class_rank": 23,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a9f5cdc0361f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.567,
+        "gravity": 0.0,
+        "prominence": 0.83
+      },
+      "newest_published_at": "2026-10-18T10:21:51Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "niemanlab.org",
+        "summary": "",
+        "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+        "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
+      },
+      "score": 0.225,
+      "source_class_rank": 23,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-89376ca604f0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:27Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The News Minute",
+        "summary": "Nuha Sajeev expressed grief over the Mini Cooper crash tragedy and appealed for privacy after an Angamaly court rejected the bail pleas of all four accused on October 17.",
+        "title": "Mini Cooper crash: Suhail\u2019s mother expresses grief, appeals for privacy",
+        "url": "https://www.thenewsminute.com/kerala/mini-cooper-crash-suhails-mother-expresses-grief-appeals-for-privacy"
+      },
+      "score": 0.093,
+      "source_class_rank": 24,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5346d7131159",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.495,
+        "gravity": 0.0,
+        "prominence": 1.0
+      },
+      "newest_published_at": "2026-10-18T06:50:36Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "api-docs.deepseek.com",
+        "summary": "",
+        "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/"
+      },
+      "score": 0.221,
+      "source_class_rank": 24,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-aa365ad9c6d4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.772,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:23:30Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+        "title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+        "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.23,
+      "source_class_rank": 24,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6e48eb3f3c34",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.772,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:22:50Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+        "title": "Hearts roll out red carpet ... and Celtic walk all over it",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.23,
+      "source_class_rank": 25,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8a8be4f3eba6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.587,
+        "gravity": 0.0,
+        "prominence": 0.724
+      },
+      "newest_published_at": "2026-10-18T11:16:22Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+        "url": "https://github.com/0x23/MicroManipulatorStepper"
+      },
+      "score": 0.214,
+      "source_class_rank": 25,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d2facb9021f8",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:26Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Health experts warn of physical and mental impact of FOGO The Sunday Post",
+        "title": "Health experts warn of physical and mental impact of FOGO - The Sunday Post",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU19mZ0V1dzVLQVRuR2RyOE9OVHlYeThUemg1SjlMdmpQZEtsRmhDcUdxbHBXakJtNWFXcUxZc25ubGNUMFpHUERfTThBV2lQb2xfbTNxV2pLcVhXb1RVMGNPNndIZHQ0eUJNbGhzN0g3Yzcta1V5NW9ILV9EdDkxb1I1emVxRkFFOENQejZXcGQ1OWp0dXd2Szdn?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 25,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 2,
+      "cluster_id": "cluster-5bc441538d73",
+      "metrics": {
+        "coverage": 0.458,
+        "diversity": 0.5,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:03:52Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+        "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+        "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery"
+      },
+      "score": 0.229,
+      "source_class_rank": 26,
+      "source_classes": [
+        "NewsData",
+        "RSS"
+      ],
+      "supporting_articles": [
+        {
+          "publisher": "Local 10 News",
+          "title": "Pope Leo tells faithful in St. Peter's Square he will gradually resume duties after cancer surgery",
+          "url": "https://www.local10.com/news/world/2026/10/18/pope-leo-tells-faithful-in-st-peters-square-he-will-gradually-resume-duties-after-cancer-surgery/"
+        }
+      ]
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6ea4e83607c6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:26Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Inquirer",
+        "summary": "CALAPAN CITY, Oriental Mindoro \u2014 The Philippine Coast Guard (PCG) transported on Sunday the remains of 10 identified victims of the fire-ravaged passenger vessel M/V June Aster from Coron to El Nido, Palawan, as authorities continued efforts to return the dead to their families. The PCG vessel BRP Suluan (MRRV-4406) left the Port of Coron for San Fernando Port in El Nido, carrying the victims\u2019 remains, 20 family members and Coast Guard personnel, the PCG said in a statement. The transfer was int",
+        "title": "PCG transfers remains of 10 M/V June Aster victims to El Nido",
+        "url": "https://newsinfo.inquirer.net/2326095/pcg-transfers-remains-of-10-m-v-june-aster-victims-to-el-nido"
+      },
+      "score": 0.093,
+      "source_class_rank": 26,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9f2a84507c5c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.867,
+        "gravity": 0.0,
+        "prominence": 0.33
+      },
+      "newest_published_at": "2026-10-18T21:24:13Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "",
+        "title": "Show HN: OmniPTY \u2013 Opinionated terminal emulator for macOS and Linux",
+        "url": "https://github.com/omnipty-terminal/omnipty"
+      },
+      "score": 0.214,
+      "source_class_rank": 26,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7560aed58d0f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.761,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T18:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Snopes",
+        "summary": "Snopes often fact-checks false rumors that satirize credible reports about the defense secretary.",
+        "title": "16 claims about Hegseth we've debunked",
+        "url": "https://www.snopes.com/collections/pete-hegseth-false-rumors-collection/"
+      },
+      "score": 0.226,
+      "source_class_rank": 27,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-45ca2b8b5090",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:25Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Devonlive",
+        "summary": "\u201cI think there were too many average performances in a big game.\u201d",
+        "title": "Torquay United 'flat performance' costly as Gulls FA Cup dreams end",
+        "url": "https://www.devonlive.com/sport/football/football-news/torquay-united-flat-performance-costly-11204340"
+      },
+      "score": 0.093,
+      "source_class_rank": 27,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5dacb78c0b6e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.94,
+        "gravity": 0.0,
+        "prominence": 0.257
+      },
+      "newest_published_at": "2026-10-18T23:29:06Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "reuters.com",
+        "summary": "",
+        "title": "Newly identified green star leaves astronomers amazed",
+        "url": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/"
+      },
+      "score": 0.211,
+      "source_class_rank": 27,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-732814e40913",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:24Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Moneycontrol",
+        "summary": "Bangladesh state minister Ishraque Hossain has sparked a social media debate after a video showed him carrying a pistol during a raid on a suspected drug den in Dhaka.",
+        "title": "Bangladesh minister carries pistol during Dhaka slum drug raid, video sparks debate",
+        "url": "https://www.moneycontrol.com/world/bangladesh-minister-carries-pistol-during-dhaka-slum-drug-raid-video-sparks-debate-article-14054849.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 28,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7b34c08fb8f2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.524,
+        "gravity": 0.0,
+        "prominence": 0.845
+      },
+      "newest_published_at": "2026-10-18T08:19:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "t3.at",
+        "summary": "",
+        "title": "Parser Combinators",
+        "url": "https://t3.at/blog/2026-10-17-parser-combinators/"
+      },
+      "score": 0.21,
+      "source_class_rank": 28,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-965b96643101",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.744,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T17:24:45Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+        "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.221,
+      "source_class_rank": 28,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-52a79cb09771",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.718,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T16:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
+        "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died"
+      },
+      "score": 0.213,
+      "source_class_rank": 29,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a565616a02ca",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.825,
+        "gravity": 0.0,
+        "prominence": 0.353
+      },
+      "newest_published_at": "2026-10-18T20:06:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "wsj.com",
+        "summary": "",
+        "title": "A 'Ludicrously Ugly' Bridge Is Exhibit a That Britain Has Lost Its Mojo",
+        "url": "https://www.wsj.com/world/uk/a-ludicrously-ugly-bridge-is-exhibit-a-that-britain-has-lost-its-mojo-7015a654"
+      },
+      "score": 0.209,
+      "source_class_rank": 29,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c8661eec2b86",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:20Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Odisha Tv",
+        "summary": "",
+        "title": "Daily Horoscope for Leo, Oct 19, 2026: Securing government transfers and resolving property disputes",
+        "url": "https://odishatv.in/horoscopes/daily-horoscope-for-leo-oct-19-2026-securing-government-transfers-and-resolving-property-disputes"
+      },
+      "score": 0.093,
+      "source_class_rank": 29,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d1e85de0664b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.587,
+        "gravity": 0.0,
+        "prominence": 0.693
+      },
+      "newest_published_at": "2026-10-18T11:15:37Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "terriblesoftware.org",
+        "summary": "",
+        "title": "The Brain Sandwich",
+        "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/"
+      },
+      "score": 0.208,
+      "source_class_rank": 30,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-175bf69a3f71",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:18Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Interesting Engineering",
+        "summary": "The strikes follow earlier reported attacks on Russian technology infrastructure, including facilities associated with Yandex and Sberbank.",
+        "title": "Ukrainian drones strike fuel depots and tech hubs near Russia\u2019s St. Petersburg: Reports",
+        "url": "https://interestingengineering.com/military/ukrainian-drones-strike-fuel-depots"
+      },
+      "score": 0.093,
+      "source_class_rank": 30,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1ecf89a3c2df",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.718,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T16:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+        "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      },
+      "score": 0.213,
+      "source_class_rank": 30,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6caadee2dfee",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.915,
+        "gravity": 0.0,
+        "prominence": 0.239
+      },
+      "newest_published_at": "2026-10-18T22:48:07Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "khalidhamadeh.com",
+        "summary": "",
+        "title": "How RC2's \u03c0 table was made",
+        "url": "https://khalidhamadeh.com/writing/rc2-pi-table"
+      },
+      "score": 0.201,
+      "source_class_rank": 31,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-60f18211bd59",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:18Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Marcus Freeman had an obvious place to point when he sat down for his postgame news conference in Provo on Saturday night. Notre Dame had just lost 28-24 at BYU, its 16-game winning streak was over, and the final throw to Jaden Greathouse had drawn no flag despite contact that a network rules analyst later [\u2026] The post Notre Dame HC Marcus Freeman makes telling statement after controversial loss at BYU appeared first on Gridiron Heroics.",
+        "title": "Notre Dame HC Marcus Freeman makes telling statement after controversial loss at BYU",
+        "url": "https://sports.yahoo.com/articles/notre-dame-hc-marcus-freeman-130318914.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 31,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4d5947f7518e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.716,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T16:25:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Ars Technica",
+        "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+        "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+      },
+      "score": 0.213,
+      "source_class_rank": 31,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-94c23fcb18ef",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:12Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Jpost",
+        "summary": "Rebeca Grynspan, 70, was born in Costa Rica to Jewish parents who fled Poland in 1936 due to Nazi persecution. She currently holds the position of Secretary-General of UN Trade and Development.",
+        "title": "UN sec-gen frontrunner Rebeca Grynspan\u2019s Jewish roots, record on Israel - explainer",
+        "url": "https://www.jpost.com/international/article-912062"
+      },
+      "score": 0.093,
+      "source_class_rank": 32,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-364123e0ab0d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.644,
+        "gravity": 0.0,
+        "prominence": 0.531
+      },
+      "newest_published_at": "2026-10-18T13:41:06Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "thing.net",
+        "summary": "",
+        "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+        "url": "https://www.thing.net/~rdom/ecd/EDTECD.html"
+      },
+      "score": 0.197,
+      "source_class_rank": 32,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e2d5e31dc0ae",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.707,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T16:05:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "TechCrunch",
+        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "TechCrunch Mobility: Rivian\u2019s next act",
+        "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/"
+      },
+      "score": 0.21,
+      "source_class_rank": 32,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-66862f3c7880",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.704,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T16:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Ambassador Andrew Puzder warns about \u2018devastating\u2019 retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+        "title": "US threatens Europe over Starlink restrictions",
+        "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1"
+      },
+      "score": 0.209,
+      "source_class_rank": 33,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-368783be1fba",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.666,
+        "gravity": 0.0,
+        "prominence": 0.468
+      },
+      "newest_published_at": "2026-10-18T14:31:52Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "ranet3.com",
+        "summary": "btw this is already running on all my machines (including a macbook), and i&#x27;ve configured all of them to have routable public ip addresses ;)<p>especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4&#x2F;v6 addresses very easily for all my devices behind the router<p>ios&#x2F;android app soon^{TM}",
+        "title": "Show HN: Ranet3 \u2013 High performance policy routed IPsec mesh SD-WAN",
+        "url": "https://ranet3.com/"
+      },
+      "score": 0.192,
+      "source_class_rank": 33,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6f4954cb4998",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:11Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Daily Post",
+        "summary": "The Ogun State Government has strongly condemned the description of the proposed $7 billion Gateway Deep Seaport investment as \u201canother broken promise\u201d by the Peoples Democratic Party (PDP) senatorial candidate for Ogun East, Alhaji Abdul-Hameed Omotayo, describing the remark as a reckless distortion of facts, an attempt to politicise a landmark investment and evidence of [\u2026] $7bn Deep Seaport: Ogun govt hits PDP candidate over \u2018broken promise\u2019 remark",
+        "title": "$7bn Deep Seaport: Ogun govt hits PDP candidate over \u2018broken promise\u2019 remark",
+        "url": "https://dailypost.ng/2026/10/18/7bn-deep-seaport-ogun-govt-hits-pdp-candidate-over-broken-promise-remark/"
+      },
+      "score": 0.093,
+      "source_class_rank": 33,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-11a76d7fd4ac",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:06Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Sunday Post",
+        "summary": "Advertised on billboards by Kardashians but also labelled \u201cpervert glasses\u201d by critics, camera-enabled smart glasses are the latest piece of kit raising questions about how quickly the law can catch up with tech advancements.",
+        "title": "Through the looking glasses: Advances in smart specs see 88% of Scots back crackdown",
+        "url": "https://www.sundaypost.com/fp/scots-back-crackdown-on-camera-enabled-smart-glasses/"
+      },
+      "score": 0.093,
+      "source_class_rank": 34,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ae11718aefe9",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.563,
+        "gravity": 0.0,
+        "prominence": 0.602
+      },
+      "newest_published_at": "2026-10-18T10:10:03Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "sparcopen.org",
+        "summary": "",
+        "title": "The Public Pays to Produce Research. Shareholders Collect the Return",
+        "url": "https://sparcopen.org/news/2026/sparc-releases-cost-of-knowledge-accounting-analysis-profitability-report/"
+      },
+      "score": 0.185,
+      "source_class_rank": 34,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-613789cc2520",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.691,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T15:30:49Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "A misconduct hearing said many of the records accessed were sensitive and held \"intimate information\".",
+        "title": "West Midlands Police officer who accessed police records 2,000 times sacked",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg7jl1wxvgo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.206,
+      "source_class_rank": 34,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9e4c111b3450",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:04Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Google News",
+        "summary": "Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study Nature",
+        "title": "Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study - Nature",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5"
+      },
+      "score": 0.093,
+      "source_class_rank": 35,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1ef06d6afb22",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.678,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T15:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Voters are increasingly linking rising energy prices to the administration\u2019s policies",
+        "title": "Trump\u2019s bid to make America cheap again has failed",
+        "url": "https://www.ft.com/content/52a5e9df-cd9a-4951-99b5-2364e575bb44?syn-25a6b1a6=1"
+      },
+      "score": 0.201,
+      "source_class_rank": 35,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-21a19f70c2dd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.742,
+        "gravity": 0.0,
+        "prominence": 0.335
+      },
+      "newest_published_at": "2026-10-18T17:21:23Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "anderegg.ca",
+        "summary": "",
+        "title": "What the heck is /pkg?",
+        "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg"
+      },
+      "score": 0.184,
+      "source_class_rank": 35,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e35e39644466",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.677,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T14:57:19Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.201,
+      "source_class_rank": 36,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f2bed131008a",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:04Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Mirage News",
+        "summary": "Police are seeking urgent public assistance to locate a missing 14-year-old girl who was last seen in Brisbane City yesterday, 17 October. The girl was",
+        "title": "Police Seek Help To Find Missing Girl At Brisbane City 18 October",
+        "url": "https://www.miragenews.com/police-seek-help-to-find-missing-girl-at-1762254/"
+      },
+      "score": 0.093,
+      "source_class_rank": 36,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d97d431b135c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.454,
+        "gravity": 0.0,
+        "prominence": 0.86
+      },
+      "newest_published_at": "2026-10-18T04:33:49Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "sphinx-six-theta.vercel.app",
+        "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.",
+        "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/"
+      },
+      "score": 0.184,
+      "source_class_rank": 36,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-14a9500997e6",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.663,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T14:25:51Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The BBC said all journalism and editorial decisions are made by BBC journalists and editors.",
+        "title": "BBC pauses civil service secondment scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdmy20yjmno?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.197,
+      "source_class_rank": 37,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-13cfba4d81c5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.491,
+        "gravity": 0.0,
+        "prominence": 0.705
+      },
+      "newest_published_at": "2026-10-18T06:36:48Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "wsj.com",
+        "summary": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;lifestyle&#x2F;careers&#x2F;labor-market-freeze-phd-graduate-f8e17d7c?st=YzFQN4&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;lifestyle&#x2F;careers&#x2F;labor-market-freeze-ph...</a>",
+        "title": "A Princeton PhD applied to 2,300 jobs and still can't get one",
+        "url": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c"
+      },
+      "score": 0.176,
+      "source_class_rank": 37,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-21db0c63dd89",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:03Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Yahoo! News",
+        "summary": "Facing fourth-and-31 from the Miami 46 in the second overtime Saturday night at Hard Rock Stadium, Ashton Daniels rolled right and threw the ball toward Duce Robinson in the end zone. Robinson came down in a pile with it, and so did Miami defensive back Bryce Fitzgerald. Officials ruled it an interception, replay upheld it, [\u2026] The post New angle of Duce Robinson\u2019s final catch reignites Florida State-Miami officiating debate appeared first on Gridiron Heroics.",
+        "title": "New angle of Duce Robinson\u2019s final catch reignites Florida State-Miami officiating debate",
+        "url": "https://sports.yahoo.com/articles/angle-duce-robinson-final-catch-130303510.html"
+      },
+      "score": 0.093,
+      "source_class_rank": 37,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4428b125ed0b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.525,
+        "gravity": 0.0,
+        "prominence": 0.601
+      },
+      "newest_published_at": "2026-10-18T08:22:11Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "twitter.com",
+        "summary": "",
+        "title": "OpenCode has a security breach last that impacted 1.4% of console users",
+        "url": "https://twitter.com/opencode/status/2111519637049319818"
+      },
+      "score": 0.172,
+      "source_class_rank": 38,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-9149b8317d93",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:02Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Myjoyonline",
+        "summary": "The Minister for Communication, Digital Technology and Innovation, Samuel Nartey George, says that the government will maintain international certification standards under the One Million Coders Programme (OMCP), even if the requirements make the training more demanding for beneficiaries.",
+        "title": "Gov\u2019t will not lower certification standards under One Million Coders Programme \u2013 Sam George",
+        "url": "https://www.myjoyonline.com/govt-will-not-lower-certification-standards-under-one-million-coders-programme-sam-george/"
+      },
+      "score": 0.093,
+      "source_class_rank": 38,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-97b9052ff51c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.647,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:47:07Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+        "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+        "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.192,
+      "source_class_rank": 38,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8d1b4ed672f1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.384,
+        "gravity": 0.0,
+        "prominence": 0.969
+      },
+      "newest_published_at": "2026-10-18T00:14:22Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tomshardware.com",
+        "summary": "",
+        "title": "NY announces game ownership bill requiring ownership rather than licensing",
+        "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+      },
+      "score": 0.168,
+      "source_class_rank": 39,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-8a9ee815155f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.647,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:46:34Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.",
+        "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
+      },
+      "score": 0.192,
+      "source_class_rank": 39,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-656ac4017ffa",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:02Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "The Times Of India",
+        "summary": "US president Donald Trump has blamed immigration for the violent unrest that swept across France, urging the country to close its borders as protests over",
+        "title": "'People from different world': Trump blames immigration for France unrest, warns US",
+        "url": "https://timesofindia.indiatimes.com/world/us/hatred-in-their-hearts-trump-links-france-violence-to-immigration-urges-border-closure/articleshow/135029155.cms"
+      },
+      "score": 0.093,
+      "source_class_rank": 39,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c0e9e1a37f95",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:01Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Fstoppers",
+        "summary": "Most of your time with a camera happens under ordinary skies at ordinary places, yet the landscape images that get the most attention online are blazing sunsets over famous viewpoints. That gap shapes what you think a successful outing looks like, and it can make the scenes you actually encounter feel like second best. [Read More]",
+        "title": "Do You Really Need a Fiery Sunset to Make a Good Landscape Photo?",
+        "url": "https://fstoppers.com/education/really-need-fiery-sunset-make-good-landscape-photo-905090"
+      },
+      "score": 0.093,
+      "source_class_rank": 40,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-1aebfa0f6de0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.644,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:39:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "Britain's Sonay Kartal fades from a strong position in a gripping Wuhan Open final against Grand Slam runner-up Maja Chwalinska.",
+        "title": "Britain's Kartal misses out on biggest title of her career",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cqm2411vp3dgo?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.191,
+      "source_class_rank": 40,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4a01de65e441",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.614,
+        "gravity": 0.0,
+        "prominence": 0.395
+      },
+      "newest_published_at": "2026-10-18T12:24:53Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "Anyone else get a lot of dumb scam calls?<p>These days I mostly get them on my mobile. I used to just ignore them, but then I got fed up and built a bot that answers my calls and wastes their time.<p>It runs on OpenAI Live 1. Jev classifies each call as spam, scam or genuine and steers the bot accordingly.<p>Works like a charm. All my calls go to the bot now.<p>I can also steer it from Telegram mid-call.<p>In this one the bot ended up accusing the scammer of being an AI :)\n<a href=\"https:&#x2F;&",
+        "title": "Show HN: CallSitter \u2013 bot that answers my calls and wastes scammers' time",
+        "url": "https://github.com/szerintedmi/callsitter"
+      },
+      "score": 0.163,
+      "source_class_rank": 40,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6ab03e8c9113",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.608,
+        "gravity": 0.0,
+        "prominence": 0.401
+      },
+      "newest_published_at": "2026-10-18T12:11:13Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "verdagon.dev",
+        "summary": "",
+        "title": "A new way to think about borrow checking (in reverse)",
+        "url": "https://verdagon.dev/blog/reverse-borrow-checking"
+      },
+      "score": 0.163,
+      "source_class_rank": 41,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-06ac40d74dc2",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:01Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Khaleej Times",
+        "summary": "Dubai Crown Prince Sheikh Hamdan commends the sixth consecutive year of record first-half performance, saying global trade competition now depends on continuity and resilience, not volumes alone",
+        "title": "Dubai Integrated Economic Zones\u2019 trade jumps 17% to record Dh246 billion in H1 2026",
+        "url": "https://www.khaleejtimes.com/business/dubai-integrated-economic-zones-trade-jumps-17-to-record-dh246-billion-in-h1-2026"
+      },
+      "score": 0.093,
+      "source_class_rank": 41,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2cc49351726e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.643,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:37:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and hints at exotic quasiparticles that scientists have dubbed potential \"super-Fermions.\"",
+        "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm"
+      },
+      "score": 0.191,
+      "source_class_rank": 41,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-7c10de779353",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.629,
+        "gravity": 0.0,
+        "prominence": 0.0
+      },
+      "newest_published_at": "2026-10-18T13:03:00Z",
+      "primary_source_class": "NewsData",
+      "representative": {
+        "publisher": "Thestreet",
+        "summary": "Warren Buffett named a specific Vanguard S&P 500 ETF for young investors. Here is what VOO offers, why Buffett recommends it, and how to get started.",
+        "title": "Warren Buffett endorses this Vanguard ETF for young investors",
+        "url": "https://www.thestreet.com/investing/warren-buffett-endorses-this-vanguard-etf-for-young-investors"
+      },
+      "score": 0.093,
+      "source_class_rank": 42,
+      "source_classes": [
+        "NewsData"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-bb1e0a978739",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.637,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:22:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months. Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although the mood benefits were not statistically significant compared with a placebo.",
+        "title": "Eating blueberries every day may have a surprising effect on your mood",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm"
+      },
+      "score": 0.189,
+      "source_class_rank": 42,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-dd723c6a065d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.631,
+        "gravity": 0.0,
+        "prominence": 0.343
+      },
+      "newest_published_at": "2026-10-18T13:08:50Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "vllm.ai",
+        "summary": "",
+        "title": "Hyper Optimizing Kimi K3 in vLLM",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel"
+      },
+      "score": 0.158,
+      "source_class_rank": 42,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-5a6e71c54124",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.405,
+        "gravity": 0.0,
+        "prominence": 0.773
+      },
+      "newest_published_at": "2026-10-18T01:38:08Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "sciencealert.com",
+        "summary": "",
+        "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+        "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky"
+      },
+      "score": 0.154,
+      "source_class_rank": 43,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-2817c2f097da",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.632,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:10:18Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say.",
+        "title": "Suspects hunted after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.188,
+      "source_class_rank": 43,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f47ee47414fd",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.651
+      },
+      "newest_published_at": "2026-10-18T04:04:58Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "tkgally.github.io",
+        "summary": "Lately I&#x27;ve been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison\u2019s pelican-on-a-bicycle metric.<p>I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks.<p>Claude\u2019s summary of the prompting process and page design is here:<p><a href=\"https:&#",
+        "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+        "url": "https://tkgally.github.io/500-clocks/"
+      },
+      "score": 0.153,
+      "source_class_rank": 44,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-6f5dd177c769",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.631,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T13:09:01Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden connection between red meat and diabetes that goes beyond weight gain.",
+        "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm"
+      },
+      "score": 0.188,
+      "source_class_rank": 44,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-09456a342c0c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.458,
+        "gravity": 0.0,
+        "prominence": 0.554
+      },
+      "newest_published_at": "2026-10-18T04:49:31Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "eli.thegreenplace.net",
+        "summary": "",
+        "title": "Notes on the Complex Roots of Unity",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/"
+      },
+      "score": 0.144,
+      "source_class_rank": 45,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-fc8ae524b15f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.624,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:52:13Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish. Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions. The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior.",
+        "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm"
+      },
+      "score": 0.186,
+      "source_class_rank": 45,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ace717751ed5",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.618,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:36:21Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed. While some communities disappeared or declined, others unexpectedly flourished as survivors migrated, adapted, and found new ways to thrive.",
+        "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm"
+      },
+      "score": 0.184,
+      "source_class_rank": 46,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-816e76fd0953",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.707,
+        "gravity": 0.0,
+        "prominence": 0.156
+      },
+      "newest_published_at": "2026-10-18T16:04:57Z",
+      "primary_source_class": "Hacker News",
+      "representative": {
+        "publisher": "github.com",
+        "summary": "pi-cowboy is an agent orchestrator for Pi(<a href=\"https:&#x2F;&#x2F;pi.dev\" rel=\"nofollow\">https:&#x2F;&#x2F;pi.dev</a>) and Herdr(<a href=\"https:&#x2F;&#x2F;github.com&#x2F;herdrdev&#x2F;herdr\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;herdrdev&#x2F;herdr</a>). Break large jobs into focused subtasks, hand them off to background agents running in parallel, and consolidate the results when they finish. Each agent runs in an isolated copy-on-write Git work-tree, minimising disk overhead.<p",
+        "title": "Show HN: Pi-cowboy \u2013 use Codex, Claude Code, OpenCode as subagents",
+        "url": "https://github.com/electric-dragon-80000v/pi-cowboy"
+      },
+      "score": 0.137,
+      "source_class_rank": 46,
+      "source_classes": [
+        "Hacker News"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c123d6fb577d",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.611,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:19:08Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection. The findings suggest that millimeters in electrode placement could make a major difference in treatment outcomes.",
+        "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm"
+      },
+      "score": 0.182,
+      "source_class_rank": 47,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-86e516daf154",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.605,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:03:18Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501. A previously unseen jet of particles revealed the likely presence of a second black hole, with observations suggesting the pair completes an orbit every 121 days. Depending on their masses, these cosmic giants could merge in as little as 100 years.",
+        "title": "Two monster black holes could collide in just 100 years",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm"
+      },
+      "score": 0.18,
+      "source_class_rank": 48,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-565796843c48",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.604,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:00:57Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+        "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings"
+      },
+      "score": 0.18,
+      "source_class_rank": 49,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-91041b6e4600",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.604,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T12:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Scary stories are more than fun, they're big business.",
+        "title": "If you have the scratch, they have the scares",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares"
+      },
+      "score": 0.18,
+      "source_class_rank": 50,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-01c4351394b4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.585,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T11:09:32Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+        "title": "Watch: Pope thanks well-wishers in first event after cancer surgery",
+        "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.174,
+      "source_class_rank": 51,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-ad928aee507b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T11:01:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "When you need something that\u2019s as mannishly masculinized as you can get for the Man\u2122 in your life, we have you covered.",
+        "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+        "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/"
+      },
+      "score": 0.173,
+      "source_class_rank": 52,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e3c6bb25fc24",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.581,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T11:00:09Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "Indiscriminately targeting those with 10-digit fortunes is arbitrary, misguided and costly",
+        "title": "Not every billionaire is a policy failure",
+        "url": "https://www.ft.com/content/2c8c610b-83f3-4cab-b409-bab69f4c2207?syn-25a6b1a6=1"
+      },
+      "score": 0.173,
+      "source_class_rank": 53,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-eb86dba4f59c",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.578,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T10:52:51Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have uncovered a surprising difference in how male and female skin repairs and renews itself. By tracking individual skin stem cells in living mice for five months, researchers discovered that female cells work together in a highly coordinated way, while male cells operate more independently. This synchronization, driven by sex hormones, helps explain why wounds heal faster in female mice, especially during the first few days.",
+        "title": "Scientists discover that male and female skin play by different rules",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230020.htm"
+      },
+      "score": 0.172,
+      "source_class_rank": 54,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-454c88f9c2d7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.57,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T10:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+        "title": "Data Centers Have a New PR Plan: Your Kid\u2019s Field Trip",
+        "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/"
+      },
+      "score": 0.169,
+      "source_class_rank": 55,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c35e3ac00f74",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.57,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T10:30:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+        "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+        "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/"
+      },
+      "score": 0.169,
+      "source_class_rank": 56,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-669a7c89bad4",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.559,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T10:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
+        "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
+        "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/"
+      },
+      "score": 0.166,
+      "source_class_rank": 57,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-411e119dad4e",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.553,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T09:41:44Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism, the discovery could transform future computing and electronics while opening an entirely new frontier in quantum research.",
+        "title": "Scientists who discovered a third form of magnetism win major physics prize",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm"
+      },
+      "score": 0.164,
+      "source_class_rank": 58,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4352ddd757ab",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Rep. Mar\u00eda Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.",
+        "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump"
+      },
+      "score": 0.16,
+      "source_class_rank": 59,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-4e73f74d9c75",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn\u2019t in the habit of respecting marketing declarations.",
+        "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+        "url": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/"
+      },
+      "score": 0.16,
+      "source_class_rank": 60,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-c164f600b55b",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.538,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T09:00:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Wired",
+        "summary": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
+        "title": "The Best AirPods Cases We\u2019ve Used In Our Day-to-Day Lives (2026)",
+        "url": "https://www.wired.com/story/best-airpods-case/"
+      },
+      "score": 0.16,
+      "source_class_rank": 61,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-381d5c8ddf93",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.516,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T07:56:08Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NPR",
+        "summary": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.",
+        "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base"
+      },
+      "score": 0.154,
+      "source_class_rank": 62,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-3ce6f611d789",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.463,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T05:04:31Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.137,
+      "source_class_rank": 63,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-674cd28441d7",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.445,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T04:05:00Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "NASA",
+        "summary": "APOD Science APOD APOD: 2026 October 18 \u2013\u2026 Today\u2019s APOD Archive Submissions Index Search Calendar RSS Education About Discuss \u00a0 APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula [&#8230;]",
+        "title": "APOD: 2026 October 18 \u2013 Sonified: Eagle Nebula Pillars",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+      },
+      "score": 0.132,
+      "source_class_rank": 64,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-54084e90d0af",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.444,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T04:00:18Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Financial Times",
+        "summary": "New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers",
+        "title": "Russian ships fake locations to appear in two places at once",
+        "url": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1"
+      },
+      "score": 0.132,
+      "source_class_rank": 65,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-562f45e7237f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.443,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T03:55:59Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed antidepressant reduced beneficial bacteria and microbial diversity in laboratory experiments, raising new questions about potential effects on gut health and immunity.",
+        "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm"
+      },
+      "score": 0.132,
+      "source_class_rank": 66,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-e91770347eba",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.435,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T03:27:40Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Scientists have discovered that a protein linked to youth helps protect the brain\u2019s immune cells from age-related decline. Restoring the protein in older mice improved the cells\u2019 ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer\u2019s disease.",
+        "title": "Scientists find a youth protein that helps aging brain cells act young again",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm"
+      },
+      "score": 0.129,
+      "source_class_rank": 67,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-a9eff567bad1",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.428,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T03:02:35Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance treatments for blindness, Alzheimer's, Parkinson's, and other diseases.",
+        "title": "NASA\u2019s SpaceX launch lights up the sky with a giant glowing jellyfish",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm"
+      },
+      "score": 0.127,
+      "source_class_rank": 68,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-f4df3ee40079",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.42,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T02:32:58Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "Archaeologists have discovered 1,200-year-old remains of Peru\u2019s famous hairless dogs at an ancient Wari Empire burial site, including remarkably preserved mummies and puppies buried alongside humans. Their unusual teeth, diets, and burial arrangements reveal surprising clues about how ancient Peruvians cared for, bred, and sometimes discarded their dogs.",
+        "title": "Archaeologists discover 1,200-year-old mummified hairless dog in Peru",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm"
+      },
+      "score": 0.125,
+      "source_class_rank": 69,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-b13374d9bf2f",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.399,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T01:14:24Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "Science Daily",
+        "summary": "El Ni\u00f1o is fueling a dangerous cascade of wildfires across the tropics, with the Amazon rainforest now experiencing widespread burning and scientists warning that the worst may still be ahead. NASA researchers are uncovering dozens of previously undetected fires, suggesting the destruction could be even more extensive than satellite records show.",
+        "title": "NASA discovers hidden fires burning beneath the Amazon rainforest",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261016070633.htm"
+      },
+      "score": 0.119,
+      "source_class_rank": 70,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    },
+    {
+      "article_count": 1,
+      "cluster_id": "cluster-d275065755b0",
+      "metrics": {
+        "coverage": 0.289,
+        "diversity": 0.25,
+        "freshness": 0.388,
+        "gravity": 0.0,
+        "prominence": 0.5
+      },
+      "newest_published_at": "2026-10-18T00:29:58Z",
+      "primary_source_class": "RSS",
+      "representative": {
+        "publisher": "BBC News",
+        "summary": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone.",
+        "title": "Braam! How the music in The Traitors plays with your emotions",
+        "url": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss"
+      },
+      "score": 0.115,
+      "source_class_rank": 71,
+      "source_classes": [
+        "RSS"
+      ],
+      "supporting_articles": []
+    }
+  ],
+  "coverage": {
+    "completed_source_classes": [
+      "gdelt",
+      "hacker_news",
+      "newsdata",
+      "rss"
+    ],
+    "enabled_source_classes": [
+      "rss",
+      "gdelt",
+      "hacker_news",
+      "newsdata"
+    ],
+    "missing_source_classes": []
+  },
+  "generated_at": "2026-10-19T01:06:05.582322Z",
+  "metrics": {
+    "published_clusters": 159,
+    "retained_articles": 166
+  },
+  "report_date": "2026-10-18",
+  "status": "READY",
+  "version": 2
+}
