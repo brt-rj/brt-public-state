@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T10:39:42.760820+00:00",
+  "generated_at": "2026-10-25T11:03:34.034578+00:00",
   "ok": true,
   "latest_session": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "type": "cardio",
     "status": "completed",
     "exercises": [
@@ -16,10 +16,10 @@
     ]
   },
   "acwr": {
-    "asOfDate": "2026-10-24",
-    "acute": 13,
-    "chronic": 17.5,
-    "acwr": 0.74,
+    "asOfDate": "2026-10-25",
+    "acute": 14,
+    "chronic": 17.75,
+    "acwr": 0.79,
     "deloadFlag": false
   },
   "profile_url": "https://methodos.barati.dev"
