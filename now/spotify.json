@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T11:03:32.519683+00:00",
+  "generated_at": "2026-10-26T12:36:42.280029+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Wrap Your Troubles In Dreams",
+    "artist": "Nico",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+    "url": "https://open.spotify.com/track/2QFXxtnapOOKMPMeyOsJ3z",
+    "is_playing": true
+  },
   "recently_played": [
     {
-      "name": "Genghis Khan",
+      "name": "Somewhere There's A Feather",
       "artist": "Nico",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273e32a28bc829147617f93a2cf",
-      "url": "https://open.spotify.com/track/6UNN3CGle2yzLxyk2bHMrR",
-      "played_at": "2026-10-25T08:55:57.338Z"
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/4van6ewQpKaQKQtKtlXMGJ",
+      "played_at": "2026-10-26T12:33:35.639Z"
     },
     {
-      "name": "Facing The Wind",
+      "name": "I'll Keep It With Mine",
       "artist": "Nico",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273447d769e73a97b8b4339bf8e",
-      "url": "https://open.spotify.com/track/1ICUxzIpdZ0Lyt4YzqHVJN",
-      "played_at": "2026-10-25T08:23:43.254Z"
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi",
+      "played_at": "2026-10-26T12:31:19.044Z"
     },
     {
-      "name": "My Funny Valentine",
+      "name": "Chelsea Girls",
       "artist": "Nico",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273ed7529b0565fa9e9974fd115",
-      "url": "https://open.spotify.com/track/2OSSwwLxu2fWWkLQEKPAeQ",
-      "played_at": "2026-10-25T08:18:48.718Z"
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/6LQ3yf5WVLOCmtiYWewfWZ",
+      "played_at": "2026-10-26T12:28:01.365Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
