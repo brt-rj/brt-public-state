@@ -1,13 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T11:53:32.390184+00:00",
-  "ok": true,
-  "book": {
-    "title": "Never Whistle at Night: An Indigenous Dark Fiction Anthology",
-    "author": "Shane Hawk",
-    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685990593l/75293507.jpg",
-    "url": "https://www.goodreads.com/review/show/9002992682?utm_medium=api&utm_source=rss",
-    "added_at": "Mon, 05 Oct 2026 20:01:51 -0700"
-  },
-  "profile_url": "https://www.goodreads.com/user/show/27569533"
+  "generated_at": "2026-10-28T12:28:44.893399+00:00",
+  "ok": false,
+  "error": "Client error '404 Not Found' for url 'https://www.goodreads.com/review/list_rss/27569533?shelf=currently-reading'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
 }
