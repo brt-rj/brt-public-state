@@ -1,7 +1,13 @@
 {
   "chart": {
     "dimension": "referrer_utm",
-    "series": [],
+    "series": [
+      {
+        "count": 2,
+        "label": "barati.dev",
+        "source_type": "referrer"
+      }
+    ],
     "type": "breakdown"
   },
   "coverage": {
@@ -12,23 +18,30 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-10-30T00:00:03.279425Z",
-    "last_success_at": "2026-10-29T00:00:03.181899Z"
+    "last_attempt_at": "2026-10-30T00:07:09.695634Z",
+    "last_success_at": "2026-10-30T00:07:09.695634Z"
   },
   "kpis": {
-    "avg_observed_session_seconds": null,
-    "demo_launches_total": 0,
-    "outbound_clicks": 0,
-    "pageviews": 0,
-    "sessions": 0
+    "avg_observed_session_seconds": 4.6,
+    "demo_launches_total": 1,
+    "outbound_clicks": 1,
+    "pageviews": 2,
+    "sessions": 1
   },
   "ok": true,
-  "status": "stale",
-  "table": [],
-  "updated_at": "2026-10-29T00:00:03.181899Z",
+  "status": "fresh",
+  "table": [
+    {
+      "card_clicks": 1,
+      "demo_launches": 1,
+      "project": "no-flab-brief",
+      "project_title": "No-Flab Brief"
+    }
+  ],
+  "updated_at": "2026-10-30T00:07:09.695634Z",
   "window": {
     "days": 30,
-    "end_at": "2026-10-29T00:00:00Z",
-    "start_at": "2026-09-29T00:00:00Z"
+    "end_at": "2026-10-30T00:00:00Z",
+    "start_at": "2026-09-30T00:00:00Z"
   }
 }
