@@ -18,8 +18,8 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-11-04T00:00:19.882152Z",
-    "last_success_at": "2026-11-03T00:00:03.752387Z"
+    "last_attempt_at": "2026-11-04T00:07:25.049241Z",
+    "last_success_at": "2026-11-04T00:07:25.049241Z"
   },
   "kpis": {
     "avg_observed_session_seconds": 4.6,
@@ -29,7 +29,7 @@
     "sessions": 1
   },
   "ok": true,
-  "status": "stale",
+  "status": "fresh",
   "table": [
     {
       "card_clicks": 1,
@@ -38,10 +38,10 @@
       "project_title": "No-Flab Brief"
     }
   ],
-  "updated_at": "2026-11-03T00:00:03.752387Z",
+  "updated_at": "2026-11-04T00:07:25.049241Z",
   "window": {
     "days": 30,
-    "end_at": "2026-11-03T00:00:00Z",
-    "start_at": "2026-10-04T00:00:00Z"
+    "end_at": "2026-11-04T00:00:00Z",
+    "start_at": "2026-10-05T00:00:00Z"
   }
 }
