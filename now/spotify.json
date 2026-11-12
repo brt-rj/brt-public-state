@@ -1,29 +1,35 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T13:54:20.607972+00:00",
+  "generated_at": "2026-11-12T14:55:25.401919+00:00",
   "ok": true,
-  "now_playing": null,
+  "now_playing": {
+    "name": "Eulogy To Lenny Bruce",
+    "artist": "Nico",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+    "url": "https://open.spotify.com/track/42BxIN7UJZA1BdwrLndtmF",
+    "is_playing": true
+  },
   "recently_played": [
     {
-      "name": "Arnold",
-      "artist": "Clint Mansell, Kronos Quartet",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27363e878a2cbc968d18ab11c9e",
-      "url": "https://open.spotify.com/track/7MRRjvJordQFQx71EWXfpx",
-      "played_at": "2026-11-11T13:51:56.001Z"
+      "name": "Somewhere There's A Feather",
+      "artist": "Nico",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/4van6ewQpKaQKQtKtlXMGJ",
+      "played_at": "2026-11-12T14:49:36.766Z"
     },
     {
-      "name": "Dreams",
-      "artist": "Clint Mansell, Kronos Quartet",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27363e878a2cbc968d18ab11c9e",
-      "url": "https://open.spotify.com/track/61M5aGIbLweLyfzdwiFbou",
-      "played_at": "2026-11-11T13:41:12.473Z"
+      "name": "I'll Keep It With Mine",
+      "artist": "Nico",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/5yeK60qK7eN7UuCvfu8hvi",
+      "played_at": "2026-11-12T14:47:20.168Z"
     },
     {
-      "name": "Ghosts-Falling",
-      "artist": "Clint Mansell, Kronos Quartet",
-      "album_art_url": "https://i.scdn.co/image/ab67616d0000b27363e878a2cbc968d18ab11c9e",
-      "url": "https://open.spotify.com/track/7vWqh2jf9plrPZMaGk6AlW",
-      "played_at": "2026-11-11T13:40:09.604Z"
+      "name": "Chelsea Girls",
+      "artist": "Nico",
+      "album_art_url": "https://i.scdn.co/image/ab67616d0000b273b1235c0092f6658466e96819",
+      "url": "https://open.spotify.com/track/6LQ3yf5WVLOCmtiYWewfWZ",
+      "played_at": "2026-11-12T14:43:49.700Z"
     }
   ],
   "profile_url": "https://open.spotify.com"
