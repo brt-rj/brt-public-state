@@ -1,6 +1,12 @@
 {
   "briefs": [
     {
+      "generated_at": "2026-11-12T01:06:50.878008Z",
+      "report_date": "2026-11-11",
+      "retained_articles": 233,
+      "status": "READY"
+    },
+    {
       "generated_at": "2026-11-11T01:06:45.116503Z",
       "report_date": "2026-11-10",
       "retained_articles": 242,
@@ -637,6 +643,6 @@
       "status": "PARTIAL DATA"
     }
   ],
-  "latest_report_date": "2026-11-10",
+  "latest_report_date": "2026-11-11",
   "version": 1
 }
