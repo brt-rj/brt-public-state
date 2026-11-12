@@ -18,7 +18,7 @@
   },
   "error": null,
   "freshness": {
-    "last_attempt_at": "2026-11-11T00:00:02.032987Z",
+    "last_attempt_at": "2026-11-12T00:00:02.825906Z",
     "last_success_at": "2026-11-11T00:00:02.032987Z"
   },
   "kpis": {
@@ -29,7 +29,7 @@
     "sessions": 1
   },
   "ok": true,
-  "status": "fresh",
+  "status": "stale",
   "table": [
     {
       "card_clicks": 1,
