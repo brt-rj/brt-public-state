@@ -1,8 +1,8 @@
 {
-  "brt_infra": "dev",
-  "brt_datagen": "dev",
-  "brt_airflow": "dev",
-  "brt_dbt": "dev",
-  "brt_analytics": "dev",
-  "brt_train": "dev"
+  "brt_infra": "main",
+  "brt_datagen": "main",
+  "brt_airflow": "main",
+  "brt_dbt": "main",
+  "brt_analytics": "main",
+  "brt_train": "main"
 }
